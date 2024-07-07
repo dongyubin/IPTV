@@ -30,25 +30,28 @@
 
 直播源可以用于电脑、手机、电视盒子使用。（只做整理，未测试，测试的可以留言效果，分享给有需要的人）
 
-| IPTV                                                         | 资                                                           | 源                                                           |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [收集来自世界各地的5000多个公共IPTV频道](https://github.com/iptv-org/iptv)：链接格式 | [国内直播源](https://myernestlu.github.io/zby.txt)           | [直播源列表](http://epg.51zmt.top:8000/)：主要电视节目       |
-| [直播源相关资源汇总 IPTV、M3U](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8#%E5%B7%A5%E5%85%B7)（最后更新时间：2023年） | [香港高清电视频道](https://maoy.cc/iptvhk)                   | [全球电视频道IPTV直播源](https://maoy.cc/iptv)               |
-| [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)：Ftindy精选、BigBigGrandG、APTV、YanG | [IPTVindex](https://iptvindex.com/)：电视直播、影视点播 、电脑软件（2023年8月8日） | [fanmingming/live: ✯ 一个国内可直连的直播源分享项目 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 ](https://github.com/fanmingming/live) |
-| [m3u: 直播源](https://github.com/YanG-1989/m3u)              | [IPTV](https://github.com/joevess/IPTV)： IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新 | [Rivens7/Livelist](https://github.com/Rivens7/Livelist): IPTV-ipv6直播源同步及常看直播,基于Moexin/IPTV项目修改,国内直播源同步fanmingming/live |
+| IPTV资源库                                                   | IPTV库介绍                                                   | 最后更新时间 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv)            | 收集世界各地公开提供的 IPTV（互联网协议电视）频道。          | 2024         |
+| [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U                             | 2023         |
+| [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)        | 包含Ftindy精选、BigBigGrandG、APTV、YanG、EPG节目单          | 2024         |
+| [m3u](https://github.com/YanG-1989/m3u)                      | 直播源                                                       | 2024         |
+| [IPTV](https://github.com/joevess/IPTV)                      | 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 | 2024         |
+| [Rivens7/Livelist](https://github.com/Rivens7/Livelist)      | IPTV-ipv6直播源同步及常看直播                                | 2024         |
+| [vbskycn/iptv](https://github.com/vbskycn/iptv)              | iptv最新可用直播源iptv4/iptv6                                | 2024         |
+|                                                              |                                                              |              |
+| [Moexin/IPTV: MyIPTV](https://github.com/Moexin/IPTV)        | 包含成人源                                                   | 2024         |
+| [TVzhiboyuandaka/zhiboyuandaka.github.io](https://github.com/TVzhiboyuandaka/zhiboyuandaka.github.io) | 一些自己整合的直播源                                         | 2022         |
+| [wcb1969/iptv](https://github.com/wcb1969/iptv)              | 一些自己整合的直播源                                         | 2023         |
+|                                                              |                                                              |              |
+| [EPG列表](http://epg.51zmt.top:8000/)                        | 提供EPG的频道列表，每日与EPG同步更新                         | 2024         |
+|                                                              |                                                              |              |
+| [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) | 与 IPTV 相关的资源精选列表                                   | 2024         |
 
-```sh
-# 检测日期：2024年5月11日  总：384 在线：80 离线：304
-https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
-# 检测日期：2024年5月11日  总：224 在线：44 离线：180
-https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
+### 国内直播源
 
-# 其他直播源（需要富强导入）
-# 检测日期：2024年5月11日  总：322 在线：44 离线：180
-https://raw.githubusercontent.com/TVzhiboyuandaka/zhiboyuandaka.github.io/main/20220910ZQ.m3u
+- `https://myernestlu.github.io/zby.txt`
 
-http://www.lysvc.cc/live_source/1696656601/8382f1bdf4.m3u
-```
 
 ### 中国(台港澳) IPTV直播源M3U
 
