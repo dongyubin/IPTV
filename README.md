@@ -30,25 +30,27 @@
 
 直播源可以用于电脑、手机、电视盒子使用。（只做整理，未测试，测试的可以留言效果，分享给有需要的人）
 
-| IPTV                                                         | 资                                                           | 源                                                           |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [收集来自世界各地的5000多个公共IPTV频道](https://github.com/iptv-org/iptv)：链接格式 | [国内直播源](https://myernestlu.github.io/zby.txt)           | [直播源列表](http://epg.51zmt.top:8000/)：主要电视节目       |
-| [直播源相关资源汇总 IPTV、M3U](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8#%E5%B7%A5%E5%85%B7)（最后更新时间：2023年） | [香港高清电视频道](https://maoy.cc/iptvhk)                   | [全球电视频道IPTV直播源](https://maoy.cc/iptv)               |
-| [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)：Ftindy精选、BigBigGrandG、APTV、YanG | [IPTVindex](https://iptvindex.com/)：电视直播、影视点播 、电脑软件（2023年8月8日） | [fanmingming/live: ✯ 一个国内可直连的直播源分享项目 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 ](https://github.com/fanmingming/live) |
-| [m3u: 直播源](https://github.com/YanG-1989/m3u)              | [IPTV](https://github.com/joevess/IPTV)： IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新 | [Rivens7/Livelist](https://github.com/Rivens7/Livelist): IPTV-ipv6直播源同步及常看直播,基于Moexin/IPTV项目修改,国内直播源同步fanmingming/live |
+| IPTV资源库                                                   | IPTV库介绍                                                   | 最后更新时间 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv)            | 收集世界各地公开提供的 IPTV（互联网协议电视）频道。          | 2024         |
+| [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U                             | 2023         |
+| [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)        | 包含Ftindy精选、BigBigGrandG、APTV、YanG、EPG节目单          | 2024         |
+| [m3u](https://github.com/YanG-1989/m3u)                      | 直播源                                                       | 2024         |
+| [IPTV](https://github.com/joevess/IPTV)                      | 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 | 2024         |
+| [Rivens7/Livelist](https://github.com/Rivens7/Livelist)      | IPTV-ipv6直播源同步及常看直播                                | 2024         |
+| [vbskycn/iptv](https://github.com/vbskycn/iptv)              | iptv最新可用直播源iptv4/iptv6                                | 2024         |
+|                                                              |                                                              |              |
+| [Moexin/IPTV: MyIPTV](https://github.com/Moexin/IPTV)        | 包含成人源                                                   | 2024         |
+| [TVzhiboyuandaka/zhiboyuandaka.github.io](https://github.com/TVzhiboyuandaka/zhiboyuandaka.github.io) | 一些自己整合的直播源                                         | 2022         |
+| [wcb1969/iptv](https://github.com/wcb1969/iptv)              | 一些自己整合的直播源                                         | 2023         |
+|                                                              |                                                              |              |
+| [EPG列表](http://epg.51zmt.top:8000/)                        | 提供EPG的频道列表，每日与EPG同步更新                         | 2024         |
+|                                                              |                                                              |              |
+| [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) | 与 IPTV 相关的资源精选列表                                   | 2024         |
 
-```sh
-# 检测日期：2024年5月11日  总：384 在线：80 离线：304
-https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
-# 检测日期：2024年5月11日  总：224 在线：44 离线：180
-https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
+### 国内直播源
 
-# 其他直播源（需要富强导入）
-# 检测日期：2024年5月11日  总：322 在线：44 离线：180
-https://raw.githubusercontent.com/TVzhiboyuandaka/zhiboyuandaka.github.io/main/20220910ZQ.m3u
-
-http://www.lysvc.cc/live_source/1696656601/8382f1bdf4.m3u
-```
+- `https://myernestlu.github.io/zby.txt`
 
 ### 中国(台港澳) IPTV直播源M3U
 
@@ -184,9 +186,10 @@ http://epg.aptvapp.com/xml
 
 [下载地址](https://www.wangdu.site/software/av-read/339.html)
 
-1. mytv：电视直播软件
-2. 野火直播TV：电视直播软件
-3. 全网影视：TVBox修改版带数据源
+1. 野火直播TV：电视直播软件
+2. 电视家：内置直播源
+3. 极悦直播：内置直播源
+4. 全网影视：TVBox修改版带数据源
    - 启动后，需要手动激活"仓库"。
    - 激活操作：多仓版本点击【配置】，在出现的窗口中点击"确定"，选择"仓库"；单仓版本直接点击【线路】或【主页】
    - 关于直播：在进入【直播】后，按菜单键，选择右边的【直播地址】，则会出现多个接口的切换选择。
@@ -200,20 +203,23 @@ http://epg.aptvapp.com/xml
 | 软件名称                   | 支持系统                                | 如何打开M3U文件                                     |
 | -------------------------- | --------------------------------------- | --------------------------------------------------- |
 | IPTV / HLS player          | Chrome插件                              |                                                     |
-| NiceTV                     | Android、iOS（内置订阅套餐）            |                                                     |
-| 我的电视（MY TV）👍🏻        | Android                                 |                                                     |
+| 电视直播懒人推荐↓          |                                         |                                                     |
 | IPTV Pro                   | Android                                 |                                                     |
+| 影视仓库👍🏻                 | Win、Mac、TV、Android、iOS              |                                                     |
+| 电视家                     | Android                                 | 内置直播源                                          |
+| 极悦直播                   | Android                                 | 内置直播源                                          |
+| m3u播放软件↓               |                                         |                                                     |
 | VideoLAN                   | Win、Mac、Linux、Android、iOS           | 右击文件，使用软件打开即可                          |
 | Kodi                       | Win、Mac、Linux、Android👍🏻、iOS、树莓派 | 右击文件，使用软件打开即可                          |
 | PotPlayer👍🏻                | Win                                     | 右击文件，使用软件打开即可                          |
-| 黑鸟播放器                 | Win                                     | 右击文件，使用软件打开即可（打开软件，拖入也可以）  |
 | IINA👍🏻                     | Mac                                     | 右击文件，使用软件打开即可                          |
+| 黑鸟播放器                 | Win                                     | 右击文件，使用软件打开即可（打开软件，拖入也可以）  |
 | Cloud Stream IPTV Player   | iOS                                     | 传文件到手机，右下角 + 号，Cloud 选择文件创建即可。 |
 | APTV（高级版：iCloud同步） | iOS、Mac、watchOS                       | 添加配置，输入订阅链接保存即可                      |
 | ntPlayer                   | iOS                                     | 右上角添加订阅                                      |
-| 小电视                     | Android                                 | 内置                                                |
 | TiviMate、DIYP             | Android                                 |                                                     |
 | GoTV                       | iOS                                     |                                                     |
+| 电视直播和影视点播         |                                         |                                                     |
 | TVBox                      | Android                                 |                                                     |
 
 ### IPTV / HLS player
@@ -229,34 +235,31 @@ http://epg.aptvapp.com/xml
 - 为喜爱的频道添加书签
 - 所有频道都分为不同的类别和国家组
 
-### NiceTV
-
-[NiceTV](https://apps.apple.com/us/app/nicetv-iptv-video-player/id6473073296)（iOS 里面有订阅套餐）、[NiceTV - IPTV & 网络电视](https://apkpure.com/cn/nicetv-iptv-video-player/com.goodiptv.app)（Android）
-
-- 探索全新的电视观看方式：欢迎来到 NiceTV，一款专为直播爱好者设计的IPTV电视播放器。体验前所未有的观看自由，让您的电视时间更加丰富多彩。
-- 无限制添加播放源：多元化直播内容：支持无限制添加m3u播放源，轻松访问广泛的电视频道。
-- 个性化定制：支持单独添加m3u8链接，打造个人化的频道列表。
-- 简单易用，一触即达
-- 直观界面：用户友好的界面设计，让您轻松找到所爱内容。
-- 快速收藏：一键收藏您最爱的频道，随时回看。
-- 灵活的观看选项
-- 电视直播：实时观看各类电视节目。
-- 节目回看：错过了最爱的节目？不用担心，回看功能让您随时追上精彩。(需要直播源支持才可以哦)
-- 多种播放模式：支持投屏、背景播放和画中画功能，满足您的各种观看需求。
-- 随身携带的电视：不论您在家中、路上还是任何
-
-### 我的电视（MY TV）
-
-[我的电视（MY TV）](https://lyrics.run/my-tv.html)（[源码地址](https://github.com/lizongying/my-tv)）：电视直播软件
-
-- 僅支持安卓4.2及以上版本
-- 不支持x86架構
-
 ### IPTV Pro 
 
 IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、多媒体、通讯等技术于一体，向家庭用户提供包括数字电视在内的多种交互式服务的崭新技术。它能够很好地适应当今网络飞速发展的趋势，充分有效地利用网络资源。让您可以从 Internet 服务提供商处观看 IPTV，或从网络上的任何其他来源观看免费的直播电视频道。
 
 [IPTV Pro v8.0.1 for Android 解锁专业版 + 全球直播源](https://fk.wwkejishe.top/buy/18)
+
+### 我的电视
+
+[我的电视](https://fk.wwkejishe.top/buy/18) : 使用Android原生开发的电视直播软件
+
+### my-tv-apk
+
+[my-tv-apk](https://fk.wwkejishe.top/buy/18) 在原来的 mytv 修复了一些问题的新版本，请卸载原来的 mytv 再使用此版本。
+
+### 电视家
+
+[电视家](https://fk.wwkejishe.top/buy/18)app(电视家TV版)是一款智能电视及机顶盒电视直播软件，拥有大量稳定的高清频道，数字频道，经典电影专栏等。电视家电视版2024，支持直播时移，直播回看预约，高清/超清直播源切换，可以自建频道自定义分享码.
+
+![电视家](https://b2.wwkejishe.top/WP-CDN-02/2024/202407071031868.webp)
+
+### 极悦直播
+
+[极悦直播](https://fk.wwkejishe.top/buy/18)可免费畅享央视、卫视和地方台，还有精彩影视作品。拥有2000+频道！无论是综艺、体育、热门影视等，应有尽有，您想看的都可以在这里找到！播放流畅稳定，超清影院级画质，给您带来非凡观看体验！
+
+![极悦直播](https://b2.wwkejishe.top/WP-CDN-02/2024/202407071032643.webp)
 
 ### VideoLAN
 
@@ -350,6 +353,51 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 [影视TV](https://fk.wwkejishe.top/buy/18) 是一款基于猫影视开源的CatVodTVJarLoader项目，从零开始写。非常简洁清爽且功能强大。界面上采用 Android TV Leanback 架构，播放器采用最新版EXO及IJK开源专案的智能电视软件，使用体验感舒适，支持电视直播功能，界面非常简洁，没有花里胡哨的内容，用户只需要配置相关地址（接口）就可以使用。
 
 ![影视TV](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202407011534612.webp)
+
+## 不推荐的播放客户端
+
+以下为个人测试过不太好用的播放客户端
+
+### NiceTV
+
+[NiceTV](https://apps.apple.com/us/app/nicetv-iptv-video-player/id6473073296)（iOS 里面有订阅套餐）、[NiceTV - IPTV & 网络电视](https://apkpure.com/cn/nicetv-iptv-video-player/com.goodiptv.app)（Android，不推荐，导入源不能播放）
+
+- 探索全新的电视观看方式：欢迎来到 NiceTV，一款专为直播爱好者设计的IPTV电视播放器。体验前所未有的观看自由，让您的电视时间更加丰富多彩。
+- 无限制添加播放源：多元化直播内容：支持无限制添加m3u播放源，轻松访问广泛的电视频道。
+- 个性化定制：支持单独添加m3u8链接，打造个人化的频道列表。
+- 简单易用，一触即达
+- 直观界面：用户友好的界面设计，让您轻松找到所爱内容。
+- 快速收藏：一键收藏您最爱的频道，随时回看。
+- 灵活的观看选项
+- 电视直播：实时观看各类电视节目。
+- 节目回看：错过了最爱的节目？不用担心，回看功能让您随时追上精彩。(需要直播源支持才可以哦)
+- 多种播放模式：支持投屏、背景播放和画中画功能，满足您的各种观看需求。
+- 随身携带的电视：不论您在家中、路上还是任何
+
+### 我的电视（不推荐）
+
+[我的电视（MY TV）](https://lyrics.run/my-tv.html)（[源码地址](https://github.com/lizongying/my-tv)）：电视直播软件
+
+- 僅支持安卓4.2及以上版本
+- 不支持x86架構
+
+### my-tv-0（不推荐）
+
+[my-tv-0](https://github.com/lizongying/my-tv-0): 电视网络视频播放软件，可以自定义视频源
+
+![流畅看电视可自定义源 My-Tv-0我的電視·〇 v1.2.6](https://b2.wwkejishe.top/WP-CDN-02/2024/202407020913704.webp)
+
+### 影视TV（不推荐）
+
+[影视TV](https://yangxiaoge.github.io/) 是一款基于猫影视开源的CatVodTVJarLoader项目，从零开始写。非常简洁清爽且功能强大。界面上采用 Android TV Leanback 架构，播放器采用最新版EXO及IJK开源专案的智能电视软件，使用体验感舒适，支持电视直播功能，界面非常简洁，没有花里胡哨的内容，用户只需要配置相关地址（接口）就可以使用。
+
+### 猫影视（不推荐）
+
+猫影视是一款可以直接观看各种电视剧资源的电视盒子app，当下流行的影视TV、TVbox、宝盒、影视仓、小苹果等等一众换壳软件都是由他而来。现猫影视已发布支持iOS、iPad，Win，Mac以及Android的全新版本。（源码地址：[catvod/CatVodOpen](https://github.com/catvod/CatVodOpen/releases)）
+
+### 小电视（不推荐）
+
+小电视 里面包含央、卫、体育、IPTV以及地方台共计 2851 个频道资源，支持搜索、投屏等功能。
 
 ## TVBox直播源
 
