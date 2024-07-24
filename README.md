@@ -1,6 +1,6 @@
 # IPTV 直播源、TV查看软件
 
-![IPTV直播源&工具](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/uPic/2022091029.webp)
+![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
 ## IPTV图标库
 
@@ -16,7 +16,7 @@
 
 [点击购买](https://fk.wwkejishe.top/buy/18)（查看下图大纲展示，买断制，包更新）
 
-![2024最全IPTV电视直播源及工具大纲展示](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406061423166.png)
+![2024最全IPTV电视直播源及工具大纲展示](https://b2.wwkejishe.top/WP-CDN-02/2024/202406061423166.png)
 
 > ⚠️温馨提示：
 >
@@ -153,7 +153,7 @@ https://mashaf1.cn/F1.m3u
 
 [搭建教程](https://pixman.io/topics/17)：`https://hub.docker.com/r/pixman/pixman`（Docker镜像拉取不下来，请使用：[国内DockerHub镜像加速器](https://www.wangdu.site/course/2109.html)）
 
-![支持的直播源](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406281529691.png)
+![支持的直播源](https://b2.wwkejishe.top/WP-CDN-02/2024/202406281529691.png)
 
 ## 电视直播源搜索
 
@@ -187,17 +187,75 @@ http://epg.aptvapp.com/xml
 
 [下载地址](https://www.wangdu.site/software/av-read/339.html)
 
+### 看电视
+
 1. 野火直播TV：电视直播软件
 2. 电视家：内置直播源
 3. 极悦直播：内置直播源
-4. 全网影视：TVBox修改版带数据源
+
+### 看电影
+
+1. 全网影视：TVBox修改版带数据源
    - 启动后，需要手动激活"仓库"。
    - 激活操作：多仓版本点击【配置】，在出现的窗口中点击"确定"，选择"仓库"；单仓版本直接点击【线路】或【主页】
    - 关于直播：在进入【直播】后，按菜单键，选择右边的【直播地址】，则会出现多个接口的切换选择。
    - 随机仓的切换：进入应用设置，点击存储空间，然后清除数据，重新打开影视仓，点击【配置】确定，换新的仓库。
    - [宝盒版]内置应用，首次启动需点击"导入"接口资源。
 
-## 播放工具
+## 自带源播放工具
+
+| 软件名称 | 支持系统 | 如何打开M3U文件 |
+| -------- | -------- | --------------- |
+| 电视家   | Android  | 内置直播源      |
+| 极悦直播 | Android  | 内置直播源      |
+
+### 我的电视
+
+[我的电视](https://fk.wwkejishe.top/buy/18) : 使用Android原生开发的电视直播软件
+
+### my-tv-apk
+
+[my-tv-apk](https://fk.wwkejishe.top/buy/18) 在原来的 mytv 修复了一些问题的新版本，请卸载原来的 mytv 再使用此版本。
+
+### 我的电视 my-tv 修改版
+
+[我的电视 my-tv 2.1.8-19 (电视直播) 修改版](https://fk.wwkejishe.top/buy/18) 是一款免费无广告的智能电视及机顶盒电视直播软件APP，我的tv电视版同步央视卫视高清直播和地方卫视频道。我的电视tv电视版支持直播时移/直播预约/回看功能,高清/超清直播源切换。
+
+我的电视 my-tv 是一款安卓电视直播软件，内置直播源。频道不多，只有央视、卫视，国际频道只有央视所有的CGTN，没有广告和购物台，可以放心给父母或孩子观看。
+
+### 8KIPTV直播
+
+[8KIPTV直播](https://fk.wwkejishe.top/buy/18)是一款4K、8K的解码测试壳，已经内置了央视的4K和8K播放线路，可以直接选择线路播放，还支持自备测试源链接，也就是你有好用的源，可以直接用这个播放。
+
+### 电视家
+
+[电视家](https://fk.wwkejishe.top/buy/18)app(电视家TV版)是一款智能电视及机顶盒电视直播软件，拥有大量稳定的高清频道，数字频道，经典电影专栏等。电视家电视版2024，支持直播时移，直播回看预约，高清/超清直播源切换，可以自建频道自定义分享码.
+
+![电视家](https://b2.wwkejishe.top/WP-CDN-02/2024/202407071031868.webp)
+
+### 极悦直播
+
+[极悦直播](https://fk.wwkejishe.top/buy/18)可免费畅享央视、卫视和地方台，还有精彩影视作品。拥有2000+频道！无论是综艺、体育、热门影视等，应有尽有，您想看的都可以在这里找到！播放流畅稳定，超清影院级画质，给您带来非凡观看体验！
+
+![极悦直播](https://b2.wwkejishe.top/WP-CDN-02/2024/202407071032643.webp)
+
+### 秒看电视TV版
+
+[秒看电视TV版 v9.2.17](https://fk.wwkejishe.top/buy/18) 是一款功能强大、完全免费的电视直播软件，同样适配安卓手机，内置了非常多的的电视直播服务频道：央视、卫视、地方、少儿、体育、国际、地理、4K、数字、纪录、新闻、电台、课堂、MTV、影视轮播等直播频道。
+
+### 高清电视直播App
+
+[高清电视直播App](https://fk.wwkejishe.top/buy/18)是一款支持搭载Android系统的智能电视、智能播放器等设备的直播电视收看应用，由国内耕耘数字电视多年的专业团队打造。使用遥控器操作快捷方便，直播节目源多为P2P高清源，清晰稳定，专人维护。
+
+![高清电视直播App](https://b2.wwkejishe.top/WP-CDN-02/2024/202407161121064.webp)
+
+### 小苹果影视TV版
+
+[小苹果影视APP(影视聚合软件)](https://fk.wwkejishe.top/buy/18) 是一款免费的机顶盒子影视软件，智能搜索全网影视资源，免费观看院线大片，付费影视等高清视频，小苹果影视TV版聚合全网影视站，新小苹果影视盒子版影视聚合软件提供多个站源切换。
+
+![小苹果影视TV版](https://b2.wwkejishe.top/WP-CDN-02/2024/202406281405211.webp)
+
+## 需直播源播放工具
 
 可以用于来看IPTV、M3U、M3U8 格式的软件，手机用户最好
 
@@ -207,8 +265,6 @@ http://epg.aptvapp.com/xml
 | 电视直播懒人推荐↓          |                                         |                                                     |
 | IPTV Pro                   | Android                                 |                                                     |
 | 影视仓库👍🏻                 | Win、Mac、TV、Android、iOS              |                                                     |
-| 电视家                     | Android                                 | 内置直播源                                          |
-| 极悦直播                   | Android                                 | 内置直播源                                          |
 | m3u播放软件↓               |                                         |                                                     |
 | VideoLAN                   | Win、Mac、Linux、Android、iOS           | 右击文件，使用软件打开即可                          |
 | Kodi                       | Win、Mac、Linux、Android👍🏻、iOS、树莓派 | 右击文件，使用软件打开即可                          |
@@ -242,36 +298,6 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 [IPTV Pro v8.0.1 for Android 解锁专业版 + 全球直播源](https://fk.wwkejishe.top/buy/18)
 
-### 我的电视
-
-[我的电视](https://fk.wwkejishe.top/buy/18) : 使用Android原生开发的电视直播软件
-
-### my-tv-apk
-
-[my-tv-apk](https://fk.wwkejishe.top/buy/18) 在原来的 mytv 修复了一些问题的新版本，请卸载原来的 mytv 再使用此版本。
-
-### 我的电视 my-tv 修改版
-
-[我的电视 my-tv 2.1.8-19 (电视直播) 修改版](https://fk.wwkejishe.top/buy/18) 是一款免费无广告的智能电视及机顶盒电视直播软件APP，我的tv电视版同步央视卫视高清直播和地方卫视频道。我的电视tv电视版支持直播时移/直播预约/回看功能,高清/超清直播源切换。
-
-我的电视 my-tv 是一款安卓电视直播软件，内置直播源。频道不多，只有央视、卫视，国际频道只有央视所有的CGTN，没有广告和购物台，可以放心给父母或孩子观看。
-
-### 电视家
-
-[电视家](https://fk.wwkejishe.top/buy/18)app(电视家TV版)是一款智能电视及机顶盒电视直播软件，拥有大量稳定的高清频道，数字频道，经典电影专栏等。电视家电视版2024，支持直播时移，直播回看预约，高清/超清直播源切换，可以自建频道自定义分享码.
-
-![电视家](https://b2.wwkejishe.top/WP-CDN-02/2024/202407071031868.webp)
-
-### 极悦直播
-
-[极悦直播](https://fk.wwkejishe.top/buy/18)可免费畅享央视、卫视和地方台，还有精彩影视作品。拥有2000+频道！无论是综艺、体育、热门影视等，应有尽有，您想看的都可以在这里找到！播放流畅稳定，超清影院级画质，给您带来非凡观看体验！
-
-![极悦直播](https://b2.wwkejishe.top/WP-CDN-02/2024/202407071032643.webp)
-
-### 秒看电视TV版
-
-[秒看电视TV版 v9.2.17](https://fk.wwkejishe.top/buy/18) 是一款功能强大、完全免费的电视直播软件，同样适配安卓手机，内置了非常多的的电视直播服务频道：央视、卫视、地方、少儿、体育、国际、地理、4K、数字、纪录、新闻、电台、课堂、MTV、影视轮播等直播频道。
-
 ### VideoLAN
 
 [VideoLAN](https://www.videolan.org/) 是一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。
@@ -286,11 +312,11 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 - 如何解决中文显示为空格乱码？
 
-![Kodi解决中文显示为空格乱码操作步骤](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/uPic/2022091013.webp)
+![Kodi解决中文显示为空格乱码操作步骤](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091013.webp)
 
 - 如何打开 M3U 文件？
 
-![Kodi打开 M3U操作步骤](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/uPic/2022091007.webp)
+![Kodi打开 M3U操作步骤](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091007.webp)
 
 ### PotPlayer
 
@@ -326,7 +352,7 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 支持 iOS、iPadOS、tvOS、watchOS、macOS
 
-![APTV订阅在线IPTV源教程](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406241153287.png)
+![APTV订阅在线IPTV源教程](https://b2.wwkejishe.top/WP-CDN-02/2024/202406241153287.png)
 
 ### ntPlayer
 
@@ -352,18 +378,6 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 ### TVBox
 
 [TVBox Android TV版](https://fk.wwkejishe.top/buy/18) 是GitHub的一个开源项目，完全免费，通过配置接口就可以实现完美支持TV的电视直播和影视点播。
-
-### 小苹果影视TV版
-
-[小苹果影视APP(影视聚合软件)](https://fk.wwkejishe.top/buy/18)是一款免费的机顶盒子影视软件，智能搜索全网影视资源，免费观看院线大片，付费影视等高清视频，小苹果影视TV版聚合全网影视站，新小苹果影视盒子版影视聚合软件提供多个站源切换。
-
-![小苹果影视TV版](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406281405211.webp)
-
-### 影视TV
-
-[影视TV](https://fk.wwkejishe.top/buy/18) 是一款基于猫影视开源的CatVodTVJarLoader项目，从零开始写。非常简洁清爽且功能强大。界面上采用 Android TV Leanback 架构，播放器采用最新版EXO及IJK开源专案的智能电视软件，使用体验感舒适，支持电视直播功能，界面非常简洁，没有花里胡哨的内容，用户只需要配置相关地址（接口）就可以使用。
-
-![影视TV](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202407011534612.webp)
 
 ## 不推荐的播放客户端
 
