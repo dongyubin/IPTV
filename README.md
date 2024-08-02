@@ -60,6 +60,16 @@
 |                                                              |                                                              |              |
 | [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) | 与 IPTV 相关的资源精选列表                                   | 2024         |
 
+### 仓库精细版
+
+将仓库所包含的直播源按照`更新时间`排序，更加方便使用。
+
+> ⚠️温馨提示：
+>
+> 如果不知如何选择，看着带👍的直接使用即可。
+
+[获取地址](https://www.wangdu.site/software/av-read/339.html)
+
 ### 国内直播源
 
 - `https://myernestlu.github.io/zby.txt`
@@ -161,11 +171,13 @@ https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 https://mashaf1.cn/F1.m3u
 ```
 
-### 自搭建IPTV直播源
+## 自搭建IPTV直播源
 
-[搭建教程](https://pixman.io/topics/17)：`https://hub.docker.com/r/pixman/pixman`（Docker镜像拉取不下来，请使用：[国内DockerHub镜像加速器](https://www.wangdu.site/course/2109.html)）
+### pixman
 
-![支持的直播源](https://b2.wwkejishe.top/WP-CDN-02/2024/202406281529691.png)
+[pixman搭建教程](https://pixman.io/topics/17)：`https://hub.docker.com/r/pixman/pixman`（Docker镜像拉取不下来，请使用：[国内DockerHub镜像加速器](https://www.wangdu.site/course/2109.html)）
+
+![pixman支持的直播源](https://b2.wwkejishe.top/WP-CDN-02/2024/202406281529691.png)
 
 ### 国家地理、Discovery
 
@@ -222,12 +234,19 @@ http://epg.aptvapp.com/xml
    - 随机仓的切换：进入应用设置，点击存储空间，然后清除数据，重新打开影视仓，点击【配置】确定，换新的仓库。
    - [宝盒版]内置应用，首次启动需点击"导入"接口资源。
 
-## 自带源播放工具
+## 自带直播源播放工具
 
-| 软件名称 | 支持系统 | 如何打开M3U文件 |
-| -------- | -------- | --------------- |
-| 电视家   | Android  | 内置直播源      |
-| 极悦直播 | Android  | 内置直播源      |
+| 软件名称           | 支持系统    |
+| ------------------ | ----------- |
+| 我的电视           | Android     |
+| 8KIPTV直播         | Android     |
+| 秒看电视TV版       | Android     |
+| 星空TV_1.0.139     | Android     |
+| 电视家             | Android     |
+| 极悦直播           | Android     |
+| 灵犀直播           | Android     |
+| 目目电视           | Android、TV |
+| 央视影音Cbox_6.002 | Windows     |
 
 ### 我的电视
 
@@ -274,6 +293,10 @@ http://epg.aptvapp.com/xml
 [小苹果影视APP(影视聚合软件)](https://fk.wwkejishe.top/buy/18) 是一款免费的机顶盒子影视软件，智能搜索全网影视资源，免费观看院线大片，付费影视等高清视频，小苹果影视TV版聚合全网影视站，新小苹果影视盒子版影视聚合软件提供多个站源切换。
 
 ![小苹果影视TV版](https://b2.wwkejishe.top/WP-CDN-02/2024/202406281405211.webp)
+
+### 央视影音Cbox_6.002
+
+[央视影音客户端](https://fk.wwkejishe.top/buy/18)（Cbox网络电视）是中国电视直播客户端，聚合央视旗下海量独家资源。CNTV中国网络电视台独家采用P2P技术点播形式，汇集央视频道，地方卫视高清直播以及央视节目点播和下载，满足观看直播节目需求。央视影音桌面版具有高清直播流畅，简洁广告少，直播时移，点播倍速，直播回看，界面预订，智能EPG等功能。
 
 ## 需直播源播放工具
 
@@ -447,6 +470,12 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 ## TVBox直播源
 
 TVBox直播源支持TVbox、影视仓、猫影视TV
+
+`单仓地址、多仓地址、供源平台（精选）`
+
+[👉获取地址](https://fk.wwkejishe.top/buy/18)
+
+### 其他地址
 
 ```sh
 https://dxawi.github.io/0/0.json
