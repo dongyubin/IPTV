@@ -2,6 +2,8 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
+**更新日期：2024年9月27日**
+
 ## IPTV图标库
 
 [live](https://github.com/fanmingming/live)：一个可直连访问的电视/广播图标库与相关工具项目，永久免费，直连访问，完整开源，不断完善的台标，支持IPv4/IPv6双栈访问 
@@ -13,10 +15,15 @@
 1. IPTV工具：节约你搜集的时间成本
 2. IPTV直播源：节约你的视频会员成本
 3. 使用教程：节约你的折腾成本
+4. 第一时间获取最新资源
 
-[点击购买](https://fk.wwkejishe.top/buy/18)（查看下图大纲展示，买断制，包更新）
+[👉点击购买](https://fk.wwkejishe.top/buy/18)（查看下图大纲展示，买断制，包更新）
 
-![2024最全IPTV电视直播源及工具大纲展示](https://b2.wwkejishe.top/WP-CDN-02/2024/202406061423166.png)
+> ⚠️温馨提示：
+>
+> 随着资源的不断增加，价格会不断上调，早买早享受。
+
+![2024最全IPTV电视直播源及工具大纲展示](https://b2.wwkejishe.top/WP-CDN-02/2024/202406061423166.webp)
 
 > ⚠️温馨提示：
 >
@@ -24,11 +31,25 @@
 
 ## 精选IPTV源、EPG接口
 
-[下载地址](https://www.wangdu.site/software/av-read/339.html)
+[下载地址](https://fk.wwkejishe.top/buy/18)
+
+## 在线观看TV电视直播
+
+[获取地址](https://fk.wwkejishe.top/buy/18)
+
+## 体育专区
+
+无需配置IPTV源，在浏览器直接打开即可查看
 
 ### 五星体育
 
 五星体育是上海广播电视台旗下的地面电视频道，是中国大陆地区唯一获得wrc官方授权的电视媒体。它是上海文广新闻传媒集团体育产业的营运商和体育节目、体育内容的提供商，成立于2001年10月8日。此外，五星体育也是SMG旗下的第一个专业频道，已经实现每日24小时电视播出，并推广到多个中国及全球的电视平台和新媒体。
+
+[下载地址](https://www.wangdu.site/software/av-read/339.html)
+
+### 五大联赛
+
+欧洲足球五大联赛，指英格兰足球超级联赛、西班牙足球甲级联赛、意大利足球甲级联赛、德国足球甲级联赛、法国足球甲级联赛。 这些联赛代表了当今欧洲乃至世界足坛最顶级的足球水平，吸引世界各地的球星及广泛球迷支持，推动引领足球联赛发展。 欧洲的五个世界杯冠军恰巧就是五大联赛所在的五个国家。
 
 [下载地址](https://www.wangdu.site/software/av-read/339.html)
 
@@ -40,7 +61,7 @@
 
 ## IPTV、APTV 直播源 m3u
 
-直播源可以用于电脑、手机、电视盒子使用。（只做整理，未测试，测试的可以留言效果，分享给有需要的人）
+直播源可以用于电脑、手机、电视盒子使用。（只做整理，未测试，测试的可以留言效果，分享给有需要的人）[GitHub加速访问 教程](https://www.wangdu.site/course/437.html)
 
 | IPTV资源库                                                   | IPTV库介绍                                                   | 最后更新时间 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
@@ -80,6 +101,16 @@
 港澳台电视台需要有富强上网才能收看
 
 [获取地址](https://www.wangdu.site/software/av-read/339.html)
+
+
+### 国家地理、Discovery
+
+探索频道（Discovery）是由探索传播于1985年在美国创立的。探索频道主要播放流行科学、科技、历史、考古及自然纪录片。探索频道在世界主要国家地区均有落地，但探索频道会因应不同地区设立不同版本，加上字幕或配音。美国版本主要播放写实电视节目，如著名的流言终结者系列。
+
+国家地理（National Geographic），前称“国家地理频道”，是美国一家付费电视网和旗舰频道，由华特迪士尼公司和国家地理学会共同投资组建的国家地理合股有限公司所有，日常经营归华特迪士尼电视集团负责。该旗舰频道会播放由国家地理及其他公司所制作的非虚构类节目。
+
+[获取地址](https://www.wangdu.site/software/av-read/339.html)
+
 
 ### 纯 IPv4 源
 
@@ -179,14 +210,6 @@ https://mashaf1.cn/F1.m3u
 
 ![pixman支持的直播源](https://b2.wwkejishe.top/WP-CDN-02/2024/202406281529691.png)
 
-### 国家地理、Discovery
-
-探索频道（Discovery）是由探索传播于1985年在美国创立的。探索频道主要播放流行科学、科技、历史、考古及自然纪录片。探索频道在世界主要国家地区均有落地，但探索频道会因应不同地区设立不同版本，加上字幕或配音。美国版本主要播放写实电视节目，如著名的流言终结者系列。
-
-国家地理（National Geographic），前称“国家地理频道”，是美国一家付费电视网和旗舰频道，由华特迪士尼公司和国家地理学会共同投资组建的国家地理合股有限公司所有，日常经营归华特迪士尼电视集团负责。该旗舰频道会播放由国家地理及其他公司所制作的非虚构类节目。
-
-[下载地址](https://www.wangdu.site/software/av-read/339.html)
-
 ## 电视直播源搜索
 
 - [IPTV电视直播源搜索](http://tonkiang.us/)
@@ -199,8 +222,25 @@ https://mashaf1.cn/F1.m3u
 
 - **IPTV Checker** 是一款直播源自动检测工具，IPTV Checker官方版主要的功能就是帮助用户测试当前的直播地址是否有效，网络上各种寻找直播源列表，虽然源很多，但是几百个地址一个个检测有效性不现实，IPTV checker好用，并且检测速度很快!（[iptv-checker Docker自搭建版](https://github.com/zhimin-dev/iptv-checker)）
 - **TeleList** 是一款体积小巧的直播源转换工具，它的界面简单、操作也很简单，主要作用是用于转换直播源、创建播放源列表。TeleList支持格式转换，重复检查等等多种功能，还能使用TeleList轻松制作 VLC、Potplay 视频播放器的播放列表格式。
+- **flybird-iptv** 是一款iptv检查器，系统支持：MacOS、Windows
+- **M3U Link Tester** 是一个简单而有效的工具，用于测试M3U文件中链接的有效性。该工具具有用户友好的界面，支持通过拖放方式导入M3U文件，快速测试其中包含的多个链接。
 
 [下载地址](https://www.wangdu.site/software/av-read/339.html)
+
+### M3U/TXT格式转换
+
+[下载地址](https://www.wangdu.site/software/av-read/339.html)
+
+## IPv6开通以及测试教程
+
+- [小白开启IPv6教程](https://post.smzdm.com/p/ar678qwz/)
+- [如何观看IPv6频道](https://docs.aptvapp.com/chang-jian-wen-ti/ru-he-guan-kan-ipv6-pin-dao)
+- [个人宽带如何开启IPv6网络访问](https://ipw.cn/doc/ipv6/user/enable_ipv6.html)
+
+## IPv6测试工具
+
+- [IP查询](https://ipw.cn/)
+- [IPv6 测试](https://www.test-ipv6.com/)
 
 ## EPG 节目单
 
@@ -215,11 +255,21 @@ https://epg.pw/test_channel_page.html
 http://epg.aptvapp.com/xml
 ```
 
+
+[获取地址](https://www.wangdu.site/software/av-read/339.html)
+
+
+
 ## 播放工具懒人版
 
-[下载地址](https://www.wangdu.site/software/av-read/339.html)
+[播放工具懒人版详细版](https://fk.wwkejishe.top/buy/18)（简单易懂）
+
+- 好用的IPTV直播源
+- Android、iOS、MacOS、Windows系统看电视、看电影软件
 
 ### 看电视
+
+[下载地址](https://www.wangdu.site/software/av-read/339.html)
 
 1. 野火直播TV：电视直播软件
 2. 电视家：内置直播源
@@ -251,6 +301,10 @@ http://epg.aptvapp.com/xml
 ### 我的电视
 
 [我的电视](https://fk.wwkejishe.top/buy/18) : 使用Android原生开发的电视直播软件
+
+### 我们的电视
+
+[我们的电视](https://fk.wwkejishe.top/buy/18)：电视直播软件，安装即可使用，高清，超清，蓝光，完全免费，您再也不用费劲巴力的找各种不稳定的直播源了。
 
 ### my-tv-apk
 
@@ -298,29 +352,42 @@ http://epg.aptvapp.com/xml
 
 [央视影音客户端](https://fk.wwkejishe.top/buy/18)（Cbox网络电视）是中国电视直播客户端，聚合央视旗下海量独家资源。CNTV中国网络电视台独家采用P2P技术点播形式，汇集央视频道，地方卫视高清直播以及央视节目点播和下载，满足观看直播节目需求。央视影音桌面版具有高清直播流畅，简洁广告少，直播时移，点播倍速，直播回看，界面预订，智能EPG等功能。
 
+### 极简TV
+
+[极简TV](https://fk.wwkejishe.top/buy/18)是一款轻量级支持全平台及安卓电视大屏的IPTV播放器。
+
+### 猫TV直播
+
+[猫TV直播](https://fk.wwkejishe.top/buy/18)-新服版是一款更新了内置源线路的直播软件，引入了猫TV直播源，为用户提供了更丰富的直播内容选择。用户只需进行简单的数据备份和重置，即可无缝切换到最新更新的直播列表，享受更加流畅和多样化的在线观看体验。
+
+- 包含 央视、港澳台 直播源
+
+![猫TV直播](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408281724813669.jpg)
+
 ## 需直播源播放工具
 
 可以用于来看IPTV、M3U、M3U8 格式的软件，手机用户最好
 
-| 软件名称                   | 支持系统                                | 如何打开M3U文件                                     |
-| -------------------------- | --------------------------------------- | --------------------------------------------------- |
-| IPTV / HLS player          | Chrome插件                              |                                                     |
-| 电视直播懒人推荐↓          |                                         |                                                     |
-| IPTV Pro                   | Android                                 |                                                     |
-| 影视仓库👍🏻                 | Win、Mac、TV、Android、iOS              |                                                     |
-| m3u播放软件↓               |                                         |                                                     |
-| VideoLAN                   | Win、Mac、Linux、Android、iOS           | 右击文件，使用软件打开即可                          |
-| Kodi                       | Win、Mac、Linux、Android👍🏻、iOS、树莓派 | 右击文件，使用软件打开即可                          |
-| PotPlayer👍🏻                | Win                                     | 右击文件，使用软件打开即可                          |
-| IINA👍🏻                     | Mac                                     | 右击文件，使用软件打开即可                          |
-| 黑鸟播放器                 | Win                                     | 右击文件，使用软件打开即可（打开软件，拖入也可以）  |
-| Cloud Stream IPTV Player   | iOS                                     | 传文件到手机，右下角 + 号，Cloud 选择文件创建即可。 |
-| APTV（高级版：iCloud同步） | iOS、Mac、watchOS                       | 添加配置，输入订阅链接保存即可                      |
-| ntPlayer                   | iOS                                     | 右上角添加订阅                                      |
-| TiviMate、DIYP             | Android                                 |                                                     |
-| GoTV                       | iOS                                     |                                                     |
-| 电视直播和影视点播         |                                         |                                                     |
-| TVBox                      | Android                                 |                                                     |
+| 软件名称                   | 支持系统                                      | 如何打开M3U文件                                     |
+| -------------------------- | --------------------------------------------- | --------------------------------------------------- |
+| IPTV / HLS player          | Chrome插件                                    |                                                     |
+| 电视直播懒人推荐↓          |                                               |                                                     |
+| IPTV Pro                   | Android                                       |                                                     |
+| 影视仓库👍🏻                 | Windows、MacOS、TV、Android、iOS              |                                                     |
+| m3u播放软件↓               |                                               |                                                     |
+| VideoLAN                   | Windows、MacOS、Linux、Android、iOS           | 右击文件，使用软件打开即可                          |
+| Kodi                       | Windows、MacOS、Linux、Android👍🏻、iOS、树莓派 | 右击文件，使用软件打开即可                          |
+| PotPlayer👍🏻                | Windows                                       | 右击文件，使用软件打开即可                          |
+| IINA👍🏻                     | MacOS                                         | 右击文件，使用软件打开即可                          |
+| 黑鸟播放器                 | Windows                                       | 右击文件，使用软件打开即可（打开软件，拖入也可以）  |
+| Cloud Stream IPTV Player   | iOS                                           | 传文件到手机，右下角 + 号，Cloud 选择文件创建即可。 |
+| APTV（高级版：iCloud同步） | iOS、MacOS、watchOS                           | 添加配置，输入订阅链接保存即可                      |
+| ntPlayer                   | iOS                                           | 右上角添加订阅                                      |
+| TiviMate、DIYP             | Android                                       |                                                     |
+| GoTV                       | iOS                                           |                                                     |
+| VLC                        | Windows、MacOS、iOS、Apple TV、Android、Linux | 媒体 - 打开网络串流 - 输入直播源 - 播放             |
+| 电视直播和影视点播         |                                               |                                                     |
+| TVBox                      | Android                                       |                                                     |
 
 ### IPTV / HLS player
 
@@ -339,15 +406,15 @@ http://epg.aptvapp.com/xml
 
 IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、多媒体、通讯等技术于一体，向家庭用户提供包括数字电视在内的多种交互式服务的崭新技术。它能够很好地适应当今网络飞速发展的趋势，充分有效地利用网络资源。让您可以从 Internet 服务提供商处观看 IPTV，或从网络上的任何其他来源观看免费的直播电视频道。
 
-[IPTV Pro v8.0.1 for Android 解锁专业版 + 全球直播源](https://fk.wwkejishe.top/buy/18)
+[IPTV Pro v8.0.7 for Android 解锁专业版](https://fk.wwkejishe.top/buy/18)
+
+- 如何添加M3U直播源？ 加入播放列表 - 添加网址 - 输入M3U直播源地址 - 确定。
 
 ### VideoLAN
 
 [VideoLAN](https://www.videolan.org/) 是一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。
 
-- 手机如何打开链接直播源？
-
-底部菜单`更多` - 串流 - `新建串流`，然后粘贴直播源地址即可。
+- 手机如何打开链接直播源？底部菜单`更多` - 串流 - `新建串流`，然后粘贴M3U直播源地址即可。
 
 ### Kodi
 
@@ -389,28 +456,14 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 [Cloud Stream IPTV Player](https://apps.apple.com/us/app/cloud-stream-iptv-player/id1138002135) 是一款专门用于支持M3U和IPTV的iOS软件。还支持Apple TV使用。
 
-### APTV
-
-[APTV](https://apps.apple.com/cn/app/aptv/id1630403500) 是一款高颜值的实时预览直播源播放器App，让您轻松畅享直播世界。
-
-支持 iOS、iPadOS、tvOS、watchOS、macOS
-
-![APTV订阅在线IPTV源教程](https://b2.wwkejishe.top/WP-CDN-02/2024/202406241153287.png)
-
 ### ntPlayer
 
 [ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141) 是一款简单方便的流媒体视频播放器，可让您在 iPhone 上播放直播电视、VOD、电视剧和电视节目等内容。
-
-### 小电视
-
-[小电视](https://www.123pan.com/s/NFzA-rQRgh)里面包含央、卫、体育、IPTV以及地方台共计 2851 个频道资源，支持搜索、投屏等功能。
 
 ### TiviMate、DIYP
 
 - [TiviMate](https://tivimate.com/)：是一款专为安卓TV端打造的IPTV播放器，支持导入本地和网络M3U节目列表以及EPG电视预告源，播放器可设置软硬解码，同时支持录像、家长控制等实用功能，是一款体验相当棒的播放器。（收费软件，$33.9/5台设备）
 - DIYP 直播空壳，这是一款非常好用的影视盒子app，可以自定义直播源，支持电视、手机、投影等安卓设备，让你可以很方便的在这里看剧、看直播频道的节目。
-
-[TiviMate、TVBox 下载地址](https://www.123pan.com/s/NFzA-ws0gh.html) 提取码：`9ogU`
 
 ### GoTV
 
@@ -421,6 +474,64 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 ### TVBox
 
 [TVBox Android TV版](https://fk.wwkejishe.top/buy/18) 是GitHub的一个开源项目，完全免费，通过配置接口就可以实现完美支持TV的电视直播和影视点播。
+
+### VLC
+
+[VLC](https://www.videolan.org/vlc/) media player 是一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。
+
+### iptvnator
+
+[iptvnator](https://github.com/4gray/iptvnator) 是一款视频播放器应用程序，支持播放 IPTV 播放列表（m3u、m3u8）。该应用程序允许使用远程 URL 或从文件系统上传文件导入播放列表。此外，它还支持通过 URL 提供的基于 XMLTV 的 EPG 信息。
+
+## TVBox直播源
+
+TVBox直播源支持TVbox、影视仓、猫影视TV
+
+[单仓地址、多仓地址、供源平台（精选）获取地址](https://www.wangdu.site/software/av-read/339.html)
+
+### 其他地址
+
+```sh
+https://dxawi.github.io/0/0.json
+# 这是仓库地址：https://github.com/liu673cn/box
+https://raw.liucn.cc/box/m.json
+https://pastebin.com/raw/gtbKvnE1
+https://pastebin.com/raw/sbPpDm9G
+https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json
+https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
+https://leezn.eu.org/TVBox/py.json
+https://leezn.eu.org/TVBox/js.json
+# 这是仓库地址：https://github.com/jyoketsu/tv
+https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
+```
+
+## APTV专区
+
+[APTV](https://apps.apple.com/cn/app/aptv/id1630403500) 是一款高颜值的实时预览直播源播放器App，让您轻松畅享直播世界。
+
+支持 iOS、iPadOS、tvOS、watchOS、macOS
+
+![APTV订阅在线IPTV源教程](https://b2.wwkejishe.top/WP-CDN-02/2024/202406241153287.png)
+
+直播源直接使用IPTV、APTV 直播源 m3u - [仓库精细版](#仓库精细版) 里的 👍 直播源即可。
+
+## 智能电视安装TVBox/影视仓方法
+
+[智能电视安装TVBox/影视仓方法](https://fk.wwkejishe.top/buy/18)
+
+## 观看攻略
+
+- **港澳台**和境外观看攻略：先**不开代理**去看，无法观看的再开代理去看！重复的频道是不同的线路，基本上一个网络不可能打开所有的线路，因此只要有其中一个线路能看即可。
+
+- **国内**频道观看攻略：选择合适你网络的分类，比如你是移动的网络优先看移动的分类，以此类推，如果移动的网去看电信，联通的分类可能会出现不可看或卡顿！
+
+## 常见问题
+
+### 为什么安装配置好后，有一些频道始终无法播放？
+
+1. 该线路是海外的，没有科学上网环境无法顺利播放，请使用科学上网后尝试。
+2. 该线路有跨域限制，播放器无法绕过限制，换另一播放器，或者更换另一线路。
+3. 该线路确实已失效，请等待系统自动更新（更新频率为一周，站长也可能手动更新，每次看电视前最好刷新一下直播源）
 
 ## 不推荐的播放客户端
 
@@ -467,44 +578,47 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 小电视 里面包含央、卫、体育、IPTV以及地方台共计 2851 个频道资源，支持搜索、投屏等功能。
 
-## TVBox直播源
+## 更新日志
 
-TVBox直播源支持TVbox、影视仓、猫影视TV
+- ### 2024年9月26日
 
-`单仓地址、多仓地址、供源平台（精选）`
+  - 体育专区 - 新增：五大联赛直播
 
-[👉获取地址](https://fk.wwkejishe.top/buy/18)
+  - 体育专区 - 五星体育 增加 录播视频
 
-### 其他地址
+  ### 2024年9月23日
 
-```sh
-https://dxawi.github.io/0/0.json
-# 这是仓库地址：https://github.com/liu673cn/box
-https://raw.liucn.cc/box/m.json
-https://pastebin.com/raw/gtbKvnE1
-https://pastebin.com/raw/sbPpDm9G
-https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json
-https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
-https://leezn.eu.org/TVBox/py.json
-https://leezn.eu.org/TVBox/js.json
-# 这是仓库地址：https://github.com/jyoketsu/tv
-https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
-```
+  - 体育专区 - 五星体育 增加 新的方法
 
-## 智能电视安装TVBox/影视仓方法
+  ### 2024年9月18日
 
-[智能电视安装TVBox/影视仓方法](https://fk.wwkejishe.top/buy/18)
+  - TVBox系列客户端 新增 星辰影视黑盒
+  - 自带直播源播放工具 新增 电视直播大全
 
-## 观看攻略
+  ### 2024年9月13日
 
-- **港澳台**和境外观看攻略：先**不开代理**去看，无法观看的再开代理去看！重复的频道是不同的线路，基本上一个网络不可能打开所有的线路，因此只要有其中一个线路能看即可。
+  - 播放工具懒人版 新增 新的IPTV源
+  - 更新：精选IPTV源、EPG接口 - 已测试直播源
 
-- **国内**频道观看攻略：选择合适你网络的分类，比如你是移动的网络优先看移动的分类，以此类推，如果移动的网去看电信，联通的分类可能会出现不可看或卡顿！
+  ### 2024年9月6日
 
-## 常见问题
+  - 更新 TVBox客户端
 
-### 为什么安装配置好后，有一些频道始终无法播放？
+  ### 2024年9月5日
 
-1. 该线路是海外的，没有科学上网环境无法顺利播放，请使用科学上网后尝试。
-2. 该线路有跨域限制，播放器无法绕过限制，换另一播放器，或者更换另一线路。
-3. 该线路确实已失效，请等待系统自动更新（更新频率为一周，站长也可能手动更新，每次看电视前最好刷新一下直播源）
+  - 新增 在线观看TV电视直播
+  - 中国(台港澳) IPTV直播源M3U 新增 1 直播源
+  - 将 播放工具懒人版 增加各系统支持，更详细简单
+
+  ### 2024年8月28日
+
+  - 自带直播源播放工具 新增 猫TV直播
+
+  ### 2024年8月27日
+
+  - 需直播源播放工具 新增 iptvnator
+
+  ### 2024年8月19日
+
+  - IPTV直播源检测、转换工具 新增 M3U Link Tester
+  - 自带直播源播放工具 新增 极简TV
