@@ -582,7 +582,10 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 
 ### 2024年10月8日
 
-- 精选IPTV源、EPG接口 - 博主自维护在线IPTV源：更新港澳台直播源
+- 精选IPTV源、EPG接口 - 博主自维护在线IPTV源 更新 港澳台直播源
+- 精选IPTV源、EPG接口 - 博主自维护在线IPTV源 新增 五星体育直播源
+- 体育专区 - 2024 马莎F1 删除 失效直播源
+- 体育专区 - 五星体育 更新 新的IPTV源
 
 ### 2024年9月27日
 
