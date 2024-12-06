@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2024年12月3日 15:12:20**
+**更新日期：2024年12月6日 13:58:13**
 
 ## IPTV直播源是干什么的
 
@@ -90,7 +90,17 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 ## IPTV电视直播（在线观看）
 
-可在线看电视的网站，TV电视直播
+主要收录可在线看电视直播的网站，无需安装任何APK（有些节目频道需要 [富强](https://help.wwkejishe.top/wang-shang-xue-ke) 才能观看）
+
+- YesLiveTV（线上看电视（直播）） 支持在线关观看体育、新闻综合、财经、戏剧电影、儿少、综艺生活、宗教、英语、其他语言、大陆、香港、澳门、自然、电台 等分类的电视频道。
+
+  热门频道：纬来体育台、TVB翡翠台、CCTV5体育频道、CCTV5+体育赛事频道、爱尔达体育1台、爱尔达体育2台、爱尔达体育3台、TVBS 56台
+
+- 123IPTV 支持在线观看央视频道、 卫视频道、 体育频道、 台湾频道、 香港頻道、马来西亚、国外电视、新加坡频道、越南频道、韩国频道、印尼频道、日本频道、澳门频道等分类的电视频道。
+
+  对中国进行了详细的地区分类来进行更加细化的查找电视台。
+
+- IPTV807 支持在线观看综合、体育、央视、卫视、港澳台、其他、电影、咪咕视频、福建移动IPTV、黑龙江移动IPTV、IPv6网络电视(限IPv6)等分类的电视频道。
 
 [获取地址](https://fk.wwkejishe.top/buy/18)
 
@@ -273,11 +283,7 @@ https://mashaf1.cn/F1.m3u
 
 ## 电视直播源搜索
 
-- [IPTV电视直播源搜索](http://tonkiang.us/)
-- [电视直播源搜索引擎](https://www.foodieguide.com/iptvsearch/)（[app版](https://wweg.lanzouy.com/ig4PB1hhoz7c?pwd=dczs#dczs)）：来源[iptv搜索工具箱1.0 来自 我是妹子 - 酷安](https://www.coolapk.com/feed/51984241?shareKey=MzM2ZDQ5NzhiZTBkNjU3NjY1M2E~) （[Iptv合成源.apk](https://wweg.lanzouy.com/iegWg1g5a14d?pwd=b3zt#b3zt)，来自 [txt源可以一键合成啦 来自 我是妹子 - 酷安](https://www.coolapk.com/feed/51546101?shareKey=NDc5ZGZmZWIxMjg1NjU3NjYwYWQ~&shareUid=1828544&shareFrom=com.coolapk.market_13.4.0)）（看链接`pwd=`后就是提取码）
-- [自动更新 IPTV 源](https://m3u.ibert.me/)：聚合了网络上多个高清直播源。（Github仓库：[HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources)）
-- [OwenTV](https://owen2000wy.github.io/)
-- [IPTV / HLS /m3u8 player / 7000+ free channels](https://microsoftedge.microsoft.com/addons/detail/iptv-hls-m3u8-player-/eacakocccifgomomoepgblandcbaiooj)
+[获取地址](https://www.wangdu.site/software/av-read/339.html)
 
 ## IPTV在线预览、直播源检测、转换工具
 
@@ -327,7 +333,7 @@ http://epg.aptvapp.com/xml
 
 ### 看电视
 
-[下载地址](https://www.wangdu.site/software/av-read/339.html)
+[下载地址](https://fk.wwkejishe.top/buy/18)
 
 1. 野火直播TV：电视直播软件
 2. 电视家：内置直播源
@@ -540,7 +546,29 @@ http://epg.aptvapp.com/xml
 
 ## IPTV播放工具（需直播源）
 
-可以用于来看IPTV、M3U、M3U8 格式的软件，手机用户最好
+可以用于来看 IPTV、M3U、M3U8 格式的软件，手机用户最好
+
+- Windows
+  - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) 免费开放源代码的便携式跨平台媒体播放器。
+  - [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
+- MacOS
+  - [VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html) 免费和开放源代码的便携式跨平台媒体播放器。
+  - [IINA](https://iina.io/) - 适用于macOS的现代媒体播放器。
+  - [Kodi](https://kodi.tv/) - 具有库支持的免费跨平台媒体播放器。
+- AppleTV
+  - [APTV](https://apps.apple.com/cn/app/aptv/id1630403500) 高级版：不限制订阅源数量，免费版只能订阅 1 个
+
+- iOS（iPhone、iPad）
+
+  - [APTV](https://apps.apple.com/cn/app/aptv/id1630403500) 高级版：不限制订阅源数量，免费版只能订阅 1 个
+  - [ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141) 不限制订阅源数量，有广告，付费版可免除广告
+
+  - [nPlayer](https://apps.apple.com/cn/app/nplayer/id1116905928) - 支持播放列表文件：CUE、M3U、PLS（38元付费下载）
+
+- Android
+
+  - [TVbox](https://fk.wwkejishe.top/buy/18) 通过配置接口就可以实现完美支持TV的电视直播和影视点播。
+  - [Kodi](https://kodi.tv/) - 具有库支持的免费跨平台媒体播放器。
 
 | 软件名称                   | 支持系统                                      | 如何打开M3U文件                                     |
 | -------------------------- | --------------------------------------------- | --------------------------------------------------- |
@@ -945,6 +973,10 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 小电视 里面包含央、卫、体育、IPTV以及地方台共计 2851 个频道资源，支持搜索、投屏等功能。
 
 ## 更新日志
+
+### 2024年12月5日
+
+- IPTV电视直播（在线观看） 新增 介绍
 
 ### 2024年12月3日
 
