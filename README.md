@@ -281,18 +281,50 @@ https://mashaf1.cn/F1.m3u
 
 ![pixman支持的直播源](https://b2.wwkejishe.top/WP-CDN-02/2024/202406281529691.png)
 
-## 电视直播源搜索
+## IPTV电视直播源（搜索工具）
 
 [获取地址](https://www.wangdu.site/software/av-read/339.html)
 
-## IPTV在线预览、直播源检测、转换工具
+## IPTV直播源（聚合）
 
-- **IPTV Checker** 是一款直播源自动检测工具，IPTV Checker官方版主要的功能就是帮助用户测试当前的直播地址是否有效，网络上各种寻找直播源列表，虽然源很多，但是几百个地址一个个检测有效性不现实，IPTV checker好用，并且检测速度很快!（[iptv-checker Docker自搭建版](https://github.com/zhimin-dev/iptv-checker)）
-- **TeleList** 是一款体积小巧的直播源转换工具，它的界面简单、操作也很简单，主要作用是用于转换直播源、创建播放源列表。TeleList支持格式转换，重复检查等等多种功能，还能使用TeleList轻松制作 VLC、Potplay 视频播放器的播放列表格式。
-- **flybird-iptv** 是一款iptv检查器，系统支持：MacOS、Windows
-- **M3U Link Tester** 是一个简单而有效的工具，用于测试M3U文件中链接的有效性。该工具具有用户友好的界面，支持通过拖放方式导入M3U文件，快速测试其中包含的多个链接。
+[获取地址](https://fk.wwkejishe.top/buy/18)
+
+- 自动更新 IPTV 源：聚合了网络上多个高清直播源。
+
+
+- OwenTV：直播源、工具、EPG接口
+
+- FCLiveTool：国内台(随时更新). 国内台直播源，包括港澳台，还有一些电台频道与纪录片等，不定期更新。直播源 5000 个. 各个国家的直播源
+
+- ejaTv：是一个综合性的直播源收集平台，提供来自全球 150 多个国家及地区的 4633 个IPTV频道，覆盖 94 种不同语言。可以根据国家、语言和类型进行分类搜索，方便快捷地找到所需的直播内容。这些直播源以 m3u 格式提供，既可以在网站上直接在线观看，也可以复制m3u链接到专用的直播播放工具中使用。部分直播频道还提供字幕功能，增强了观看体验。
+
+- FreetuxTV WebTV Manager - WebStream：包含 1w+ 个国际IPTV源
+
+## IPTV直播源有效性检测工具
 
 [下载地址](https://www.wangdu.site/software/av-read/339.html)
+
+### IPTV Checker
+
+**IPTV Checker** 是一款直播源自动检测工具，IPTV Checker官方版主要的功能就是帮助用户测试当前的直播地址是否有效，网络上各种寻找直播源列表，虽然源很多，但是几百个地址一个个检测有效性不现实，IPTV checker好用，并且检测速度很快!（[iptv-checker Docker自搭建版](https://github.com/zhimin-dev/iptv-checker)）
+
+### TeleList
+
+**TeleList** 是一款体积小巧的直播源转换工具，它的界面简单、操作也很简单，主要作用是用于转换直播源、创建播放源列表。TeleList 支持格式转换，重复检查等等多种功能，还能使用 TeleList 轻松制作 VLC、Potplay 视频播放器的播放列表格式。
+
+### flybird-iptv
+
+**flybird-iptv** 是一款iptv检查器，系统支持：MacOS、Windows
+
+### M3U Link Tester
+
+**M3U Link Tester** 是一个简单而有效的工具，用于测试M3U文件中链接的有效性。该工具具有用户友好的界面，支持通过拖放方式导入M3U文件，快速测试其中包含的多个链接。
+
+### 一个橙子pro工具箱
+
+[一个橙子pro工具箱](https://fk.wwkejishe.top/buy/18) 内含IPTV直播源有效性检测工具（支持扫源、归属地、分辨率、响应速度）、内网分享、苹果CMS快搜、内网穿透的Windows端工具
+
+## IPTV直播源格式转换工具
 
 ### M3U/TXT格式转换
 
@@ -328,20 +360,27 @@ http://epg.aptvapp.com/xml
 
 [播放工具懒人版详细版](https://fk.wwkejishe.top/buy/18)（简单易懂）
 
-- 好用的IPTV直播源
-- Android、iOS、MacOS、Windows系统看电视、看电影软件
-
-### 看电视
-
-[下载地址](https://fk.wwkejishe.top/buy/18)
-
-1. 野火直播TV：电视直播软件
-2. 电视家：内置直播源
-3. 极悦直播：内置直播源
+- 好用的 IPTV 直播源
+- Android、iOS、MacOS、Windows 系统看电视、看电影软件（以下是 Android 失效名单）
+  - 野火直播_TV_5.7.5
+  - 我的电视（my-tv）2.1.8-19-alpha（修改版）
+  - mytv-v2.1.8
+  - 电视家升级版-v5.0.2.01
+  - 极悦直播
+  - my-tv-apk-1.8-9
+  - 秒看HD_v9.2.17
+  - 8KIPTV直播
+  - 灵犀直播
+  - 目目电视
+  - 看看TV_v1.0.1019
+  - Love TV_v23.11.27_电视盒子版
+  - 猫TV直播-20240408
+  - 西夏影视仓内置5.0.42
+  - 电视家V9.1.0
 
 ### 看电影
 
-1. 全网影视：TVBox修改版带数据源
+1. [全网影视](https://fk.wwkejishe.top/buy/18)：TVBox修改版带数据源
    - 启动后，需要手动激活"仓库"。
    - 激活操作：多仓版本点击【配置】，在出现的窗口中点击"确定"，选择"仓库"；单仓版本直接点击【线路】或【主页】
    - 关于直播：在进入【直播】后，按菜单键，选择右边的【直播地址】，则会出现多个接口的切换选择。
@@ -370,6 +409,7 @@ http://epg.aptvapp.com/xml
 | CCTV_Viewer              | Android                             |
 | 野火直播                 | Android                             |
 | 天光云影 3.3.6           | Android                             |
+| AKTV                     | Android                             |
 
 ### 我的电视
 
@@ -972,7 +1012,24 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 
 小电视 里面包含央、卫、体育、IPTV以及地方台共计 2851 个频道资源，支持搜索、投屏等功能。
 
+### 猫TV直播（已失效）
+
+猫TV直播-新服版是一款更新了内置源线路的直播软件，引入了猫TV直播源，为用户提供了更丰富的直播内容选择。用户只需进行简单的数据备份和重置，即可无缝切换到最新更新的直播列表，享受更加流畅和多样化的在线观看体验。
+
+- 包含 央视、港澳台 直播源
+
+![猫TV直播](https://cdn.wwkejishe.top/wp-cdn-02/2024/202408281724813669.webp)
+
 ## 更新日志
+
+### 2024年12月11日
+
+- VIP版：IPTV、APTV 直播源（m3u、TXT） 新增 国外直播源、日本直播源
+- 新增 IPTV直播源（聚合）
+
+### 2024年12月10日
+
+- VIP版：IPTV、APTV 直播源（m3u、TXT） - 中国(台港澳) IPTV直播源M3U 更新 自维护直播源
 
 ### 2024年12月5日
 
