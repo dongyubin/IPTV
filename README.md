@@ -416,8 +416,16 @@ http://epg.aptvapp.com/xml
 | 拾光电视                   | Android                             | ✅        | ✅        |          | ✅          |          | ✅        |
 | 即刻电视                   | Android                             | ✅        | ✅        | ✅        |            |          |          |
 | 肥羊直播App                | Android                             | ✅        | ✅        | ✅        |            |          |          |
+| 电视大全                   | Android                             | ✅        | ✅        | ✅        |            |          | ✅        |
+| 大吉电视TV版               | Android                             | ✅        | ✅        |          |            |          |          |
+| 晨瑞电视                   | Android                             | ✅        | ✅        | ✅        | ✅          |          | ✅        |
 | 凤凰TV2.6                  | Android                             | ✅        | ✅        |          |            |          |          |
 | HDTV                       | Android                             | ✅        | ✅        |          | ✅          |          |          |
+| 伪·电视家                  | Android                             | ✅        | ✅        | ✅        |            |          |          |
+| 七星itv                    | Android                             | ✅        | ✅        |          | ✅          |          | ✅        |
+| Pn播放器                   | Android                             | ✅        | ✅        |          | ✅          |          |          |
+| 极速播TV                   | Android                             | ✅        | ✅        | ✅        |            |          |          |
+| 小飞电视                   | Android                             | ✅        | ✅        | ✅        |            |          |          |
 
 ### 我的电视
 
