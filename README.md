@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2025年1月17日**
+**更新日期：2025年1月20日**
 
 ## IPTV直播源是干什么的
 
@@ -93,7 +93,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 主要收录香港、澳门、台湾以及一些海外华人频道等，部分港澳台电视台需要有 [富强](https://help.wwkejishe.top/wang-shang-xue-ke) 上网才能收看（[VIP版](https://fk.wwkejishe.top/buy/18) 包含专属港澳台播放源链接）
 
-- 港澳台直播源本地测试版 - **2025年1月17日更新**
+- 港澳台直播源本地测试版 - **2025年1月20日更新**
 
 [获取地址](https://www.wangdu.site/software/av-read/339.html)
 
