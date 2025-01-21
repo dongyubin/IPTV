@@ -4,6 +4,10 @@
 
 [电视品牌安装第三方软件教程](https://mp.weixin.qq.com/mp/homepage?__biz=MzA5NTQ0NDczNQ==&hid=1&sn=09a11470e5c6239eb8752639797497bd&scene=18)（当贝市场官方安装方式）
 
+## IPTV自带直播源播放工具
+
+[IPTV自带直播源播放工具，替代电视家直播的APP](https://www.wangdu.site/software/dianshihezi/2180.html)
+
 ## 海尔电视
 
 将U盘插入电视USB接口，打开电视主页的【本地媒体】选项，点击进入。选择【全部】，点击U盘，找到安装包点击安装，在安装过程中出现风险提示点击继续安装即可。
