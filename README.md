@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2025年2月10日**
+**更新日期：2025年2月11日**
 
 ## IPTV直播源是干什么的
 
@@ -67,10 +67,12 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 | 价格                            | 5      | 15                    |
 | 买断制                          | ✅      | ✅                     |
 | 稳定性                          | ✅      | ✅                     |
-| 可选择性                        | 部分   | 更多                  |
+| 直播源在线链接                  | ❌      | ✅                     |
+| 播放源可选择性                  | 部分   | 更多                  |
 | IPTV直播源（博主自维护）        | ❌      | ✅                     |
 | IPTV直播源（精选）              | 部分   | ✅                     |
 | IPTV直播源（港澳台）            | 部分   | ✅（博主维护专用链接） |
+| 稳定的港澳台直播源              | ❌      | ✅                     |
 | IPTV直播源（体育频道）          | 部分   | ✅（博主维护专用链接） |
 | IPTV直播源播放工具（自带源）    | ❌      | ✅                     |
 | TVBox系列客户端                 | ❌      | ✅                     |
@@ -84,9 +86,104 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 >
 > 不是说完美解决你全部的问题，多少还是需要大家自行安装使用，再加上设备不同，可能会有不一样的兼容性问题，理性购买，虚拟产品，购买不退。
 
+## IPTV、APTV 直播源 m3u
+
+直播源可以用于电脑、手机、电视盒子使用。（只做整理，未测试，测试的可以留言效果，分享给有需要的人）[GitHub加速访问 教程](https://www.wangdu.site/course/437.html)
+
+| IPTV资源库                                                   | IPTV库介绍                                                   | 最后更新时间 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv)            | 收集世界各地公开提供的 IPTV（互联网协议电视）频道。          | 2025         |
+| [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U                             | 2023         |
+| [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)        | 包含Ftindy精选、BigBigGrandG、APTV、YanG、EPG节目单          | 2025         |
+| [m3u](https://github.com/YanG-1989/m3u)                      | 直播源                                                       | 2024         |
+| [IPTV](https://github.com/joevess/IPTV)                      | 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 | 2024         |
+| [Rivens7/Livelist](https://github.com/Rivens7/Livelist)      | IPTV-ipv6直播源同步及常看直播                                | 2025         |
+| [vbskycn/iptv](https://github.com/vbskycn/iptv)              | iptv最新可用直播源iptv4/iptv6                                | 2024         |
+| [Moexin/IPTV: MyIPTV](https://github.com/Moexin/IPTV)        | 包含成人源                                                   | 2025         |
+| [TVzhiboyuandaka/zhiboyuandaka.github.io](https://github.com/TVzhiboyuandaka/zhiboyuandaka.github.io) | 一些自己整合的直播源                                         | 2022         |
+| [wcb1969/iptv](https://github.com/wcb1969/iptv)              | 一些自己整合的直播源                                         | 2023         |
+| [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) | 与 IPTV 相关的资源精选列表                                   | 2025         |
+
+### 国内直播源
+
+- `https://myernestlu.github.io/zby.txt`
+
+
+### 纯 IPv4 源
+
+- 百视通源：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u`
+- 重庆广电源：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u`
+- 阳泉广电源：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u`
+- 河北广电源：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u`
+- 国内4K/8K源：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u`
+- zbefine源：`https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u`
+- 茶客源：`https://raw.githubusercontent.com/vamoschuck/TV/main/M3U`
+- `https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u`
+
+直链：
+
+- `https://xxy.free.hr/YIPTV.m3u`
+- `https://iptv.228088.xyz/cn.m3u`
+- `https://testingcf.jsdelivr.net/gh/whpsky/iptv@main/chinatv.m3u`
+
+### 部分 IPv4、部分 IPv6 源
+
+- BigBigGrandG源，有部分IPv6：`https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u`
+- Kimentanm源，有部分IPv6：`https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u`
+- YanG集合源，有部分IPv6：`https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u`
+- 范明明直播源，有部分IPv6：`https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u`
+
+### 纯 IPv6 源
+
+- 范明明直播源，纯IPv6源
+  - `https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u`
+  - 范明明直播源国内镜像加速地址：`https://live.fanmingming.cn/tv/m3u/ipv6.m3u`
+
+- YueChan 直播源，纯 IPv6：`https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u`
+- whpsky 源，纯 IPv6：`https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u`
+- ZhangHongGuang源，纯IPv6：`https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u`
+- `https://gitee.com/xxy002/zhiboyuan/raw/master/dsy`（央视频道、卫视频道、港澳台、数字电视、动漫）
+
+### 部分海外源
+
+- 中国大陆频道：`https://epg.pw/test_channels.m3u`
+
+- 香港频道：`https://epg.pw/test_channels_hong_kong.m3u`
+
+- 澳门频道：`https://epg.pw/test_channels_macau.m3u`
+- 台湾频道：`https://epg.pw/test_channels_taiwan.m3u`
+- 台湾频道：`https://iptv-org.github.io/iptv/countries/tw.m3u`
+- 新加坡频道：`https://epg.pw/test_channels_singapore.m3u`
+- 马来西亚频道：`https://epg.pw/test_channels_malaysia.m3u`
+
+### 其他
+
+```sh
+YanG: https://yang-1989.eu.org/m3u/Gather
+
+https://iptv-org.github.io/iptv/index.m3u
+
+https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
+
+https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
+
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
+# F1TV IPTV源 （仅比赛期间有信号）
+https://mashaf1.cn/F1.m3u
+```
+
+### 国家地理、Discovery
+
+探索频道（Discovery）是由探索传播于1985年在美国创立的。探索频道主要播放流行科学、科技、历史、考古及自然纪录片。探索频道在世界主要国家地区均有落地，但探索频道会因应不同地区设立不同版本，加上字幕或配音。美国版本主要播放写实电视节目，如著名的流言终结者系列。
+
+国家地理（National Geographic），前称“国家地理频道”，是美国一家付费电视网和旗舰频道，由华特迪士尼公司和国家地理学会共同投资组建的国家地理合股有限公司所有，日常经营归华特迪士尼电视集团负责。该旗舰频道会播放由国家地理及其他公司所制作的非虚构类节目。
+
+[获取地址](https://www.wangdu.site/software/av-read/339.html)
+
 ## IPTV直播源、EPG接口（精选）
 
-- 已测试的本地直播源（更新日期：**2025年2月10日**）
+- 已测试的本地直播源（更新日期：**2025年2月11日**）
 - [VIP版](https://fk.wangdu.site/buy/18) 包含博主自维护专属在线播放源链接（央视频道、卫视频道、港澳台频道）
 
 [下载地址](https://fk.wangdu.site/buy/18)
@@ -145,137 +242,15 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 [下载地址](https://www.wangdu.site/software/av-read/339.html)
 
-## IPTV、APTV 直播源 m3u
+## IPTV源精细版（Github仓库）
 
-直播源可以用于电脑、手机、电视盒子使用。（只做整理，未测试，测试的可以留言效果，分享给有需要的人）[GitHub加速访问 教程](https://www.wangdu.site/course/437.html)
-
-| IPTV资源库                                                   | IPTV库介绍                                                   | 最后更新时间 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
-| [iptv-org/iptv](https://github.com/iptv-org/iptv)            | 收集世界各地公开提供的 IPTV（互联网协议电视）频道。          | 2024         |
-| [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U                             | 2023         |
-| [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)        | 包含Ftindy精选、BigBigGrandG、APTV、YanG、EPG节目单          | 2024         |
-| [m3u](https://github.com/YanG-1989/m3u)                      | 直播源                                                       | 2024         |
-| [IPTV](https://github.com/joevess/IPTV)                      | 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 | 2024         |
-| [Rivens7/Livelist](https://github.com/Rivens7/Livelist)      | IPTV-ipv6直播源同步及常看直播                                | 2024         |
-| [vbskycn/iptv](https://github.com/vbskycn/iptv)              | iptv最新可用直播源iptv4/iptv6                                | 2024         |
-| [Moexin/IPTV: MyIPTV](https://github.com/Moexin/IPTV)        | 包含成人源                                                   | 2024         |
-| [TVzhiboyuandaka/zhiboyuandaka.github.io](https://github.com/TVzhiboyuandaka/zhiboyuandaka.github.io) | 一些自己整合的直播源                                         | 2022         |
-| [wcb1969/iptv](https://github.com/wcb1969/iptv)              | 一些自己整合的直播源                                         | 2023         |
-| [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) | 与 IPTV 相关的资源精选列表                                   | 2024         |
-
-### 仓库精细版
-
-将仓库所包含的直播源按照`更新时间`排序，更加方便使用。
+将仓库所包含的IPTV直播源，按照`更新时间`排序，更加方便使用。（[VIP版](https://fk.wangdu.site/buy/18) 包含更全、更新更及时）
 
 > ⚠️温馨提示：
 >
 > 如果不知如何选择，看着带👍的直接使用即可。
 
 [获取地址](https://www.wangdu.site/software/av-read/339.html)
-
-### 国内直播源
-
-- `https://myernestlu.github.io/zby.txt`
-
-
-### 国家地理、Discovery
-
-探索频道（Discovery）是由探索传播于1985年在美国创立的。探索频道主要播放流行科学、科技、历史、考古及自然纪录片。探索频道在世界主要国家地区均有落地，但探索频道会因应不同地区设立不同版本，加上字幕或配音。美国版本主要播放写实电视节目，如著名的流言终结者系列。
-
-国家地理（National Geographic），前称“国家地理频道”，是美国一家付费电视网和旗舰频道，由华特迪士尼公司和国家地理学会共同投资组建的国家地理合股有限公司所有，日常经营归华特迪士尼电视集团负责。该旗舰频道会播放由国家地理及其他公司所制作的非虚构类节目。
-
-[获取地址](https://www.wangdu.site/software/av-read/339.html)
-
-
-### 纯 IPv4 源
-
-```sh
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u #百视通源
-
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u #重庆广电源
-
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u #可能为阳泉广电源
-
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u #河北广电源
-
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u #国内4K/8K源
-
-https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u #zbefine源
-
-https://raw.githubusercontent.com/vamoschuck/TV/main/M3U #茶客源
-
-https://x-x-xxx.github.io/diyp/tv.txt #diyp源
-
-https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
-直链：
-https://xxy.free.hr/YIPTV.m3u
-https://iptv.228088.xyz/cn.m3u
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
-https://testingcf.jsdelivr.net/gh/whpsky/iptv@main/chinatv.m3u
-```
-
-### 部分 IPv4、部分 IPv6 源
-
-```sh
-# 检测日期：2024年6月6日  总：1926 在线：1240 离线：686
-https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u #BigBigGrandG源，有部分IPv6
-
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u #Kimentanm源，有部分IPv6
-
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u #YanG集合源，有部分IPv6
-
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u #范明明源，有部分IPv6
-直链： https://xxy.free.hr/Fipv6.m3u
-```
-
-### 纯 IPv6 源
-
-```sh
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u #范明明源，纯IPv6源
-
-https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u #YueChan源，纯IPv6
-
-https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u #whpsky源，纯IPv6
-
-https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u #ZhangHongGuang源，纯IPv6
-
-https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt
-```
-
-### 部分海外源
-
-```sh
-https://epg.pw/test_channels.m3u #中国大陆频道
-
-https://epg.pw/test_channels_hong_kong.m3u #香港频道
-
-https://epg.pw/test_channels_macau.m3u #澳门频道
-
-https://epg.pw/test_channels_taiwan.m3u #台湾频道
-
-https://iptv-org.github.io/iptv/countries/tw.m3u #台湾频道
-
-https://epg.pw/test_channels_singapore.m3u #新加坡频道
-
-https://epg.pw/test_channels_malaysia.m3u #马来西亚频道
-```
-
-### 其他
-
-```sh
-YanG: https://yang-1989.eu.org/m3u/Gather
-
-https://iptv-org.github.io/iptv/index.m3u
-
-https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
-
-https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
-
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-
-# F1TV IPTV源 （仅比赛期间有信号）
-https://mashaf1.cn/F1.m3u
-```
 
 ## 自搭建IPTV直播源
 
@@ -1470,6 +1445,11 @@ my-tv-apk 在原来的 mytv 修复了一些问题的新版本，请卸载原来�
 metv直播是一款功能强大的视频播放软件，提供了丰富的分类内容，用户可以根据自己的喜好筛选并观看喜爱的视频。软件内置多个高清播放源，用户可以随时切换源以获得更好的播放体验。此外，软件还具有历史记录功能，可自动记录用户观看的剧集信息，方便用户随时在线查看。另外，还提供了倍速调节功能，用户可以根据自己的需求选择快速或慢速播放视频。
 
 ## 更新日志
+
+### 2025年2月11日
+
+- （VIP版、博客版）IPTV直播源（体育频道）- 五大联赛 更新 咪咕直播源
+- （VIP版） 新增 稳定的港澳台直播源
 
 ### 2025年2月10日
 
