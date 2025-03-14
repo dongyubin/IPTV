@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2025年3月13日** 
+**更新日期：2025年3月14日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -1450,6 +1450,90 @@ my-tv-apk 在原来的 mytv 修复了一些问题的新版本，请卸载原来�
 metv直播是一款功能强大的视频播放软件，提供了丰富的分类内容，用户可以根据自己的喜好筛选并观看喜爱的视频。软件内置多个高清播放源，用户可以随时切换源以获得更好的播放体验。此外，软件还具有历史记录功能，可自动记录用户观看的剧集信息，方便用户随时在线查看。另外，还提供了倍速调节功能，用户可以根据自己的需求选择快速或慢速播放视频。
 
 ## 更新日志
+
+### 2025年3月14日
+
+1. （VIP版）IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护）更新 在线直播源
+
+   ```
+   TNT Sport 1
+   TNT Sport 2
+   TNT Sport 3
+   TNT Sport 4
+   Sky Sports Football
+   Sky Sports Main Event
+   Sky Sports Premier League
+   Sky Sports Action
+   Sky Sports Mix
+   Sky Sports Arena
+   Sky Sports News
+   Sky Sports Cricket
+   Sky Sports Tennis
+   Sky Sports F1
+   Sky Sports Golf
+   Sky Sports Racing
+   Tennis Channel
+   LaLiga TV
+   HBO 1
+   HBO 2
+   Discovery Channel
+   Discovery Life
+   Cinemax West
+   Great Movies
+   Sky Cinema Comedy
+   Sky Cinema Family
+   Cartoon Network
+   Virgin 1
+   Virgin 2
+   Virgin 3
+   DAZN
+   Bein Sports USA
+   Bein Sports English 2
+   SuperSport Premier League
+   SuperSport LaLiga
+   SuperSport Action
+   SuperSport Blitz
+   SuperSport Cricket
+   SuperSport Football
+   SuperSport Golf
+   SuperSport Rugby
+   SuperSport Tennis
+   Variety 1
+   Variety 2
+   Variety 3
+   Variety 4
+   Eurosport 1
+   Eurosport 2
+   Premier Sports 1
+   Premier Sports 2
+   Golf Channel
+   MLB Network
+   NBA TV
+   NFL Network
+   NFL Redzone
+   NHL Network
+   WWE
+   Willow Cricket
+   Willow Extra
+   World Fishing Network
+   Fight Network
+   ESPN
+   ESPN 2
+   ESPN News
+   ESPN U
+   ITV 1
+   ITV 2
+   ITV 3
+   ITV 4
+   MUTV
+   LFC TV
+   ACC Network
+   CBS Sports Network
+   CNBC
+   Fox Sports 1
+   Fox Sports 2
+   FOX News
+   ```
 
 ### 2025年3月13日
 
