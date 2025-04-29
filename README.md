@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2025年4月28日** 
+**更新日期：2025年4月29日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -1477,7 +1477,7 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 ### 2025年4月29日
 
 1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、港澳台频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
-2. 新增 [自部署教程](./IPTV-CloudCone VPS自部署Pixman-4gtv查看港台频道.md)
+2. 新增 [自部署教程](./IPTV-CloudCone%20VPS自部署Pixman-4gtv查看港台频道.md)
 
 ### 2025年4月28日
 
