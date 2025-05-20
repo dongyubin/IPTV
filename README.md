@@ -1474,6 +1474,11 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ## 更新日志
 
+### 2025年5月20日
+
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 新增 重庆新闻、斗鱼频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+2. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 五星体育、广东频道、电影频道
+
 ### 2025年5月19日
 
 1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、咪咕体育、腾讯体育【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
