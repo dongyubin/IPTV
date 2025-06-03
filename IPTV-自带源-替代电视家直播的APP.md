@@ -594,7 +594,7 @@
 
 [落日TV](https://fk.wangdu.site/buy/18)（5.5.1）一款新的电视直播软件，有咪咕，央卫视，地方，电影，数字，体育，地方，NewTV, 潮剧，电影，虎牙，弯弯，港弯等频道，有IPV6专频道，其他IPV4也可以正常观看。
 
-![落日TV](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250603170003832.png)
+![落日TV](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250603170003832.webp)
 
 ### 电视直播TV版
 
@@ -604,7 +604,7 @@
 
 [魄狼TV](https://fk.wangdu.site/buy/18)（1.0.1）主要有央视、卫视、地方台、新闻、动漫、教育、国际等分类频道，可以设置开机启动，试了下速度还不错。
 
-![魄狼TV](C:\Users\YMHY\AppData\Roaming\Typora\typora-user-images\image-20250603170730988.png)
+![魄狼TV](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250603170739819.webp)
 
 ## 已失效
 
