@@ -55,11 +55,11 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 4. 使用教程：节约你的折腾成本
 5. 第一时间获取最新资源
 
-[👉点击购买VIP版（永久）](https://fk.wangdu.site/buy/18)（永久优惠码：`IPTV`，直接**优惠30元**，数量有限，先到先得）、[IPTV月卡](https://fk.wangdu.site/buy/31)
+[👉点击购买VIP版（永久）](https://fk.wangdu.site/buy/18)（永久优惠码：`IPTV`，直接**优惠30元**，数量有限，先到先得）、[IPTV月卡](https://fk.wangdu.site/buy/31)（[👉购买VIP备用地址1](https://fk.wwkjs.top/buy/31)）
 
 （查看下图大纲展示，买断制，包更新）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
 
-- 如果上面地址访问慢或者访问出错，请用这个地址：[👉购买VIP备用地址1](https://fk.abin666.fun/buy/18)、[👉购买VIP备用地址2](https://fk.wwkejishe.top/buy/18)
+- 如果上面地址访问慢或者访问出错，请用这个地址：[👉购买VIP备用地址1](https://fk.wwkjs.top/buy/18)、[👉购买VIP备用地址2](https://fk.wwkejishe.top/buy/18)、
 - 支持 `APTV` 这款软件以及`支持 M3U 文件`的软件
 
 > ⚠️温馨提示：
