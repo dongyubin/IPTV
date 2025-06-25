@@ -1476,6 +1476,10 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ## 更新日志
 
+### 2025年6月25日
+
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+
 ### 2025年6月24日
 
 - （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
