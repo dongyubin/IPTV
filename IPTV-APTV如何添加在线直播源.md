@@ -31,15 +31,19 @@
 > iOS、tvOS和macOS在操作逻辑上是一模一样的
 
 1. 点击底部“配置”，进入配置中心页面
+
    ![APTV -配置](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250626153443293.webp)
 
 2. 点击右上角的加号添加配置
+
    ![APTV添加配置](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250626153449289.webp)
 
 3. 点击订阅配置，输入订阅链接，配置链接：输入 [博主自维护链接里的 m3u 地址](https://fk.wangdu.site/buy/18) 
+
    ![APTV添加订阅配置](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250626153453828.webp)
 
 4. 点击刚添加的配置，使得配置右侧有一个绿色的标志
+
    ![APTV 选定配置](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250626153457281.webp)
 
 5. 点击下方的“频道”，回到频道页面即可看到源中的频道
