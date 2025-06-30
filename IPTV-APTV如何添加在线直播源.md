@@ -1,5 +1,7 @@
 # APTV如何添加在线直播源
 
+![APTV](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250630162239802.webp)
+
 ## 订阅配置
 
 支持m3u链接和txt链接
