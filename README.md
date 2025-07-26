@@ -1484,7 +1484,7 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ### 2025年7月26日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视、卫视）
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（体育 Sky sports f1）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
 
 ### 2025年7月24日
 
