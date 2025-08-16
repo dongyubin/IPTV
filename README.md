@@ -204,6 +204,10 @@ https://mashaf1.cn/F1.m3u
 
 [获取地址](https://www.wangdu.site/software/av-read/339.html)
 
+### 港澳台电视直播apk
+
+[获取地址](https://www.wangdu.site/software/dianshihezi/2180.html)
+
 ## 国际频道直播源
 
 [VIP版](https://fk.wangdu.site/buy/18) 在线链接包含以下所有直播源
