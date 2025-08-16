@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2025年8月12日** 
+**更新日期：2025年8月16日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -57,9 +57,9 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 [👉点击购买VIP版（永久）](https://fk.wangdu.site/buy/18)（查看下图大纲展示，买断制，包更新）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
 
-[IPTV月卡](https://fk.wangdu.site/buy/31)（[👉购买VIP备用地址1](https://fk.wwkjs.top/buy/31)）
+[IPTV月卡](https://fk.wangdu.site/buy/31)（[👉购买VIP（月卡）备用地址1](https://fk.wwkjs.top/buy/31)）
 
-- 如果上面地址访问慢或者访问出错，请用这个地址：[👉购买VIP备用地址1](https://fk.wwkjs.top/buy/18)
+- 如果上面地址访问慢或者访问出错，请用这个地址：[👉购买VIP（永久）备用地址](https://fk.wwkjs.top/buy/18)
 - 支持 `APTV` 这款软件以及`支持 M3U 文件`的软件
 
 > ⚠️温馨提示：
@@ -1481,6 +1481,10 @@ my-tv-apk 在原来的 mytv 修复了一些问题的新版本，请卸载原来�
 metv直播是一款功能强大的视频播放软件，提供了丰富的分类内容，用户可以根据自己的喜好筛选并观看喜爱的视频。软件内置多个高清播放源，用户可以随时切换源以获得更好的播放体验。此外，软件还具有历史记录功能，可自动记录用户观看的剧集信息，方便用户随时在线查看。另外，还提供了倍速调节功能，用户可以根据自己的需求选择快速或慢速播放视频。
 
 ## 更新日志
+
+### 2025年8月16日
+
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、卫视频道、咪咕体育）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
 
 ### 2025年8月12日
 
