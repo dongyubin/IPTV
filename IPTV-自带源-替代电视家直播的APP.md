@@ -57,6 +57,8 @@
 | 油桃TV                      | Android                             | ✅        | ✅        | ✅        |            |          |          |
 | 飞鸟TV                      | Android                             | ✅        | ✅        | ✅        | ✅          |          |          |
 | 澜露TV                      | Android                             | ✅        | ✅        | ✅        | ✅          |          |          |
+| AKTV                        | Android                             |          |          |          | ✅          |          |          |
+| 飞扬直播                    | Android                             | ✅        | ✅        |          | ✅          |          | ✅        |
 
 ### yourtv（你的电视）
 
@@ -630,6 +632,18 @@
 
 ![澜露TV3.5.3](https://www.iptvkk.com/wp-content/uploads/2025/05/aaa-7.png)
 
+### AKTV
+
+[AKTV_2.0.0](https://fk.wangdu.site/buy/18)专门为国际频道与港澳台的直播APP，清晰度很高，速度也快，界面菜单有点类似mytv，可惜频道比较少，国内的卫视、央视、地方台还要使用其他TV版。
+
+![AKTV](https://www.iptvkk.com/wp-content/uploads/2024/12/555-1-300x169.png)
+
+### 飞扬直播
+
+[电视直播软件飞扬直播](https://fk.wangdu.site/buy/18)，有央视、卫视、地区、剧场、虎牙、斗鱼、咪咕、轮播等频道 ，经过测试现在的速度都是挺好的，是否长期稳定等待测试。
+
+![飞扬直播](https://www.iptvkk.com/wp-content/uploads/2025/08/aaa-10.jpg)
+
 ## 已失效
 
 ### 我的电视
@@ -738,6 +752,10 @@ my-tv-apk 在原来的 mytv 修复了一些问题的新版本，请卸载原来�
 [冬日暖阳新春酷九直播](https://fk.wangdu.site/buy/18) 使用酷9的一款电视直播软件，有央视、卫视、AKTV线路、港澳台频道还有游戏、体育、音乐等特色频道，线路与频道比较多稳定性相对比较高，就算一条线路坏了还有其他线路可以使用。
 
 ## 更新日志
+
+### 2025年8月22日
+
+- 新增 AKTV、飞扬直播
 
 ### 2025年8月12日
 
