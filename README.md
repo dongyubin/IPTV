@@ -301,6 +301,20 @@ https://mashaf1.cn/F1.m3u
 
 ![pixman支持的直播源](https://b2.wwkejishe.top/WP-CDN-02/2024/202406281529691.png)
 
+### IPTV-API
+
+[Guovin/iptv-api](https://github.com/Guovin/iptv-api)：一个可高度自定义的IPTV接口更新项目📺，自定义频道菜单，自动获取直播源，测速验效后生成可用的结果，可实现『✨秒播级体验🚀』
+
+- ✅ 自定义模板，支持别名，生成您想要的频道
+- ✅ 支持RTMP推流(live/hls)，提升播放体验
+- ✅ 支持多种获取源方式：本地源、组播源、酒店源、订阅源、关键字搜索
+- ✅ 支持回放类接口获取与生成
+- ✅ 支持EPG功能，显示频道预告内容
+- ✅ 接口测速验效，获取延迟、速率、分辨率，过滤无效接口
+- ✅ 偏好设置：IPv4、IPv6、接口来源排序优先级与数量配置、白名单、黑名单、归属地与运营商过滤
+- ✅ 定时执行，北京时间每日 6:00 与 18:00 执行更新
+- ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7)
+
 ## IPTV电视直播源（搜索工具）
 
 [获取地址](https://www.wangdu.site/software/av-read/339.html)
@@ -956,9 +970,7 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 ### PotPlayer
 
-[Potplayer](https://potplayer.daum.net/?lang=zh_CN) 是 KMPlayer 的原制作者姜龙喜先生进入 Daum 公司后的新一代作品，PotPlayer优势在于强大的内置解码器和灵活的设置，软件小巧精简，功能强大，支持 DXVA, CUDA, QuickSync 等等，支持文字字幕SMI，SRT、Vobsub(DVD)，蓝光SUP字幕等多种字幕资源，支持 ASS/SSA 动画以及SMI ruby tag。
-
-[Potplayer软件搬运站（用于备用下载）](https://daumpotplayer.com/download/)
+[Potplayer官网地址](https://potplayer.daum.net/?lang=zh_CN) 是 KMPlayer 的原制作者姜龙喜先生进入 Daum 公司后的新一代作品，PotPlayer优势在于强大的内置解码器和灵活的设置，软件小巧精简，功能强大，支持 DXVA, CUDA, QuickSync 等等，支持文字字幕SMI，SRT、Vobsub(DVD)，蓝光SUP字幕等多种字幕资源，支持 ASS/SSA 动画以及SMI ruby tag。
 
 [Potplayer软件搬运站（用于备用下载）](https://potplayer.org/)
 
