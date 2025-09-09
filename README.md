@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2025年9月8日** 
+**更新日期：2025年9月9日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -55,12 +55,11 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 4. 使用教程：节约你的折腾成本
 5. 第一时间获取最新资源
 
-[👉点击购买VIP版（永久）](https://fk.wangdu.site/buy/18)（查看下图大纲展示，买断制，包更新）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+👉[点击购买VIP版（永久）](https://fk.wangdu.site/buy/18)（[👉VIP（永久）备用地址](https://fk.wwkjs.top/buy/18)，查看下图大纲展示，买断制，包更新）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
 
-[IPTV月卡](https://fk.wangdu.site/buy/31)（[👉购买VIP（月卡）备用地址](https://fk.wwkjs.top/buy/31)）【不包含体育频道】
+👉 [点击购买IPTV月卡](https://fk.wangdu.site/buy/31)（[VIP（月卡）备用地址](https://fk.wwkjs.top/buy/31)）【不包含体育频道】
 
-- 如果上面地址访问慢或者访问出错，请用这个地址：[👉购买VIP（永久）备用地址](https://fk.wwkjs.top/buy/18)
-- 支持 `APTV`（Apple TV） 这款软件以及任何`支持 M3U 文件`的软件
+- 支持 `APTV`（Apple TV） 软件以及任何`支持 M3U 文件`的软件
 - 爱奇艺和咪咕这些体育源都不需要自己开通会员
 
 > ⚠️温馨提示：
@@ -100,16 +99,12 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 | IPTV资源库                                                   | IPTV库介绍                                                   | 最后更新时间 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
 | [iptv-org/iptv](https://github.com/iptv-org/iptv)            | 收集世界各地公开提供的 IPTV（互联网协议电视）频道。          | 2025         |
-| [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U                             | 2023         |
-| [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)        | 包含Ftindy精选、BigBigGrandG、APTV、YanG、EPG节目单          | 2025         |
-| [m3u](https://github.com/YanG-1989/m3u)                      | 直播源                                                       | 2024         |
-| [IPTV](https://github.com/joevess/IPTV)                      | 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 | 2024         |
+| [joevess/IPTV](https://github.com/joevess/IPTV)              | 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流、央视台+卫视台直播源 | 2025         |
 | [Rivens7/Livelist](https://github.com/Rivens7/Livelist)      | IPTV-ipv6直播源同步及常看直播                                | 2025         |
-| [vbskycn/iptv](https://github.com/vbskycn/iptv)              | iptv最新可用直播源iptv4/iptv6                                | 2024         |
-| [Moexin/IPTV: MyIPTV](https://github.com/Moexin/IPTV)        | 包含成人源                                                   | 2025         |
-| [TVzhiboyuandaka/zhiboyuandaka.github.io](https://github.com/TVzhiboyuandaka/zhiboyuandaka.github.io) | 一些自己整合的直播源                                         | 2022         |
-| [wcb1969/iptv](https://github.com/wcb1969/iptv)              | 一些自己整合的直播源                                         | 2023         |
+| [wcb1969/iptv](https://github.com/wcb1969/iptv)              | 一些自己整合的直播源                                         | 2025         |
 | [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) | 与 IPTV 相关的资源精选列表                                   | 2025         |
+| ~~[Moexin/IPTV: MyIPTV](https://github.com/Moexin/IPTV)~~    | 包含成人源                                                   | 2025         |
+| ~~[Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)~~    | 包含Ftindy精选、BigBigGrandG、APTV、YanG、EPG节目单          | 2025         |
 
 ### 国内直播源
 
@@ -118,37 +113,37 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 ### 纯 IPv4 源
 
-- 百视通源：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u`
-- 重庆广电源：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u`
-- 阳泉广电源：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u`
-- 河北广电源：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u`
-- 国内4K/8K源：`https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u`
+- 百视通源：~~https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u~~
+- 重庆广电源：~~https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u~~
+- 阳泉广电源：~~https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u~~
+- 河北广电源：~~https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u~~
+- 国内4K/8K源：~~https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u~~
 - zbefine源：`https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u`
 - 茶客源：`https://raw.githubusercontent.com/vamoschuck/TV/main/M3U`
 - `https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u`
 
 直链：
 
-- `https://xxy.free.hr/YIPTV.m3u`
-- `https://iptv.228088.xyz/cn.m3u`
-- `https://testingcf.jsdelivr.net/gh/whpsky/iptv@main/chinatv.m3u`
+- ~~https://xxy.free.hr/YIPTV.m3u~~
+- ~~https://iptv.228088.xyz/cn.m3u~~
+- ~~https://testingcf.jsdelivr.net/gh/whpsky/iptv@main/chinatv.m3u~~
 
 ### 部分 IPv4、部分 IPv6 源
 
 - BigBigGrandG源，有部分IPv6：`https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u`
 - Kimentanm源，有部分IPv6：`https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u`
 - YanG集合源，有部分IPv6：`https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u`
-- 范明明直播源，有部分IPv6：`https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u`
+- 范明明直播源，有部分IPv6：~~https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u~~
 
 ### 纯 IPv6 源
 
-- 范明明直播源，纯IPv6源
+- 范明明（[fanmingming Github仓库地址](https://github.com/fanmingming/live)）直播源，纯IPv6源
   - `https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u`
   - 范明明直播源国内镜像加速地址：`https://live.fanmingming.cn/tv/m3u/ipv6.m3u`
 
-- YueChan 直播源，纯 IPv6：`https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u`
-- whpsky 源，纯 IPv6：`https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u`
-- ZhangHongGuang源，纯IPv6：`https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u`
+- [YueChan](https://github.com/YueChan/Live) 直播源，纯 IPv6：`https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u`
+- whpsky 源，纯 IPv6：~~https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u~~
+- ZhangHongGuang源，纯IPv6：~~https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u~~
 - `https://gitee.com/xxy002/zhiboyuan/raw/master/dsy`（央视频道、卫视频道、港澳台、数字电视、动漫）
 
 ### 部分海外源
@@ -163,23 +158,6 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 - 新加坡频道：`https://epg.pw/test_channels_singapore.m3u`
 - 马来西亚频道：`https://epg.pw/test_channels_malaysia.m3u`
 
-### 其他
-
-```sh
-YanG: https://yang-1989.eu.org/m3u/Gather
-
-https://iptv-org.github.io/iptv/index.m3u
-
-https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
-
-https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
-
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-
-# F1TV IPTV源 （仅比赛期间有信号）
-https://mashaf1.cn/F1.m3u
-```
-
 ### 国家地理、Discovery
 
 探索频道（Discovery）是由探索传播于1985年在美国创立的。探索频道主要播放流行科学、科技、历史、考古及自然纪录片。探索频道在世界主要国家地区均有落地，但探索频道会因应不同地区设立不同版本，加上字幕或配音。美国版本主要播放写实电视节目，如著名的流言终结者系列。
@@ -188,9 +166,9 @@ https://mashaf1.cn/F1.m3u
 
 [获取地址](https://www.wangdu.site/software/av-read/339.html)
 
-## IPTV直播源、EPG接口（精选）
+## 已测试M3U直播源
 
-- 已测试的本地直播源（更新日期：**2025年6月10日**）
+- 已测试的本地直播源（更新日期：**2025年09月09日**）
 - [VIP版](https://fk.wangdu.site/buy/18) 包含博主自维护专属在线播放源链接（央视频道、卫视频道、港澳台频道、体育、国际）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
   - 支持 `APTV` 这款软件以及`支持 M3U 文件`的软件
 
@@ -200,8 +178,6 @@ https://mashaf1.cn/F1.m3u
 ## 中国(港澳台) IPTV直播源M3U
 
 主要收录香港、澳门、台湾以及一些海外华人频道等，部分港澳台电视台需要有 [富强](https://help.wwkejishe.top/wang-shang-xue-ke) 上网才能收看（[VIP版](https://fk.wangdu.site/buy/18) 包含专属港澳台播放源链接）
-
-- 港澳台直播源本地测试版 - **2025年4月15日**
 
 [获取地址](https://www.wangdu.site/software/av-read/339.html)
 
@@ -244,6 +220,10 @@ https://mashaf1.cn/F1.m3u
   对中国进行了详细的地区分类来进行更加细化的查找电视台。
 
 - IPTV807 支持在线观看综合、体育、央视、卫视、港澳台、其他、电影、咪咕视频、福建移动IPTV、黑龙江移动IPTV、IPv6网络电视(限IPv6)等分类的电视频道。
+
+- [央视网](https://tv.cctv.com/live/)：CCTV-1 综合、CCTV-2 财经、CCTV-3 综艺、CCTV-4 中文国际、CCTV-4 中文国际美洲、CCTV-4 中文国际欧洲、CCTV-5 体育、CCTV-5+ 体育赛事、CCTV-6 电影、CCTV-7 国防军事、CCTV-8 电视剧、CCTV-9 纪录、CCTV-10 科教、CCTV-11 戏曲、CCTV-12 社会与法、CCTV-13 新闻、CCTV-14 少儿、CCTV-15 音乐、CCTV-17 农业农村
+
+- [央视频](https://www.yangshipin.cn/tv/home)：CCTV1-CCTV17、CGTN
 
 [获取地址](https://fk.wangdu.site/buy/18)
 
@@ -884,7 +864,7 @@ http://epg.aptvapp.com/xml
 
 [音速直播](https://fk.wangdu.site/buy/18)（版本号：6.0.2），应该是即刻的破解版，有中央卫视、各省地区、少儿、数字、轮播等频道。速度快、清晰度高
 
-## IPTV播放工具（需直播源）
+## IPTV播放工具（空壳软件，需直播源）
 
 可以用于来看 IPTV、M3U、M3U8 格式的软件，手机用户最好
 
@@ -1504,6 +1484,11 @@ my-tv-apk 在原来的 mytv 修复了一些问题的新版本，请卸载原来�
 metv直播是一款功能强大的视频播放软件，提供了丰富的分类内容，用户可以根据自己的喜好筛选并观看喜爱的视频。软件内置多个高清播放源，用户可以随时切换源以获得更好的播放体验。此外，软件还具有历史记录功能，可自动记录用户观看的剧集信息，方便用户随时在线查看。另外，还提供了倍速调节功能，用户可以根据自己的需求选择快速或慢速播放视频。
 
 ## 更新日志
+
+### 2025年9月9日
+
+- （博客版）IPTV直播源 - Github仓库 更新 直播源地址
+- （博客版）测试M3U直播源 更新 直播源文件
 
 ### 2025年9月8日
 
