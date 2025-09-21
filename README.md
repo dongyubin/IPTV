@@ -55,7 +55,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 4. 使用教程：节约你的折腾成本
 5. 第一时间获取最新资源
 
-👉[点击购买VIP版（永久）](https://fk.wangdu.site/buy/18)（[👉VIP（永久）备用地址](https://fk.wwkjs.top/buy/18)，查看下图大纲展示，买断制，包更新）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+👉[点击购买VIP版](https://fk.wangdu.site/buy/18)（[👉VIP备用地址](https://fk.wwkjs.top/buy/18)，查看下图大纲展示，买断制，包更新）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
 
 👉 [点击购买IPTV月卡](https://fk.wangdu.site/buy/31)（[VIP（月卡）备用地址](https://fk.wwkjs.top/buy/31)）【不包含体育频道】
 
