@@ -4,7 +4,7 @@
 
    ![TiviMate - 添加节目列表](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250307154213493.webp)
 
-2. 点击 `输入地址`，输入[博主自维护链接里的 m3u 地址](https://fk.wangdu.site/buy/18)，再点击`下一个`
+2. 点击 `输入地址`，输入[博主自维护链接里的 m3u 地址](https://www.wangdu.site/software/av-read/339.html)，再点击`下一个`
 
    ![TiviMate - 输入地址](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250307154616920.webp)
 

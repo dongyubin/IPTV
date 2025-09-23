@@ -119,17 +119,9 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 [获取地址](https://www.wangdu.site/software/av-read/339.html)
 
-## 已测试M3U直播源
-
-- 已测试的本地直播源（更新日期：**2025年09月09日**）
-- [VIP版](https://fk.wangdu.site/buy/18) 包含博主自维护专属在线播放源链接（央视频道、卫视频道、港澳台频道、体育、国际）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
-  - 支持 `APTV` 这款软件以及`支持 M3U 文件`的软件
-
-[下载地址](https://fk.wangdu.site/buy/18)
-
 ## 中国(港澳台) IPTV直播源M3U
 
-主要收录香港、澳门、台湾以及一些海外华人频道等，部分港澳台电视台需要有 [富强](https://help.wwkejishe.top/wang-shang-xue-ke) 上网才能收看（[VIP版](https://fk.wangdu.site/buy/18) 包含专属港澳台播放源链接）
+主要收录香港、澳门、台湾以及一些海外华人频道等，部分港澳台电视台需要有 [富强](https://help.wwkejishe.top/wang-shang-xue-ke) 上网才能收看
 
 [获取地址](https://www.wangdu.site/software/av-read/339.html)
 
@@ -138,8 +130,6 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 [获取地址](https://www.wangdu.site/software/dianshihezi/2180.html)
 
 ## 国际频道直播源
-
-[VIP版](https://fk.wangdu.site/buy/18) 在线链接包含以下所有直播源
 
 ### CNN网路直播
 
@@ -177,7 +167,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 - [央视频](https://www.yangshipin.cn/tv/home)：CCTV1-CCTV17、CGTN
 
-[获取地址](https://fk.wangdu.site/buy/18)
+[获取地址](https://www.wangdu.site/software/av-read/339.html)
 
 ## IPTV直播源（体育专区）
 
@@ -217,7 +207,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 ## IPTV源精细版（Github仓库）
 
-将仓库所包含的IPTV直播源，按照`更新时间`排序，更加方便使用。（[VIP版](https://fk.wangdu.site/buy/18) 包含更全、更新更及时）
+将仓库所包含的IPTV直播源，按照`更新时间`排序，更加方便使用。（[VIP版](https://www.wangdu.site/software/av-read/339.html) 包含更全、更新更及时）
 
 > ⚠️温馨提示：
 >
@@ -253,7 +243,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 ## IPTV直播源（聚合）
 
-[获取地址](https://fk.wangdu.site/buy/18)
+[获取地址](https://www.wangdu.site/software/av-read/339.html)
 
 - 自动更新 IPTV 源：聚合了网络上多个高清直播源。
 
@@ -288,7 +278,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 ### 一个橙子pro工具箱
 
-[一个橙子pro工具箱](https://fk.wangdu.site/buy/18) 内含IPTV直播源有效性检测工具（支持扫源、归属地、分辨率、响应速度）、内网分享、苹果CMS快搜、内网穿透的Windows端工具
+[一个橙子pro工具箱](https://www.wangdu.site/software/av-read/339.html) 内含IPTV直播源有效性检测工具（支持扫源、归属地、分辨率、响应速度）、内网分享、苹果CMS快搜、内网穿透的Windows端工具
 
 ## IPTV直播源格式转换工具
 
@@ -324,7 +314,7 @@ http://epg.aptvapp.com/xml
 
 ## 播放工具懒人版
 
-[播放工具懒人版详细版](https://fk.wangdu.site/buy/18)（简单易懂）
+[播放工具懒人版详细版](https://www.wangdu.site/software/av-read/339.html)（简单易懂）
 
 - 好用的 IPTV 直播源
 - Android、iOS、MacOS、Windows 系统看电视、看电影软件（以下是 Android 失效名单）
@@ -346,7 +336,7 @@ http://epg.aptvapp.com/xml
 
 ### 看电影
 
-1. [全网影视](https://fk.wangdu.site/buy/18)：TVBox修改版带数据源
+1. [全网影视](https://www.wangdu.site/software/av-read/339.html)：TVBox修改版带数据源
    - 启动后，需要手动激活"仓库"。
    - 激活操作：多仓版本点击【配置】，在出现的窗口中点击"确定"，选择"仓库"；单仓版本直接点击【线路】或【主页】
    - 关于直播：在进入【直播】后，按菜单键，选择右边的【直播地址】，则会出现多个接口的切换选择。
@@ -397,13 +387,13 @@ http://epg.aptvapp.com/xml
 
 ### 我们的电视
 
-[我们的电视](https://fk.wangdu.site/buy/18)：电视直播软件，安装即可使用，高清，超清，蓝光，完全免费，您再也不用费劲巴力的找各种不稳定的直播源了。更有节目单回看强大功能秒杀市面上各类XXXPTV（回看功能需要赞赏才能使用）
+[我们的电视](https://www.wangdu.site/software/av-read/339.html)：电视直播软件，安装即可使用，高清，超清，蓝光，完全免费，您再也不用费劲巴力的找各种不稳定的直播源了。更有节目单回看强大功能秒杀市面上各类XXXPTV（回看功能需要赞赏才能使用）
 
 ![我们的电视](https://cdn.wwkejishe.top/wp-cdn-02/2024/20241217102213385.webp)
 
 ### HTV
 
-[HTV](https://fk.wangdu.site/buy/18)（版本号：1.1.1）：A live media player app（电视直播软件）兼容 Android 4.4 和 IPv4，可播放 rtp 等各种源。
+[HTV](https://www.wangdu.site/software/av-read/339.html)（版本号：1.1.1）：A live media player app（电视直播软件）兼容 Android 4.4 和 IPv4，可播放 rtp 等各种源。
 
 - 支持 Android 较低的版本，如 Android 4.4 等
 - 网络环境 IPv4 或 IPv6 均可
@@ -412,7 +402,7 @@ http://epg.aptvapp.com/xml
 
 ### SimpleTV
 
-[SimpleTV](https://fk.wangdu.site/buy/18)（版本号：1.0.8）：观看电视直播软件，打开即看，直播源定期维护更新
+[SimpleTV](https://www.wangdu.site/software/av-read/339.html)（版本号：1.0.8）：观看电视直播软件，打开即看，直播源定期维护更新
 
 1. 观看电视直播，支持央视和地方台。 操作简单，打开即看，方便中老年人使用，让电视回归本质。
 2. 部分频道目前仅支持 IPV6 网络，IPV4 网络无法播放。
@@ -423,33 +413,33 @@ http://epg.aptvapp.com/xml
 
 ### my-tv-apk
 
-[my-tv-apk](https://fk.wangdu.site/buy/18) 在原来的 mytv 修复了一些问题的新版本，请卸载原来的 mytv 再使用此版本。
+[my-tv-apk](https://www.wangdu.site/software/av-read/339.html) 在原来的 mytv 修复了一些问题的新版本，请卸载原来的 mytv 再使用此版本。
 
 ### 我的电视 my-tv 修改版
 
-[我的电视 my-tv 2.1.8-19 (电视直播) 修改版](https://fk.wangdu.site/buy/18) 是一款免费无广告的智能电视及机顶盒电视直播软件APP，我的tv电视版同步央视卫视高清直播和地方卫视频道。我的电视tv电视版支持直播时移/直播预约/回看功能,高清/超清直播源切换。
+[我的电视 my-tv 2.1.8-19 (电视直播) 修改版](https://www.wangdu.site/software/av-read/339.html) 是一款免费无广告的智能电视及机顶盒电视直播软件APP，我的tv电视版同步央视卫视高清直播和地方卫视频道。我的电视tv电视版支持直播时移/直播预约/回看功能,高清/超清直播源切换。
 
 我的电视 my-tv 是一款安卓电视直播软件，内置直播源。频道不多，只有央视、卫视，国际频道只有央视所有的CGTN，没有广告和购物台，可以放心给父母或孩子观看。
 
 ### 8KIPTV直播
 
-[8KIPTV直播](https://fk.wangdu.site/buy/18)是一款4K、8K的解码测试壳，已经内置了央视的4K和8K播放线路，可以直接选择线路播放，还支持自备测试源链接，也就是你有好用的源，可以直接用这个播放。
+[8KIPTV直播](https://www.wangdu.site/software/av-read/339.html)是一款4K、8K的解码测试壳，已经内置了央视的4K和8K播放线路，可以直接选择线路播放，还支持自备测试源链接，也就是你有好用的源，可以直接用这个播放。
 
 ### 电视家
 
-[电视家](https://fk.wangdu.site/buy/18)app(电视家TV版)是一款智能电视及机顶盒电视直播软件，拥有大量稳定的高清频道，数字频道，经典电影专栏等。电视家电视版2024，支持直播时移，直播回看预约，高清/超清直播源切换，可以自建频道自定义分享码.
+[电视家](https://www.wangdu.site/software/av-read/339.html)app(电视家TV版)是一款智能电视及机顶盒电视直播软件，拥有大量稳定的高清频道，数字频道，经典电影专栏等。电视家电视版2024，支持直播时移，直播回看预约，高清/超清直播源切换，可以自建频道自定义分享码.
 
 ![电视家](https://b2.wwkejishe.top/WP-CDN-02/2024/202407071031868.webp)
 
 ### 极悦直播
 
-[极悦直播](https://fk.wangdu.site/buy/18)可免费畅享央视、卫视和地方台，还有精彩影视作品。拥有2000+频道！无论是综艺、体育、热门影视等，应有尽有，您想看的都可以在这里找到！播放流畅稳定，超清影院级画质，给您带来非凡观看体验！
+[极悦直播](https://www.wangdu.site/software/av-read/339.html)可免费畅享央视、卫视和地方台，还有精彩影视作品。拥有2000+频道！无论是综艺、体育、热门影视等，应有尽有，您想看的都可以在这里找到！播放流畅稳定，超清影院级画质，给您带来非凡观看体验！
 
 ![极悦直播](https://b2.wwkejishe.top/WP-CDN-02/2024/202407071032643.webp)
 
 ### 灵犀直播
 
-[灵犀直播](https://fk.wangdu.site/buy/18)是用于观看电视直播的一款软件，能够安装后点击打开更多的频道了，每个频道的画质都是相较于其他的电视直播软件更上一层楼的，超级清晰的播放画面，更多的节目资源，每个频道都可以正常的观看，不会有电视播放卡顿的情况，所以可以放心下载安装到电视机上面使用了。
+[灵犀直播](https://www.wangdu.site/software/av-read/339.html)是用于观看电视直播的一款软件，能够安装后点击打开更多的频道了，每个频道的画质都是相较于其他的电视直播软件更上一层楼的，超级清晰的播放画面，更多的节目资源，每个频道都可以正常的观看，不会有电视播放卡顿的情况，所以可以放心下载安装到电视机上面使用了。
 
 灵犀直播怎么自建频道
 
@@ -459,31 +449,31 @@ http://epg.aptvapp.com/xml
 
 ### 秒看电视TV版
 
-[秒看电视TV版 v9.2.17](https://fk.wangdu.site/buy/18) 是一款功能强大、完全免费的电视直播软件，同样适配安卓手机，内置了非常多的的电视直播服务频道：央视、卫视、地方、少儿、体育、国际、地理、4K、数字、纪录、新闻、电台、课堂、MTV、影视轮播等直播频道。
+[秒看电视TV版 v9.2.17](https://www.wangdu.site/software/av-read/339.html) 是一款功能强大、完全免费的电视直播软件，同样适配安卓手机，内置了非常多的的电视直播服务频道：央视、卫视、地方、少儿、体育、国际、地理、4K、数字、纪录、新闻、电台、课堂、MTV、影视轮播等直播频道。
 
 ### 高清电视直播App
 
-[高清电视直播App](https://fk.wangdu.site/buy/18)是一款支持搭载Android系统的智能电视、智能播放器等设备的直播电视收看应用，由国内耕耘数字电视多年的专业团队打造。使用遥控器操作快捷方便，直播节目源多为P2P高清源，清晰稳定，专人维护。
+[高清电视直播App](https://www.wangdu.site/software/av-read/339.html)是一款支持搭载Android系统的智能电视、智能播放器等设备的直播电视收看应用，由国内耕耘数字电视多年的专业团队打造。使用遥控器操作快捷方便，直播节目源多为P2P高清源，清晰稳定，专人维护。
 
 ![高清电视直播App](https://b2.wwkejishe.top/WP-CDN-02/2024/202407161121064.webp)
 
 ### 小苹果影视TV版
 
-[小苹果影视APP(影视聚合软件)](https://fk.wangdu.site/buy/18) 是一款免费的机顶盒子影视软件，智能搜索全网影视资源，免费观看院线大片，付费影视等高清视频，小苹果影视TV版聚合全网影视站，新小苹果影视盒子版影视聚合软件提供多个站源切换。
+[小苹果影视APP(影视聚合软件)](https://www.wangdu.site/software/av-read/339.html) 是一款免费的机顶盒子影视软件，智能搜索全网影视资源，免费观看院线大片，付费影视等高清视频，小苹果影视TV版聚合全网影视站，新小苹果影视盒子版影视聚合软件提供多个站源切换。
 
 ![小苹果影视TV版](https://b2.wwkejishe.top/WP-CDN-02/2024/202406281405211.webp)
 
 ### 央视影音Cbox_6.002
 
-[央视影音客户端](https://fk.wangdu.site/buy/18)（Cbox网络电视）是中国电视直播客户端，聚合央视旗下海量独家资源。CNTV中国网络电视台独家采用P2P技术点播形式，汇集央视频道，地方卫视高清直播以及央视节目点播和下载，满足观看直播节目需求。央视影音桌面版具有高清直播流畅，简洁广告少，直播时移，点播倍速，直播回看，界面预订，智能EPG等功能。
+[央视影音客户端](https://www.wangdu.site/software/av-read/339.html)（Cbox网络电视）是中国电视直播客户端，聚合央视旗下海量独家资源。CNTV中国网络电视台独家采用P2P技术点播形式，汇集央视频道，地方卫视高清直播以及央视节目点播和下载，满足观看直播节目需求。央视影音桌面版具有高清直播流畅，简洁广告少，直播时移，点播倍速，直播回看，界面预订，智能EPG等功能。
 
 ### 极简TV
 
-[极简TV](https://fk.wangdu.site/buy/18)是一款轻量级支持全平台及安卓电视大屏的IPTV播放器。
+[极简TV](https://www.wangdu.site/software/av-read/339.html)是一款轻量级支持全平台及安卓电视大屏的IPTV播放器。
 
 ### 猫TV直播
 
-[猫TV直播](https://fk.wangdu.site/buy/18)-新服版是一款更新了内置源线路的直播软件，引入了猫TV直播源，为用户提供了更丰富的直播内容选择。用户只需进行简单的数据备份和重置，即可无缝切换到最新更新的直播列表，享受更加流畅和多样化的在线观看体验。
+[猫TV直播](https://www.wangdu.site/software/av-read/339.html)-新服版是一款更新了内置源线路的直播软件，引入了猫TV直播源，为用户提供了更丰富的直播内容选择。用户只需进行简单的数据备份和重置，即可无缝切换到最新更新的直播列表，享受更加流畅和多样化的在线观看体验。
 
 - 包含 央视、港澳台 直播源
 
@@ -491,26 +481,26 @@ http://epg.aptvapp.com/xml
 
 ### WebView 电视
 
-[WebView 电视](https://fk.wangdu.site/buy/18)是一款使用 WebView 开发的电视直播App，内置了多线路官方源，软件的原理是通过加载官方的直播网页（CCTV、央视频官网），并通过自动找到video标签，软件加载成功后会自动全屏。
+[WebView 电视](https://www.wangdu.site/software/av-read/339.html)是一款使用 WebView 开发的电视直播App，内置了多线路官方源，软件的原理是通过加载官方的直播网页（CCTV、央视频官网），并通过自动找到video标签，软件加载成功后会自动全屏。
 
 ![WebView 电视](https://cdn.wwkejishe.top/wp-cdn-02/2024/202410171400971.webp)
 
 ### 目目电视
 
-[目目电视](https://fk.wangdu.site/buy/18)拥有庞大的影视资源库，涵盖了各种类型的影视作品，包括电影、电视剧、综艺节目、纪录片等。这些资源都是经过严格筛选和审核的，确保为您提供高质量的视听盛宴。此外，目目电视还实时更新热门影片和电视剧，让您随时随地了解最新的影视动态。
+[目目电视](https://www.wangdu.site/software/av-read/339.html)拥有庞大的影视资源库，涵盖了各种类型的影视作品，包括电影、电视剧、综艺节目、纪录片等。这些资源都是经过严格筛选和审核的，确保为您提供高质量的视听盛宴。此外，目目电视还实时更新热门影片和电视剧，让您随时随地了解最新的影视动态。
 除了丰富的影视资源，目目电视还具备强大的搜索功能。您只需输入关键词，即可快速找到您感兴趣的影视作品。同时，目目电视还支持多语言字幕，让您在观看境外影视作品时更加方便。
 
 ![目目电视](https://cdn.wwkejishe.top/wp-cdn-02/2024/202411071621889.webp)
 
 ### 野火直播
 
-[野火直播](https://fk.wangdu.site/buy/18)（水星直播）是一款非常好用的TV电视直播软件，界面美观简洁清爽大气，内容非常丰富。软件免费无广告、无需注册，无任何限制。专业的直播，支持台标和epg等各类信息的展示，让大家可以更清晰的了解所看的蘋道节目。支持回看，节目加载非常快，而且大部分都支持七天回看。丰富的蘋道，央视卫视地方台都有。
+[野火直播](https://www.wangdu.site/software/av-read/339.html)（水星直播）是一款非常好用的TV电视直播软件，界面美观简洁清爽大气，内容非常丰富。软件免费无广告、无需注册，无任何限制。专业的直播，支持台标和epg等各类信息的展示，让大家可以更清晰的了解所看的蘋道节目。支持回看，节目加载非常快，而且大部分都支持七天回看。丰富的蘋道，央视卫视地方台都有。
 
 ![野火直播](https://cdn.wwkejishe.top/wp-cdn-02/2024/202411121451790.webp)
 
 ### 天光云影
 
-[天光云影](https://fk.wangdu.site/buy/18)（[天光云影添加直播源教程](./IPTV-天光云影添加直播源.md)）
+[天光云影](https://www.wangdu.site/software/av-read/339.html)（[天光云影添加直播源教程](./IPTV-天光云影添加直播源.md)）
 
 - original：正常版本
 - disguised：伪装版本，伪装成Z视介（com.chinablue.tv）。解决鸿蒙系统小窗无法横屏，支持超级桌面。
@@ -538,13 +528,13 @@ http://epg.aptvapp.com/xml
 
 ### AKTV
 
-[AKTV](https://fk.wangdu.site/buy/18) 是一款免费的机顶盒子影视软件（基于天光云影开发），智能搜索全网影视资源，免费观看院线大片，付费影视等高清视频，aktv版聚合全网影视站源，提供多条数据源，可切换首页资源。（包含港澳台直播源）
+[AKTV](https://www.wangdu.site/software/av-read/339.html) 是一款免费的机顶盒子影视软件（基于天光云影开发），智能搜索全网影视资源，免费观看院线大片，付费影视等高清视频，aktv版聚合全网影视站源，提供多条数据源，可切换首页资源。（包含港澳台直播源）
 
 ![AKTV](https://cdn.wwkejishe.top/wp-cdn-02/2024/202411281607992.webp)
 
 ### 万家灯火直播TV（双十一版）
 
-[万家灯火TV](https://fk.wangdu.site/buy/18)（双十一版） 是一款免费收看港澳台直播，非常优秀的电视直播app，切换台速度非常快，信号稳定，电视直播、港澳台直播、电视盒子、智能电视app、tvbox，推荐港澳台直播电视必装app
+[万家灯火TV](https://www.wangdu.site/software/av-read/339.html)（双十一版） 是一款免费收看港澳台直播，非常优秀的电视直播app，切换台速度非常快，信号稳定，电视直播、港澳台直播、电视盒子、智能电视app、tvbox，推荐港澳台直播电视必装app
 
 万家灯火TV版 是一款高清热门的电视直播IPTV，提供海量海岸多线、海外秒开频道。用户可以自由选择喜欢的频道，并通过高度智能化的搜索功能找到喜欢的综艺、电影、电视剧等内容。此外，它还支持多种语言字幕，满足不同用户的观看需求。
 
@@ -558,13 +548,13 @@ http://epg.aptvapp.com/xml
 
 ### 空壳影视
 
-[空壳影视](https://fk.wangdu.site/buy/18) 是一个影视壳App。可自定义源。支持电视直播、影视点播。通过换源享受无尽不受限的资源。电视直播源格式为 M3U，影视源为 MacCMS 的 Api，均为互联网最广泛的资源形式。
+[空壳影视](https://www.wangdu.site/software/av-read/339.html) 是一个影视壳App。可自定义源。支持电视直播、影视点播。通过换源享受无尽不受限的资源。电视直播源格式为 M3U，影视源为 MacCMS 的 Api，均为互联网最广泛的资源形式。
 
 ![空壳影视](https://cdn.wwkejishe.top/wp-cdn-02/2024/20241216104313962.webp)
 
 ### 广电电视TV版
 
-[广电电视TV版 1.9.9](https://fk.wangdu.site/buy/18) 一款免费的手机电视直播软件，支持电视端安装使用，用户可以通过这款APP自由添加自己喜欢的频道，享受高清的播放画质，软件无广告，也没有任何限制，全部频道都可以免费看。
+[广电电视TV版 1.9.9](https://www.wangdu.site/software/av-read/339.html) 一款免费的手机电视直播软件，支持电视端安装使用，用户可以通过这款APP自由添加自己喜欢的频道，享受高清的播放画质，软件无广告，也没有任何限制，全部频道都可以免费看。
 
 1. 提供央视、卫视、地方电视台等多个频道的直播服务。APP覆盖了央视、卫视、地方台等2000+频道，满足用户的不同观看需求。用户可以观看全国各大电视台的电视节目，包括央视的CCTV系列和各省份的卫视频道等。提供电视剧和其他类型的节目供用户选择，支持搜索和收藏功能。除了直播功能，还提供点播服务，用户可以随时随地观看自己感兴趣的电视剧和其他节目。
 
@@ -578,7 +568,7 @@ http://epg.aptvapp.com/xml
 
 ### 星火电视海外版
 
-[星火电视海外版_1.0.46去广告TV版](https://fk.wangdu.site/buy/18)（版本号：1.0.46） 是一款电视直播软件，影视资源非常丰富，有各地卫视台，也有所有央视频道，还有明星景点的电影轮播，除此之外海外的一些电视台也可以观看
+[星火电视海外版_1.0.46去广告TV版](https://www.wangdu.site/software/av-read/339.html)（版本号：1.0.46） 是一款电视直播软件，影视资源非常丰富，有各地卫视台，也有所有央视频道，还有明星景点的电影轮播，除此之外海外的一些电视台也可以观看
 
 1. 支持全国5000 个电视频道直播
 2. 高清流畅便捷的用户体验
@@ -592,7 +582,7 @@ http://epg.aptvapp.com/xml
 
 ### 橙色直播TV版
 
-[橙色直播TV版](https://fk.wangdu.site/buy/18)（版本号：V1.0_20240417）电视盒子是一款最新的电视盒子软件，软件整体非常简洁，加载各个电视台的速度非常快，基本是秒加载，可以说非常顺畅了，软件还有各种自定义设置功能，没有任何的广告，收费项目，安装即可，UI界面也很符合电视操作的逻辑，是一款很好用的电视盒子。
+[橙色直播TV版](https://www.wangdu.site/software/av-read/339.html)（版本号：V1.0_20240417）电视盒子是一款最新的电视盒子软件，软件整体非常简洁，加载各个电视台的速度非常快，基本是秒加载，可以说非常顺畅了，软件还有各种自定义设置功能，没有任何的广告，收费项目，安装即可，UI界面也很符合电视操作的逻辑，是一款很好用的电视盒子。
 
 1. 橙色电视直播没有任何广告，非常干净，频道也非常全，几乎有你要看的所有频道
 
@@ -615,13 +605,13 @@ http://epg.aptvapp.com/xml
 
 ### 拾光电视
 
-[拾光电视](https://fk.wangdu.site/buy/18)（版本号：9.9.9）一款免费看电视的软件，拾光电视软件里面无论是央视、卫视、影视轮播或者港苔节目都可以观看，而且覆盖类型非常广泛，比如音乐、MV、景区等特殊类型的节目，大部分频道都可以流畅播放，保证让你满意！
+[拾光电视](https://www.wangdu.site/software/av-read/339.html)（版本号：9.9.9）一款免费看电视的软件，拾光电视软件里面无论是央视、卫视、影视轮播或者港苔节目都可以观看，而且覆盖类型非常广泛，比如音乐、MV、景区等特殊类型的节目，大部分频道都可以流畅播放，保证让你满意！
 
 ![拾光电视](https://cdn.wwkejishe.top/wp-cdn-02/2024/20241217161137648.webp)
 
 ### 即刻电视
 
-[即刻电视](https://fk.wangdu.site/buy/18)（版本号：6.0.1）是一款提供免费电视直播服务的优质应用盒子，内置了海量电视直播服务：央视、卫视、地方等频道，全部免费观看，无需登录、无需授权，无任何广告弹窗，全部使用视频硬解技术，高清画质秒加载秒播放；除此之外还有更多功能设置支持，像长辈模式大字体、外省频道设置等
+[即刻电视](https://www.wangdu.site/software/av-read/339.html)（版本号：6.0.1）是一款提供免费电视直播服务的优质应用盒子，内置了海量电视直播服务：央视、卫视、地方等频道，全部免费观看，无需登录、无需授权，无任何广告弹窗，全部使用视频硬解技术，高清画质秒加载秒播放；除此之外还有更多功能设置支持，像长辈模式大字体、外省频道设置等
 
 1. 免费无需注册，安装即可观看
 
@@ -631,7 +621,7 @@ http://epg.aptvapp.com/xml
 
 ### 肥羊直播App
 
-[肥羊直播App](https://fk.wangdu.site/buy/18)（版本号：1.0.2）是一款专为电视用户设计的直播软件，提供丰富多彩的直播内容，包括央视、卫视、综合、地方、卡通动漫、娱乐、历史古装和电影等频道。该软件支持多种设备，如智能电视、高清机顶盒和安卓手机，为用户带来便捷且高清的观看体验。
+[肥羊直播App](https://www.wangdu.site/software/av-read/339.html)（版本号：1.0.2）是一款专为电视用户设计的直播软件，提供丰富多彩的直播内容，包括央视、卫视、综合、地方、卡通动漫、娱乐、历史古装和电影等频道。该软件支持多种设备，如智能电视、高清机顶盒和安卓手机，为用户带来便捷且高清的观看体验。
 
 内置的本地源确实非常不错，使用的是TVbox的精简电视直播功能的盒子APP
 
@@ -639,7 +629,7 @@ http://epg.aptvapp.com/xml
 
 ### 电视大全
 
-[电视大全TV版app](https://fk.wangdu.site/buy/18)（版本号：1.3.8）是一款转为电视打造的追剧平台，央视、卫视、地方等频道都可以在这里观看，用户可以根据喜好自由观看心仪的频道节目，时事新闻、经典老剧、搞笑综艺等等都可以流畅观看。（`APP 内弹出的二维码，按返回键取消即可`）
+[电视大全TV版app](https://www.wangdu.site/software/av-read/339.html)（版本号：1.3.8）是一款转为电视打造的追剧平台，央视、卫视、地方等频道都可以在这里观看，用户可以根据喜好自由观看心仪的频道节目，时事新闻、经典老剧、搞笑综艺等等都可以流畅观看。（`APP 内弹出的二维码，按返回键取消即可`）
 
 1. 拥有全面的影视资源，在线免费观看自己喜欢的节目资源。
 
@@ -657,27 +647,27 @@ http://epg.aptvapp.com/xml
 
 ### 大吉电视TV版
 
-[大吉电视tv版](https://fk.wangdu.site/buy/18)（版本号：1.3.88）是一款集合了丰富资源和强大功能的电视直播平台应用程序。它通过互联网连接，将传统电视节目的观看方式带入了一个全新的数字时代，让用户能够随时随地享受到高清、流畅的电视直播服务。这款软件以其独特的设计和用户体验，迅速在用户中获得了广泛的好评和高度的认可。
+[大吉电视tv版](https://www.wangdu.site/software/av-read/339.html)（版本号：1.3.88）是一款集合了丰富资源和强大功能的电视直播平台应用程序。它通过互联网连接，将传统电视节目的观看方式带入了一个全新的数字时代，让用户能够随时随地享受到高清、流畅的电视直播服务。这款软件以其独特的设计和用户体验，迅速在用户中获得了广泛的好评和高度的认可。
 
 ![大吉电视TV版](https://cdn.wwkejishe.top/wp-cdn-02/2024/20241223165118110.webp)
 
 ### 晨瑞电视
 
-[晨瑞电视 fongmi 版](https://fk.wangdu.site/buy/18)（版本号：2.3.3）是一款功能丰富的电视直播软件，集合了央视、卫视、地方、高清轮播等600多个直播频道，同时收录了各大视频网站的电影、电视剧、综艺、纪录片等内容。其画质稳定高清，即便是普通电视台也能提供高清体验。
+[晨瑞电视 fongmi 版](https://www.wangdu.site/software/av-read/339.html)（版本号：2.3.3）是一款功能丰富的电视直播软件，集合了央视、卫视、地方、高清轮播等600多个直播频道，同时收录了各大视频网站的电影、电视剧、综艺、纪录片等内容。其画质稳定高清，即便是普通电视台也能提供高清体验。
 
 ### 凤凰TV2.6
 
-[凤凰TV2.6](https://fk.wangdu.site/buy/18)（凤凰TV_4.0）是一款修改版的电视直播TV，也就是山寨版的电视直播软件，跟真正的那个凤凰TV没有任何关系的，内置了V6的电视，播放速度还是不错的，本站测试的时候发现正常家庭V4网络是打不开的，后面使用手机的网络才加载成功，所以在使用的时候注意一下！内置V6线路直播源，修改版电视直播TV。
+[凤凰TV2.6](https://www.wangdu.site/software/av-read/339.html)（凤凰TV_4.0）是一款修改版的电视直播TV，也就是山寨版的电视直播软件，跟真正的那个凤凰TV没有任何关系的，内置了V6的电视，播放速度还是不错的，本站测试的时候发现正常家庭V4网络是打不开的，后面使用手机的网络才加载成功，所以在使用的时候注意一下！内置V6线路直播源，修改版电视直播TV。
 
 ### HDTV
 
-[HDTV](https://fk.wangdu.site/buy/18)（版本号：1.4）是一款专门提供香港与澳门电视频道直播软件，软件小巧强大，功能安全全面，用户可以在HDTV上观看高清的港澳台电视节目，资源全面，爱看tvb电视剧或爱看海外频道节目的可以安装体验！双播高清影视TV，支持影视点播，全球直播频道。
+[HDTV](https://www.wangdu.site/software/av-read/339.html)（版本号：1.4）是一款专门提供香港与澳门电视频道直播软件，软件小巧强大，功能安全全面，用户可以在HDTV上观看高清的港澳台电视节目，资源全面，爱看tvb电视剧或爱看海外频道节目的可以安装体验！双播高清影视TV，支持影视点播，全球直播频道。
 
 ![HDTV_1.4](https://cdn.wwkejishe.top/wp-cdn-02/2024/20250102105459498.webp)
 
 ### 伪·电视家
 
-[伪·电视家](https://fk.wangdu.site/buy/18)（版本号：4.0_1.0.21）去广告版是一款非常好用的电视直播神器，同样也适配安卓手机，内置了海量电视直播服务：央视、卫视、地方、财经、教育、少儿、动画、体育、综艺、游戏、运动、健身、历史、梨园、影视轮播等直播频道，全部免费观看，支持直播时移、直播回看、直播预约，高清直播源、超清直播源切换、自建频道自定义分享码分享。
+[伪·电视家](https://www.wangdu.site/software/av-read/339.html)（版本号：4.0_1.0.21）去广告版是一款非常好用的电视直播神器，同样也适配安卓手机，内置了海量电视直播服务：央视、卫视、地方、财经、教育、少儿、动画、体育、综艺、游戏、运动、健身、历史、梨园、影视轮播等直播频道，全部免费观看，支持直播时移、直播回看、直播预约，高清直播源、超清直播源切换、自建频道自定义分享码分享。
 
 1. 电视家完美版采用ipv6，如果无法播放，请检查家里WiFi是否支持5g或者用5g流量即可观看。
 
@@ -696,7 +686,7 @@ http://epg.aptvapp.com/xml
 
 ### 七星ITV
 
-[七星ITV](https://fk.wangdu.site/buy/18)（版本号：2.0）作为一款免密码的电视盒子软件，其中包含丰富的视频频道，用户可以按照自己的喜好来切换频道进行视频收看，不论是国内的知名央视频道，乡镇的小频道，或者是国外的频道都能够在这里解锁，总之是非常庞大的资源库，任意切换，添加收藏，可以让你更加快速进行频道搜索。
+[七星ITV](https://www.wangdu.site/software/av-read/339.html)（版本号：2.0）作为一款免密码的电视盒子软件，其中包含丰富的视频频道，用户可以按照自己的喜好来切换频道进行视频收看，不论是国内的知名央视频道，乡镇的小频道，或者是国外的频道都能够在这里解锁，总之是非常庞大的资源库，任意切换，添加收藏，可以让你更加快速进行频道搜索。
 
 1. 有港澳台，IPV6、IPV4都有，还有些轮播、游戏、广播、咪咕体育等特殊频道。
 2. 超高清的画面设计，还原电视的播放画质，带给用户真实的视频体验
@@ -716,7 +706,7 @@ http://epg.aptvapp.com/xml
 
 ### Pn播放器
 
-[Pn播放器](https://fk.wangdu.site/buy/18)是一款IPTV电视播放器，不支持安卓5以下系统版本。不能使用的，请自行想办法升级系统，或者升级设备。
+[Pn播放器](https://www.wangdu.site/software/av-read/339.html)是一款IPTV电视播放器，不支持安卓5以下系统版本。不能使用的，请自行想办法升级系统，或者升级设备。
 
 > 首次打开会有弹窗提示，按返回就可以跳过了
 >
@@ -726,13 +716,13 @@ http://epg.aptvapp.com/xml
 
 ### 极速播TV
 
-[极速播TV](https://fk.wangdu.site/buy/18)是一款影视电视直播类软件，此款软件上可以观看各种电视直播，中央频道和地方卫视应有尽有，同时软件中还做了各种不同类型频道的分类，让你能够快速找到自己想看的节目。
+[极速播TV](https://www.wangdu.site/software/av-read/339.html)是一款影视电视直播类软件，此款软件上可以观看各种电视直播，中央频道和地方卫视应有尽有，同时软件中还做了各种不同类型频道的分类，让你能够快速找到自己想看的节目。
 
 ![极速播TV_1.3.9-央视、卫视、地方](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250107163010824.webp)
 
 ### 帆看TV
 
-[帆看TV](https://fk.wangdu.site/buy/18)软件是一款可以在安卓手机和电视机上使用的看电视直播的软件，内置了多种播放源，每一个电视频道如果没办法播放，就可以切换播放源，保证你能够轻松看各种频道，最常见的卫视都有，完全无限制去播放，还可以看到频道的节目单，能够点击预约频道的节目去看。
+[帆看TV](https://www.wangdu.site/software/av-read/339.html)软件是一款可以在安卓手机和电视机上使用的看电视直播的软件，内置了多种播放源，每一个电视频道如果没办法播放，就可以切换播放源，保证你能够轻松看各种频道，最常见的卫视都有，完全无限制去播放，还可以看到频道的节目单，能够点击预约频道的节目去看。
 
 免费的手机电视直播软件，同时也支持安装在电视端使用。软件内置了多个电视源，能够满足广大用户的观看需求。提供的电视频道涵盖了央视、各大卫视以及地方频道，内容丰富多样。安装过程简单便捷，且无任何播放限制。
 
@@ -767,13 +757,13 @@ http://epg.aptvapp.com/xml
 
 ### 小飞电视
 
-[小飞电视app](https://fk.wangdu.site/buy/18)（版本号：2.4.6）是一款免费用来播放高清电视的工具，可以在各种安卓电视，手机上面观看高清的电视节目，其主要为用户提供央视、卫视、各地方电视台。（数百家电视台，节目秒切，电信，移动，联通都能秒开,更有4K 8K的高清节目源。）
+[小飞电视app](https://www.wangdu.site/software/av-read/339.html)（版本号：2.4.6）是一款免费用来播放高清电视的工具，可以在各种安卓电视，手机上面观看高清的电视节目，其主要为用户提供央视、卫视、各地方电视台。（数百家电视台，节目秒切，电信，移动，联通都能秒开,更有4K 8K的高清节目源。）
 
 ![小飞电视_2.4.6-央视、卫视、地方](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250110101854000.webp)
 
 ### 旋风直播
 
-[旋风直播](https://fk.wangdu.site/buy/18)（版本号：6.0.1）是一款清爽免费的电视直播app，资源多，有央视、卫视、地方台等等，操作简单流畅，清晰度也还不错，体验非常好。
+[旋风直播](https://www.wangdu.site/software/av-read/339.html)（版本号：6.0.1）是一款清爽免费的电视直播app，资源多，有央视、卫视、地方台等等，操作简单流畅，清晰度也还不错，体验非常好。
 
 1. 应用安装后打开即可观看，无需登录，界面操作简单流畅，老人小孩也是很容易上手。
 
@@ -783,7 +773,7 @@ http://epg.aptvapp.com/xml
 
 ### 爱尚电视
 
-[爱尚电视](https://fk.wangdu.site/buy/18)（版本号：2.2.6）是一款免费好用的电视直播应用软件，它使用了mytv的壳，并内置了爱尚影视源，换台流畅无卡顿。
+[爱尚电视](https://www.wangdu.site/software/av-read/339.html)（版本号：2.2.6）是一款免费好用的电视直播应用软件，它使用了mytv的壳，并内置了爱尚影视源，换台流畅无卡顿。
 
 1. 多端支持，支持手机、平板、电视等安卓设备，自适应尺寸。
 
@@ -795,11 +785,11 @@ http://epg.aptvapp.com/xml
 
 ### 千寻电视直播
 
-[千寻电视直播app](https://fk.wangdu.site/buy/18) 是一款非常强大的电视直播盒子软件，千寻电视直播app涵盖丰富的内容，各种电视频道应有尽有，各种影视、体育、纪录片等节目随你观看，清晰流畅播放，还内置多条线路，提供频道列表选择，更支持回看功能，没有广告，让大家不错过任何精彩的节目。
+[千寻电视直播app](https://www.wangdu.site/software/av-read/339.html) 是一款非常强大的电视直播盒子软件，千寻电视直播app涵盖丰富的内容，各种电视频道应有尽有，各种影视、体育、纪录片等节目随你观看，清晰流畅播放，还内置多条线路，提供频道列表选择，更支持回看功能，没有广告，让大家不错过任何精彩的节目。
 
 ### 圆桌直播
 
-[圆桌直播](https://fk.wangdu.site/buy/18)（版本号：1.0.1） 不仅提供央视、卫视、地方台等传统电视频道，还涵盖了电影、游戏、音乐、经典剧场等多种娱乐内容，满足全家人的观看需求。
+[圆桌直播](https://www.wangdu.site/software/av-read/339.html)（版本号：1.0.1） 不仅提供央视、卫视、地方台等传统电视频道，还涵盖了电影、游戏、音乐、经典剧场等多种娱乐内容，满足全家人的观看需求。
 
 1. 海量频道，全面覆盖
    圆桌直播汇集了`央视、各大卫视、地方台`等数百个电视频道，无论是新闻、综艺、体育赛事，还是地方特色节目，都能一键轻松观看。无论你是新闻爱好者、综艺迷，还是体育狂热粉丝，圆桌直播都能满足你的需求。
@@ -814,7 +804,7 @@ http://epg.aptvapp.com/xml
 
 ### 音速直播
 
-[音速直播](https://fk.wangdu.site/buy/18)（版本号：6.0.2），应该是即刻的破解版，有中央卫视、各省地区、少儿、数字、轮播等频道。速度快、清晰度高
+[音速直播](https://www.wangdu.site/software/av-read/339.html)（版本号：6.0.2），应该是即刻的破解版，有中央卫视、各省地区、少儿、数字、轮播等频道。速度快、清晰度高
 
 ## IPTV播放工具（空壳软件，需直播源）
 
@@ -839,7 +829,7 @@ http://epg.aptvapp.com/xml
 
 - Android
 
-  - [TVbox](https://fk.wangdu.site/buy/18) 通过配置接口就可以实现完美支持TV的电视直播和影视点播。
+  - [TVbox](https://www.wangdu.site/software/av-read/339.html) 通过配置接口就可以实现完美支持TV的电视直播和影视点播。
   - [Kodi](https://kodi.tv/) - 具有库支持的免费跨平台媒体播放器。
 
 | 软件名称                   | 支持系统                                      | 如何打开M3U文件                                     |
@@ -880,7 +870,7 @@ http://epg.aptvapp.com/xml
 
 IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、多媒体、通讯等技术于一体，向家庭用户提供包括数字电视在内的多种交互式服务的崭新技术。它能够很好地适应当今网络飞速发展的趋势，充分有效地利用网络资源。让您可以从 Internet 服务提供商处观看 IPTV，或从网络上的任何其他来源观看免费的直播电视频道。
 
-[IPTV Pro v8.0.7 for Android 解锁专业版](https://fk.wangdu.site/buy/18)
+[IPTV Pro v8.0.7 for Android 解锁专业版](https://www.wangdu.site/software/av-read/339.html)
 
 - 如何添加M3U直播源？ 加入播放列表 - 添加网址 - 输入M3U直播源地址 - 确定。
 
@@ -939,13 +929,13 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 ### GoTV
 
-[GoTV](https://fk.wangdu.site/buy/18) 允许您在 iPhone 或 iPad 上观看直播电视频道。添加 M3U 播放列表的链接或将其粘贴到应用程序并观看在线电视。 IPTV 技术使您可以随时随地观看有线电视提供商的直播电视或免费直播电视频道。有了这个应用程序，您可以在火车上或躺在海滩上时观看您最喜欢的运动队或音乐频道。您只需要互联网连接。
+[GoTV](https://www.wangdu.site/software/av-read/339.html) 允许您在 iPhone 或 iPad 上观看直播电视频道。添加 M3U 播放列表的链接或将其粘贴到应用程序并观看在线电视。 IPTV 技术使您可以随时随地观看有线电视提供商的直播电视或免费直播电视频道。有了这个应用程序，您可以在火车上或躺在海滩上时观看您最喜欢的运动队或音乐频道。您只需要互联网连接。
 
 请注意，此应用程序是客户端应用程序，用户必须提供自己的 M3U 播放列表才能观看 IPTV。应用程序支持自动更新通过 URL 添加的播放列表。支持各种协议，包括 HLS 协议（m3u8 流）、RTMP、RTSP 等。
 
 ### TVBox
 
-[TVBox Android TV版](https://fk.wangdu.site/buy/18) 是GitHub的一个开源项目，完全免费，通过配置接口就可以实现完美支持TV的电视直播和影视点播。
+[TVBox Android TV版](https://www.wangdu.site/software/av-read/339.html) 是GitHub的一个开源项目，完全免费，通过配置接口就可以实现完美支持TV的电视直播和影视点播。
 
 ### VLC
 
@@ -961,7 +951,7 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 ## TVBox介绍
 
-[TVBox Android TV版](https://fk.wangdu.site/buy/18) 是 GitHub 的一个开源项目，完全免费，通过配置接口就可以实现完美支持TV的电视直播和影视点播。
+[TVBox Android TV版](https://www.wangdu.site/software/av-read/339.html) 是 GitHub 的一个开源项目，完全免费，通过配置接口就可以实现完美支持TV的电视直播和影视点播。
 
 TVBox 支持各类爬虫源、XP源、采集源等。**全免费，无限制，无广告**。支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
 
@@ -977,7 +967,7 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 
 ## TVbox下载
 
-[下载地址](https://fk.wangdu.site/buy/18)（[更多TVbox系列软件和JSON播放源](./IPTV-TVbox系列软件及播放源.md)）
+[下载地址](https://www.wangdu.site/software/av-read/339.html)（[更多TVbox系列软件和JSON播放源](./IPTV-TVbox系列软件及播放源.md)）
 
 | 软件名称            | 内置订阅源 | 自定义直播源 |
 | ------------------- | :--------: | :----------: |
@@ -995,7 +985,7 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 
 ## TVBox系列客户端
 
-[下载地址](https://fk.wangdu.site/buy/18)
+[下载地址](https://www.wangdu.site/software/av-read/339.html)
 
 | 软件名称           | 支持系统                         |
 | ------------------ | -------------------------------- |
@@ -1013,27 +1003,27 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 
 ### 宝盒TV
 
-[宝盒TV](https://fk.wangdu.site/buy/18)是基于开源软件tvbox的二次开发版本，完美支持电视和机顶盒，主要实现的是美化UI、自动换源、支持多个接口（多仓），多直播，且优化了加载速度。
+[宝盒TV](https://www.wangdu.site/software/av-read/339.html)是基于开源软件tvbox的二次开发版本，完美支持电视和机顶盒，主要实现的是美化UI、自动换源、支持多个接口（多仓），多直播，且优化了加载速度。
 
 ### 影视仓库
 
-[影视仓库](https://fk.wangdu.site/buy/18) 包含TV电视直播、TVBox内置版、影视仓内置版、影视应用（TV、手机、电脑、苹果）、其他TV应用
+[影视仓库](https://www.wangdu.site/software/av-read/339.html) 包含TV电视直播、TVBox内置版、影视仓内置版、影视应用（TV、手机、电脑、苹果）、其他TV应用
 
 ### 影视TV
 
-[影视TV](https://fk.wangdu.site/buy/18) 是一款基于猫影视开源的CatVodTVJarLoader项目，从零开始写。非常简洁清爽且功能强大。界面上采用 Android TV Leanback 架构，播放器采用最新版EXO及IJK开源专案的智能电视软件，使用体验感舒适，支持电视直播功能，界面非常简洁，没有花里胡哨的内容，用户只需要配置相关地址（接口）就可以使用。
+[影视TV](https://www.wangdu.site/software/av-read/339.html) 是一款基于猫影视开源的CatVodTVJarLoader项目，从零开始写。非常简洁清爽且功能强大。界面上采用 Android TV Leanback 架构，播放器采用最新版EXO及IJK开源专案的智能电视软件，使用体验感舒适，支持电视直播功能，界面非常简洁，没有花里胡哨的内容，用户只需要配置相关地址（接口）就可以使用。
 
 ### 星辰影视黑盒
 
-[星辰影视黑盒](https://fk.wangdu.site/buy/18) 是一款优质的免费无广告手机影视追剧软件，可以观看国内外最新的影视资源，每天都有很多新的影视资源不断更新，汇集了各种热门的电影、电视、综艺和动漫。视频高清流畅播放，离线缓存快速下载，轻松免费观看最新内容，给你带来极致的观影体验。
+[星辰影视黑盒](https://www.wangdu.site/software/av-read/339.html) 是一款优质的免费无广告手机影视追剧软件，可以观看国内外最新的影视资源，每天都有很多新的影视资源不断更新，汇集了各种热门的电影、电视、综艺和动漫。视频高清流畅播放，离线缓存快速下载，轻松免费观看最新内容，给你带来极致的观影体验。
 
 ### 闪电侠(EasyBox)
 
-[闪电侠(EasyBox)](https://fk.wangdu.site/buy/18) 是一款基于TVBox设计的安卓影视播放器，当前最新版本已内置了影视源，安装后可直接追剧，同时支持自定义源，当前版本有开屏有广告。想要纯净版的可以使用下载链接中的空壳版(去更新无广告版)，可以自行添加影视源使用。
+[闪电侠(EasyBox)](https://www.wangdu.site/software/av-read/339.html) 是一款基于TVBox设计的安卓影视播放器，当前最新版本已内置了影视源，安装后可直接追剧，同时支持自定义源，当前版本有开屏有广告。想要纯净版的可以使用下载链接中的空壳版(去更新无广告版)，可以自行添加影视源使用。
 
 ### 酷9
 
-[酷9](https://fk.wangdu.site/buy/18)
+[酷9](https://www.wangdu.site/software/av-read/339.html)
 
 一款基于tvbox，借鉴了DIYP的功能交互，又优于它们的一款空壳直播软件
 
@@ -1054,7 +1044,7 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 
 ### OKPG整合包
 
-[OKPG整合包](https://fk.wangdu.site/buy/18)
+[OKPG整合包](https://www.wangdu.site/software/av-read/339.html)
 
 安装后不要急着点击直播，屏幕下方会出现一些提示，直到出现下图这个提示（载入文件：allinone成功）后稍等会再点击直播按钮。
 
@@ -1074,7 +1064,7 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 
 ### tBox
 
-[tBox](https://fk.wangdu.site/buy/18) 是一款多功能APP空壳，支持导入直播源、影视和听书源。在影视点播方面，用户可播放4K网盘资源，也可自行编写简单的规则实现嗅探网页播放; 听书模式则允许后台熄屏播放。
+[tBox](https://www.wangdu.site/software/av-read/339.html) 是一款多功能APP空壳，支持导入直播源、影视和听书源。在影视点播方面，用户可播放4K网盘资源，也可自行编写简单的规则实现嗅探网页播放; 听书模式则允许后台熄屏播放。
 
 tBox虽然在UI设计上借鉴了猫影视的风格，但其源码是完全不同的。 猫影视作为一款经典应用，我个人作为业余开发者，自认为难以超越。 我从猫影视的安卓低版本就开始使用，后来也见证了tvbox的诞生。非常感谢各位开发者，让我们能够实现观影自由。
 
@@ -1090,7 +1080,7 @@ tBox 是一款支持 **iOS 苹果端** 的TVBox应用，增加了原本老猫不
 
 ### OkraTv
 
-[OkraTv软件](https://fk.wangdu.site/buy/18)是一款内置影视剧播放源的电视机追剧软件，汇聚了海量的电影、电视剧、网络短剧以及综艺等分类的资源，各个平台上热播的都有，用户可以自己来选择播放，无需会员，没有广告。
+[OkraTv软件](https://www.wangdu.site/software/av-read/339.html)是一款内置影视剧播放源的电视机追剧软件，汇聚了海量的电影、电视剧、网络短剧以及综艺等分类的资源，各个平台上热播的都有，用户可以自己来选择播放，无需会员，没有广告。
 
 - **更新不断，精彩纷呈**：实时更新：同步更新，资源监控。
 - **专业之选，纯净体验**：无广告、免登录：告别繁琐之注册流程，自动登录，轻松开启观影之旅。
@@ -1172,7 +1162,7 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 
 ## 智能电视安装TVBox/影视仓方法
 
-[智能电视安装TVBox/影视仓方法](https://fk.wangdu.site/buy/18)
+[智能电视安装TVBox/影视仓方法](https://www.wangdu.site/software/av-read/339.html)
 
 ## 不同品牌电视机顶盒和电视机安装第三方应用软件的安装方法
 
@@ -1247,7 +1237,7 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 
 ### 开心电视助手下载
 
-最新版下载链接：【[点击下载](https://fk.wangdu.site/buy/18)】
+最新版下载链接：【[点击下载](https://www.wangdu.site/software/av-read/339.html)】
 
 ### 更新列表
 
@@ -1271,7 +1261,7 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 
 ### 我的电视
 
-[我的电视（mytv-android）](https://fk.wangdu.site/buy/18) : 使用 Android 原生开发的电视直播软件
+[我的电视（mytv-android）](https://www.wangdu.site/software/av-read/339.html) : 使用 Android 原生开发的电视直播软件
 
 - 主要解决 my_tv（flutter）在低端设备上播放（4k）视频卡顿掉帧
 - 仅支持Android5及以上
@@ -1295,7 +1285,7 @@ https://cdn.jsdelivr.net/gh/jyoketsu/tv@main/m.json
 
 ### 我的电视
 
-[我的电视（my_tv）](https://fk.wangdu.site/buy/18) 使用Flutter开发的电视直播软件
+[我的电视（my_tv）](https://www.wangdu.site/software/av-read/339.html) 使用Flutter开发的电视直播软件
 
 - 仅支持 Android5 及以上，Android4.4 未测试（项目最低 api 为 19）
 - **网络环境必须支持 IPV6**（默认源）
@@ -1393,7 +1383,7 @@ my-tv-apk 在原来的 mytv 修复了一些问题的新版本，请卸载原来�
 
 ### 灵犀直播
 
-[灵犀直播](https://fk.wangdu.site/buy/18)是用于观看电视直播的一款软件，能够安装后点击打开更多的频道了，每个频道的画质都是相较于其他的电视直播软件更上一层楼的，超级清晰的播放画面，更多的节目资源，每个频道都可以正常的观看，不会有电视播放卡顿的情况，所以可以放心下载安装到电视机上面使用了。
+[灵犀直播](https://www.wangdu.site/software/av-read/339.html)是用于观看电视直播的一款软件，能够安装后点击打开更多的频道了，每个频道的画质都是相较于其他的电视直播软件更上一层楼的，超级清晰的播放画面，更多的节目资源，每个频道都可以正常的观看，不会有电视播放卡顿的情况，所以可以放心下载安装到电视机上面使用了。
 
 灵犀直播怎么自建频道
 
@@ -1405,7 +1395,7 @@ my-tv-apk 在原来的 mytv 修复了一些问题的新版本，请卸载原来�
 
 ### 电视大全
 
-[电视大全TV版app](https://fk.wangdu.site/buy/18)是一款转为电视打造的追剧平台，央视、卫视、地方等频道都可以在这里观看，用户可以根据喜好自由观看心仪的频道节目，时事新闻、经典老剧、搞笑综艺等等都可以流畅观看。
+[电视大全TV版app](https://www.wangdu.site/software/av-read/339.html)是一款转为电视打造的追剧平台，央视、卫视、地方等频道都可以在这里观看，用户可以根据喜好自由观看心仪的频道节目，时事新闻、经典老剧、搞笑综艺等等都可以流畅观看。
 
 1. 拥有全面的影视资源，在线免费观看自己喜欢的节目资源。
 
@@ -1421,7 +1411,7 @@ my-tv-apk 在原来的 mytv 修复了一些问题的新版本，请卸载原来�
 
 ### 前线电视
 
-[前线电视TV版](https://fk.wangdu.site/buy/18)（版本号：1.5.0）是一款非常好用的电视直播神器，本次更新的前线版本与之前版本不同，由酷10修改内置源，支持自定义内容，优化了频道切换。内置了海量电视直播服务：央视、卫视、地方、体育、新闻、生活、美食、卡通、影视轮播等直播频道，全部免费观看，无需登录、无需授权，无任何广告弹窗，全部使用视频硬解技术，高清画质秒加载秒播放，解锁极致追剧体验。
+[前线电视TV版](https://www.wangdu.site/software/av-read/339.html)（版本号：1.5.0）是一款非常好用的电视直播神器，本次更新的前线版本与之前版本不同，由酷10修改内置源，支持自定义内容，优化了频道切换。内置了海量电视直播服务：央视、卫视、地方、体育、新闻、生活、美食、卡通、影视轮播等直播频道，全部免费观看，无需登录、无需授权，无任何广告弹窗，全部使用视频硬解技术，高清画质秒加载秒播放，解锁极致追剧体验。
 
 - 新版本内置的IPV6央视和卫视源，由前线作者稳定维护，所以需要保证网络支持 IPV6
 - 下载安装后，打开软件，可以看到内容列表，但是播放却是一直黑屏，就说明你的网络可能不支持 ipv6
@@ -1439,15 +1429,15 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ### 2025年9月19日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（港澳台频道、体育频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（港澳台频道、体育频道）
 
 ### 2025年9月17日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、体育频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、体育频道）
 
 ### 2025年9月16日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、体育频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、体育频道）
 
 ### 2025年9月9日
 
@@ -1456,260 +1446,260 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ### 2025年9月8日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、国外体育频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、国外体育频道）
 
 ### 2025年9月7日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道）
 
 ### 2025年9月4日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、国外体育频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、国外体育频道）
 
 ### 2025年9月3日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、港澳台频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、港澳台频道）
 
 ### 2025年9月2日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、港澳台频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、港澳台频道）
 
 ### 2025年8月31日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、国外体育频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、国外体育频道）
 
 ### 2025年8月30日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、港澳台频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视卫视频道、港澳台频道）
 
 ### 2025年8月29日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（国外体育、港澳台频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（国外体育、港澳台频道）
 
 ### 2025年8月28日
 
--  IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 自带直播源APP【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+-  IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 自带直播源APP
 
 ### 2025年8月27日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（咪咕体育、港澳台频道、国外纪录片频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（咪咕体育、港澳台频道、国外纪录片频道）
 
 ### 2025年8月24日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（咪咕体育、港澳台频道、国外体育频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（咪咕体育、港澳台频道、国外体育频道）
 
 ### 2025年8月20日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（咪咕体育、港澳台频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（咪咕体育、港澳台频道）
 
 ### 2025年8月19日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、咪咕体育）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、咪咕体育）
 
 ### 2025年8月18日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（咪咕体育）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（咪咕体育）
 
 ### 2025年8月16日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、卫视频道、咪咕体育）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、卫视频道、咪咕体育）
 
 ### 2025年8月12日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（港澳台频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（港澳台频道）
 
 ### 2025年8月11日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、卫视频道、咪咕体育、虎牙）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、卫视频道、咪咕体育、虎牙）
 
 ### 2025年8月10日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、卫视频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、卫视频道）
 
 ### 2025年8月1日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（港澳台频道、咪咕体育）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（港澳台频道、咪咕体育）
 
 ### 2025年7月31日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（港澳台频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（港澳台频道）
 
 ### 2025年7月28日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、卫视频道）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视频道、卫视频道）
 
 ### 2025年7月26日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（体育 Sky sports f1）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（体育 Sky sports f1）
 
 ### 2025年7月24日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视、卫视）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视、卫视）
 
 ### 2025年7月21日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视、卫视、咪咕体育）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 直播源（央视、卫视、咪咕体育）
 
 ### 2025年7月16日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台频道
 - （博客版）中国(港澳台) 直播源M3U 新增 在线观看网页
 
 ### 2025年7月15日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年7月10日
 
 - 博客版 增加 环法自行车赛在线观看地址
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年7月9日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年7月7日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年7月6日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年7月5日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年7月3日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年7月1日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台
 
 ### 2025年6月30日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台
 
 ### 2025年6月27日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台
 
 ### 2025年6月26日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年6月25日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、港澳台
 
 ### 2025年6月24日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年6月23日
 
-- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、咪咕体育、泰国频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+- （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道、咪咕体育、泰国频道
 
 ### 2025年6月19日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年6月16日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道（世俱杯、WTA、全运会男篮资格赛、中乙、江苏城市足球联赛、NBA经典赛事、国青男篮国际挑战赛、中甲、WTT等）【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道（世俱杯、WTA、全运会男篮资格赛、中乙、江苏城市足球联赛、NBA经典赛事、国青男篮国际挑战赛、中甲、WTT等）
 
 ### 2025年6月15日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年6月13日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年6月12日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 体育频道
 
 ### 2025年6月11日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、体育频道
 
 ### 2025年6月10日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、体育频道
 
 ### 2025年6月6日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台、咪咕体育、腾讯体育、爱奇艺体育【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台、咪咕体育、腾讯体育、爱奇艺体育
 2. （博客版）更新 央视、卫视直播源
 
 ### 2025年6月5日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台、咪咕体育、腾讯体育、爱奇艺体育【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台、咪咕体育、腾讯体育、爱奇艺体育
 
 ### 2025年6月3日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台、咪咕体育、腾讯体育、爱奇艺体育【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台、咪咕体育、腾讯体育、爱奇艺体育
 
 ### 2025年5月30日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、五星体育【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、五星体育
 
 ### 2025年5月29日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台
 
 ### 2025年5月28日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、港澳台【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、港澳台
 
 ### 2025年5月26日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、咪咕体育、腾讯体育【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、咪咕体育、腾讯体育
 
 ### 2025年5月23日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 外国体育频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 外国体育频道
 
 ### 2025年5月22日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 美国频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 美国频道
 
 ### 2025年5月20日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 新增 重庆新闻、斗鱼频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 新增 重庆新闻、斗鱼频道
 2. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 五星体育、广东频道、电影频道
 
 ### 2025年5月19日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、咪咕体育、腾讯体育【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、咪咕体育、腾讯体育
 
 ### 2025年5月13日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台
 
 ### 2025年5月8日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台
 
 ### 2025年5月6日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、港澳台【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、港澳台
 
 ### 2025年4月30日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、港澳台、美国频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、港澳台、美国频道
 
 ### 2025年4月29日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、港澳台频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、港澳台频道
 2. 新增 [自部署教程](./IPTV-CloudCone%20VPS自部署Pixman-4gtv查看港台频道.md)
 
 ### 2025年4月28日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、港澳台频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 央视、卫视、港澳台频道
 
 ### 2025年4月27日
 
@@ -1717,7 +1707,7 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ### 2025年4月25日
 
-1. （VIP版、博客版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台频道、国际频道【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版、博客版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 港澳台频道、国际频道
 
    ```
    CNN
@@ -1746,7 +1736,7 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ### 2025年4月15日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 广东频道、外国体育【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护） 更新 广东频道、外国体育
 
 ### 2025年4月8日
 
@@ -1754,7 +1744,7 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ### 2025年4月7日
 
-1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护）更新 咪咕体育、外国体育【[点击查看VIP节目单](https://iptv.wwkejishe.top/channels.txt)】
+1. （VIP版） IPTV源、EPG接口（精选）- 在线IPTV源（博主自维护）更新 咪咕体育、外国体育
 
 ### 2025年4月1日
 

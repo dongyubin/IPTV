@@ -2,7 +2,7 @@
 
 ## 准备材料
 
-1. [在线直播源链接](https://fk.wangdu.site/buy/18)
+1. [在线直播源链接](https://www.wangdu.site/software/av-read/339.html)
 2. [天光云影最新版本：3.3.9](https://pan.quark.cn/s/ca9fab29a1ed)
 
 ## 操作步骤
@@ -15,7 +15,7 @@
 
    ![天光云影 - 数据推送](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250304094015397.webp)
 
-3. 类型：`远程`，名称：`自定义（随意）`，链接：[博主自维护链接](https://fk.wangdu.site/buy/18)，点击`推送直播源`，即可在APP（设置 - 直播源 - 自定义直播源）查看
+3. 类型：`远程`，名称：`自定义（随意）`，链接：[博主自维护链接](https://www.wangdu.site/software/av-read/339.html)，点击`推送直播源`，即可在APP（设置 - 直播源 - 自定义直播源）查看
 
    ![天光云影 - 数据推送服务](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250304094018525.webp)
 
