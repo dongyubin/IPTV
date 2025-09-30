@@ -914,7 +914,7 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 
 ### PotPlayer
 
-[Potplayer官网地址](https://potplayer.daum.net/?lang=zh_CN) 是 KMPlayer 的原制作者姜龙喜先生进入 Daum 公司后的新一代作品，PotPlayer优势在于强大的内置解码器和灵活的设置，软件小巧精简，功能强大，支持 DXVA, CUDA, QuickSync 等等，支持文字字幕SMI，SRT、Vobsub(DVD)，蓝光SUP字幕等多种字幕资源，支持 ASS/SSA 动画以及SMI ruby tag。
+[Potplayer官网地址](https://potplayer.daum.net/?lang=zh_CN)（[PotPlayer v1.7.22619绿色版](https://pan.quark.cn/s/b422a89b682c)） 是 KMPlayer 的原制作者姜龙喜先生进入 Daum 公司后的新一代作品，PotPlayer优势在于强大的内置解码器和灵活的设置，软件小巧精简，功能强大，支持 DXVA, CUDA, QuickSync 等等，支持文字字幕SMI，SRT、Vobsub(DVD)，蓝光SUP字幕等多种字幕资源，支持 ASS/SSA 动画以及SMI ruby tag。
 
 [Potplayer软件搬运站（用于备用下载）](https://potplayer.org/)
 
@@ -968,6 +968,15 @@ IPTV Pro 即交互式网络电视，是一种利用宽带网，集互联网、�
 ### BLANK-播放器 v5.0.9.7
 
 [Blank播放器](https://blankvip.top/) 是一款看电视直播及点播等节目 制作的软件 完全免费使用， 播放器播放的直播格式有 [http https p2p mitv m3u8 rtmp rtsp rmvb mp4 mkv flv 等常见视频格式。
+
+### CharmingTVBox
+
+[CharmingTVBox](https://pan.quark.cn/s/1448343997e0) （Github地址：[CharmingCheung/CharmingTVBox](https://github.com/CharmingCheung/CharmingTVBox/releases)）
+
+- 支持系统：Windows、MacOS
+- **播放核心优化**：为提升兼容性，非 mpd 声明的流将暂时强制通过 hls 协议播放，暂时解决部分hls流的媒体类型判断错误问题。后续考虑引入多播放器库以优化体验。
+- **缓存机制调整**：已禁用缓存，确保 m3u8 播放列表能即时获取最新内容，防止因缓存数据过时导致的问题。
+- **请求策略变更**：请求 header 已默认移除 Referer。后续版本再支持在自定义 header 中配置Referer。
 
 ## TVBox介绍
 
