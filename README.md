@@ -60,7 +60,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 👉[点击查看套餐详情](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)
 
-- 支持 `APTV`（Apple TV） 
+- 支持 `APTV`（Apple TV） 、Televizo、Tivimate
 - 爱奇艺和咪咕这些体育源都不需要自己开通会员
 
 >⚠️温馨提示：
@@ -1482,7 +1482,7 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ### 2025年10月3日
 
-
+- 更新 直播源
 
 ### 2025年9月30日
 
