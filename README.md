@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2025年10月5日** 
+**更新日期：2025年10月6日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -148,7 +148,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 主要收录香港、澳门、台湾以及一些海外华人频道等，部分港澳台电视台需要有 [富强](https://help.wwkejishe.top/wang-shang-xue-ke) 上网才能收看
 
-[获取地址](https://www.wangdu.site/software/av-read/339.html)
+[获取地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)）
 
 ### 港澳台电视直播apk
 
@@ -210,7 +210,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 五星体育是上海广播电视台旗下的地面电视频道，是中国大陆地区唯一获得wrc官方授权的电视媒体。它是上海文广新闻传媒集团体育产业的营运商和体育节目、体育内容的提供商，成立于2001年10月8日。此外，五星体育也是SMG旗下的第一个专业频道，已经实现每日24小时电视播出，并推广到多个中国及全球的电视平台和新媒体。
 
-[下载地址](https://www.wangdu.site/software/av-read/339.html)
+[下载地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)）
 
 ### 五大联赛
 
@@ -232,7 +232,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 ### 咪咕体育
 
-[获取地址](https://www.wangdu.site/software/av-read/339.html) 仅面向 **已有咪咕会员** 用户，旨在方便在影视类 APP（如 OK影视、影视仓 等）中实现电视、体育赛事等内容的无缝切换。
+[获取地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)） 仅面向 **已有咪咕会员** 用户，旨在方便在影视类 APP（如 OK影视、影视仓 等）中实现电视、体育赛事等内容的无缝切换。
 
 **关于 Token：**
 

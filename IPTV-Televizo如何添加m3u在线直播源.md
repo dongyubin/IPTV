@@ -10,7 +10,7 @@
 
    ![Televizo - 新的M3U播放列表](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250307155752999.webp)
 
-3. 名称：`随意`，链接到播放列表：输入 [博主自维护链接里的 m3u 地址](https://www.wangdu.site/software/av-read/339.html) （其余选项默认即可），点击右上角`√`即可添加完成
+3. 名称：`随意`，链接到播放列表：输入[免费的 m3u 地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)、[博主自维护直播源](https://fk.wangdu.site/buy/18)）（其余选项默认即可），点击右上角`√`即可添加完成
 
    ![Televizo - 新的M3U播放列表设置](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250307155842423.webp)
 
