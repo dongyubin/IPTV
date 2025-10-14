@@ -8,6 +8,14 @@
 
 [IPTV自带直播源播放工具，替代电视家直播的APP](https://www.wangdu.site/software/dianshihezi/2180.html)
 
+## 空壳播放器+直播源
+
+所谓“空壳播放器”，顾名思义就是播放器本身不包含资源，需要用户自行添加内容。在这里阿斌给大家分享几款比较好用的“空壳播放器”，使用播放器搭配 [可用的直播源](https://www.wangdu.site/software/av-read/339.html) 就可以观看电视节目了。
+
+空壳播放器获取地址：[超全中国+台港澳+海外IPTV、APTV、TVBox直播源和TV观看工具](https://www.wangdu.site/software/av-read/339.html)
+
+
+
 ## 海尔电视
 
 将U盘插入电视USB接口，打开电视主页的【本地媒体】选项，点击进入。选择【全部】，点击U盘，找到安装包点击安装，在安装过程中出现风险提示点击继续安装即可。

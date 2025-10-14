@@ -1,5 +1,7 @@
 # TVBox播放工具、播放源、使用教程
 
+[VIP版：TVBox软件+点播直播源](https://fk.wangdu.site/buy/43)
+
 ## TVBox介绍
 
 [TVBox](https://www.wangdu.site/software/av-read/339.html) 支持各类爬虫源、XP源、采集源等。**全免费，无限制，无广告**。支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
