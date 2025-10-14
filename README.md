@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2025年10月6日** 
+**更新日期：2025年10月14日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -33,7 +33,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 - [港澳台](#中国港澳台-iptv直播源m3u)：搜集整理的香港、台湾和澳门以及一些海外华人频道，其中包括凤凰卫视、TVB、星空等一些深受大家喜欢的频道。
 - **特色频道**：主要包括了一些影视轮播、NewTV、CHC等特色频道
 - **体育频道**：主要包括五星体育、咪咕体育、劲爆体育等体育频道
-- [国际频道](https://pan.quark.cn/s/b422a89b682c)：DISCOVERY、BBC、FOX News、CNN等国际频道
+- **国际频道**：DISCOVERY、BBC、FOX News、CNN等国际频道
 
 ### IPTV工具
 
@@ -59,7 +59,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 3. 直播源：稳定、更新
 4. 使用教程：节约你的折腾成本
 
-👉[点击查看各套餐详情](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)
+👉[点击查看各稳定套餐详情](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)
 
 - 支持 `APTV`（Apple TV） 、Televizo、Tivimate
 - 爱奇艺、咪咕、腾讯这些体育源都不需要自己开通会员
@@ -148,7 +148,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 主要收录香港、澳门、台湾以及一些海外华人频道等，部分港澳台电视台需要有 [富强](https://help.wwkejishe.top/wang-shang-xue-ke) 上网才能收看
 
-[获取地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)）
+[获取地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://fk.wangdu.site/buy/34)）
 
 ### 港澳台电视直播apk
 
@@ -210,7 +210,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 五星体育是上海广播电视台旗下的地面电视频道，是中国大陆地区唯一获得wrc官方授权的电视媒体。它是上海文广新闻传媒集团体育产业的营运商和体育节目、体育内容的提供商，成立于2001年10月8日。此外，五星体育也是SMG旗下的第一个专业频道，已经实现每日24小时电视播出，并推广到多个中国及全球的电视平台和新媒体。
 
-[下载地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)）
+[下载地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://fk.wangdu.site/buy/34)）
 
 ### 五大联赛
 
@@ -232,7 +232,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 ### 咪咕体育
 
-[获取地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)） 仅面向 **已有咪咕会员** 用户，旨在方便在影视类 APP（如 OK影视、影视仓 等）中实现电视、体育赛事等内容的无缝切换。
+[获取地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://fk.wangdu.site/buy/38)） 仅面向 **已有咪咕会员** 用户，旨在方便在影视类 APP（如 OK影视、影视仓 等）中实现电视、体育赛事等内容的无缝切换。
 
 **关于 Token：**
 
@@ -259,7 +259,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 >
 > 如果不知如何选择，看着带👍的直接使用即可。
 
-[获取地址](https://www.wangdu.site/software/av-read/339.html)
+[获取地址](https://www.wangdu.site/software/av-read/339.html)（[VIP版](https://fk.wangdu.site/buy/43)）
 
 ## 自搭建IPTV直播源
 
@@ -424,7 +424,7 @@ http://epg.aptvapp.com/xml
 
 ## IPTV直播源播放工具（自带源）
 
-[更多自带直播源的APP，无需配置直播源，下载即可使用](./IPTV-自带源-替代电视家直播的APP.md)
+[更多自带直播源的APP，无需配置直播源，下载即可使用](./IPTV-自带源-替代电视家直播的APP.md)（[VIP版](https://fk.wangdu.site/buy/43)）
 
 | 软件名称                   | 支持系统                            | 央视频道 | 卫视频道 | 地方频道 | 港澳台频道 | 海外地区 | 体育频道 |
 | -------------------------- | ----------------------------------- | -------- | -------- | -------- | ---------- | -------- | -------- |
@@ -1093,7 +1093,7 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 
 ## TVBox系列客户端
 
-[下载地址](https://www.wangdu.site/software/av-read/339.html)
+[下载地址](https://www.wangdu.site/software/av-read/339.html)（[VIP版：软件+点播源](https://fk.wangdu.site/buy/43)）
 
 | 软件名称           | 支持系统                         |
 | ------------------ | -------------------------------- |
