@@ -1585,7 +1585,7 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ### 2025年10月21日
 
-- [博主自维护在线文档](https://fk.wangdu.site/buy/43)（[备用地址](https://fk.wangdu.site/buy/43)） 更新 TvBox自带点播源、直播源软件
+- [博主自维护在线文档](https://fk.wangdu.site/buy/43)（[备用地址](https://fk.wangdu.site/buy/43)） 更新 TvBox自带点播源、直播源软件：秋水TV低配版
 
 ### 2025年10月20日
 
