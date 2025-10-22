@@ -7,7 +7,7 @@
 
 ## 操作步骤
 
-1. 下载 [天光云影最新版本：3.3.9](https://pan.quark.cn/s/ca9fab29a1ed) 并安装在手机或者电视上，并打开软件
+1. 下载 [天光云影最新版本：3.3.9](https://pan.quark.cn/s/ca9fab29a1ed)（[云影空蒙](https://pan.quark.cn/s/eced04fc209d)（天光云影的新版）） 并安装在手机或者电视上，并打开软件
 
    ![天光云影 - 首页](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250304093936102.webp)
 
