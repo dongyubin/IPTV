@@ -18,7 +18,7 @@
 
    ![宝塔面板-安装环境](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250429134448730.webp)
 
-4. 使用SSH工具连接VPS，运行 [mybtjson/pixman-4gtv - Docker Image | Docker Hub](https://hub.docker.com/r/mybtjson/pixman-4gtv)
+4. 使用[SSH工具](https://www.wangdu.site/software/bianchengkaifa/1263.html)连接VPS，运行 [mybtjson/pixman-4gtv - Docker Image | Docker Hub](https://hub.docker.com/r/mybtjson/pixman-4gtv)
 
 5. 先去 [https://app.alice.ws⁠](https://app.alice.ws/) 注册账号，然后把你的 vps 的 IP 添加到他官网提供的 dns 解锁中（公共DNS - 公共流媒体DNS - 新用户要申请，等待审核通过即可）， 添加成功之后会给你一个解锁HK和TW的IP，把下面`--dns=8.8.8.8`中的`8.8.8.8`替换成`他给你提供的IP`（下面3个版本可以先安装一个试试，能播放就不用安装另一个，我这里0.0.3可以播放，0.0.5无法播放，最好是将 `50007` 换为别的数字端口，防止被扫）。
 
