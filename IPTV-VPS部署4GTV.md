@@ -6,7 +6,7 @@
 
 ## VPS 部署 4GTV 教程
 
-1. [点击购买VPS](https://my.racknerd.com/aff.php?aff=6200&pid=913)
+1. [点击购买VPS](https://my.racknerd.com/aff.php?aff=6200&pid=918)（[备用VPS购买地址](https://my.racknerd.com/aff.php?aff=6200&pid=919)）
 
 2. 使用 [SSH工具](https://www.wangdu.site/software/bianchengkaifa/1263.html) 连接VPS
 
