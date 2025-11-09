@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2025年11月6日** 
+**更新日期：2025年11月9日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -59,7 +59,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 3. 直播源：稳定、更新
 4. 使用教程：节约你的折腾成本
 
-👉[点击查看各稳定IPTV直播源套餐详情](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)（其他套餐，请看左侧文档，介绍更全面）
+👉 [点击查看各稳定IPTV直播源套餐详情](https://www.yuque.com/chengxuxiaohei/wwkjg/iibwzdgmezvdksf0?singleDoc)（[备用地址](https://flowus.cn/wwkejishe/share/2a321694-8729-467b-81db-417e4f99022e?code=BCRWJL)）（其他套餐，请看左侧文档，介绍更全面）
 
 ### 300+频道稳定套餐详情
 
