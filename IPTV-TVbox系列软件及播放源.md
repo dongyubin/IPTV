@@ -1,6 +1,6 @@
 # TVBox播放工具、播放源、使用教程
 
-[VIP版：TVBox软件+点播直播源](https://fk.wangdu.site/buy/43)
+[VIP版：TVBox软件+点播直播源](https://vip.wangdu.site/buy/43)
 
 ## TVBox介绍
 
