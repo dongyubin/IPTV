@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2025年12月12日** 
+**更新日期：2025年12月19日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -71,7 +71,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 | 常用频道类目                    | 试用版（2 小时，创建即激活）                                 | 季卡（90天）                                                 | 年卡（365天）                                                |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 价格                            | [3元](https://vip.wangdu.site/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [90元](https://vip.wangdu.site/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [300元](https://vip.wangdu.site/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
+| 价格                            | [3元](https://shop.wwkejishe.top/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [90元](https://shop.wwkejishe.top/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [300元](https://shop.wwkejishe.top/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
 | 央视、卫视                      | ✅                                                            | ✅                                                            | ✅                                                            |
 | 港澳台                          | ✅                                                            | ✅                                                            | ✅                                                            |
 | 国内体育                        | ✅                                                            | ✅                                                            | ✅                                                            |
@@ -94,7 +94,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 | 体育频道类目                    | 季卡：90天（ 三选一）                                        | 年卡：365天（三选一）                                        | 季卡：90天（三合一）                                         | 年卡：365天（三合一）                                        |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 价格                            | [50元](https://vip.wangdu.site/buy/36)（[备用地址](https://fk.wwkjs.top/buy/36)） | [150元](https://vip.wangdu.site/buy/37)（[备用地址](https://fk.wwkjs.top/buy/37)） | [150元](https://vip.wangdu.site/buy/38)（[备用地址](https://fk.wwkjs.top/buy/38)） | [280元](https://vip.wangdu.site/buy/39)（[备用地址](https://fk.wwkjs.top/buy/39)） |
+| 价格                            | [50元](https://shop.wwkejishe.top/buy/36)（[备用地址](https://fk.wwkjs.top/buy/36)） | [150元](https://shop.wwkejishe.top/buy/37)（[备用地址](https://fk.wwkjs.top/buy/37)） | [150元](https://shop.wwkejishe.top/buy/38)（[备用地址](https://fk.wwkjs.top/buy/38)） | [280元](https://shop.wwkejishe.top/buy/39)（[备用地址](https://fk.wwkjs.top/buy/39)） |
 | 爱奇艺爱体育会员+爱足球套餐赛事 | ✅❌❌                                                          | ✅❌❌                                                          | ✅                                                            | ✅                                                            |
 | 咪咕体育VIP会员+足球套餐赛事    | ❌✅❌                                                          | ❌✅❌                                                          | ✅                                                            | ✅                                                            |
 | 腾讯体育会员赛事（含NBA，F1）   | ❌❌✅                                                          | ❌❌✅                                                          | ✅                                                            | ✅                                                            |
@@ -177,13 +177,13 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 国家地理（National Geographic），前称“国家地理频道”，是美国一家付费电视网和旗舰频道，由华特迪士尼公司和国家地理学会共同投资组建的国家地理合股有限公司所有，日常经营归华特迪士尼电视集团负责。该旗舰频道会播放由国家地理及其他公司所制作的非虚构类节目。
 
-[获取地址](https://www.wangdu.site/software/av-read/339.html)（[推荐稳定直播源](https://vip.wangdu.site/buy/34)）
+[获取地址](https://www.wangdu.site/software/av-read/339.html)（[推荐稳定直播源](https://shop.wwkejishe.top/buy/34)）
 
 ## 中国(港澳台) IPTV直播源M3U
 
 主要收录香港、澳门、台湾以及一些海外华人频道等，部分港澳台电视台需要有 [富强](https://help.wwkejishe.top/wang-shang-xue-ke) 上网才能收看
 
-[获取地址](https://www.wangdu.site/software/av-read/339.html)（[稳定港澳台直播源](https://vip.wangdu.site/buy/34)）
+[获取地址](https://www.wangdu.site/software/av-read/339.html)（[稳定港澳台直播源](https://shop.wwkejishe.top/buy/34)）
 
 ### 港澳台电视直播apk
 
@@ -245,7 +245,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 五星体育是上海广播电视台旗下的地面电视频道，是中国大陆地区唯一获得wrc官方授权的电视媒体。它是上海文广新闻传媒集团体育产业的营运商和体育节目、体育内容的提供商，成立于2001年10月8日。此外，五星体育也是SMG旗下的第一个专业频道，已经实现每日24小时电视播出，并推广到多个中国及全球的电视平台和新媒体。
 
-[下载地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://vip.wangdu.site/buy/34)）
+[下载地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://shop.wwkejishe.top/buy/34)）
 
 ### 五大联赛
 
@@ -267,7 +267,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 ### 咪咕体育
 
-[获取地址](https://www.wangdu.site/software/av-read/339.html)（[稳定体育直播源](https://vip.wangdu.site/buy/38)） 仅面向 **已有咪咕会员** 用户，旨在方便在影视类 APP（如 OK影视、影视仓 等）中实现电视、体育赛事等内容的无缝切换。
+[获取地址](https://www.wangdu.site/software/av-read/339.html)（[稳定体育直播源](https://shop.wwkejishe.top/buy/38)） 仅面向 **已有咪咕会员** 用户，旨在方便在影视类 APP（如 OK影视、影视仓 等）中实现电视、体育赛事等内容的无缝切换。
 
 **关于 Token：**
 
@@ -294,7 +294,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 >
 > 如果不知如何选择，看着带👍的直接使用即可。
 
-[获取地址](https://www.wangdu.site/software/av-read/339.html)（[VIP版](https://vip.wangdu.site/buy/43)）
+[获取地址](https://www.wangdu.site/software/av-read/339.html)（[VIP版](https://shop.wwkejishe.top/buy/43)）
 
 ## 自搭建IPTV直播源
 
@@ -419,7 +419,7 @@ rtp2httpd 支持将组播 RTP/UDP 流、RTSP 流转换为 HTTP 单播流，并�
 
 ## IPTV直播源有效性检测工具
 
-[下载地址](https://vip.wangdu.site/buy/43)
+[下载地址](https://shop.wwkejishe.top/buy/43)
 
 ### IPTV Checker
 
@@ -427,15 +427,15 @@ rtp2httpd 支持将组播 RTP/UDP 流、RTSP 流转换为 HTTP 单播流，并�
 
 ### TeleList
 
-[TeleList](https://vip.wangdu.site/buy/43) 是一款体积小巧的直播源转换工具，它的界面简单、操作也很简单，主要作用是用于转换直播源、创建播放源列表。TeleList 支持格式转换，重复检查等等多种功能，还能使用 TeleList 轻松制作 VLC、Potplay 视频播放器的播放列表格式。
+[TeleList](https://shop.wwkejishe.top/buy/43) 是一款体积小巧的直播源转换工具，它的界面简单、操作也很简单，主要作用是用于转换直播源、创建播放源列表。TeleList 支持格式转换，重复检查等等多种功能，还能使用 TeleList 轻松制作 VLC、Potplay 视频播放器的播放列表格式。
 
 ### flybird-iptv
 
-[flybird-iptv](https://vip.wangdu.site/buy/43) 是一款iptv检查器，系统支持：MacOS、Windows
+[flybird-iptv](https://shop.wwkejishe.top/buy/43) 是一款iptv检查器，系统支持：MacOS、Windows
 
 ### M3U Link Tester
 
-[M3U Link Tester](https://vip.wangdu.site/buy/43) 是一个简单而有效的工具，用于测试M3U文件中链接的有效性。该工具具有用户友好的界面，支持通过拖放方式导入M3U文件，快速测试其中包含的多个链接。
+[M3U Link Tester](https://shop.wwkejishe.top/buy/43) 是一个简单而有效的工具，用于测试M3U文件中链接的有效性。该工具具有用户友好的界面，支持通过拖放方式导入M3U文件，快速测试其中包含的多个链接。
 
 ### 一个橙子pro工具箱
 
@@ -475,7 +475,7 @@ http://epg.aptvapp.com/xml
 
 ## 播放工具懒人版
 
-[播放工具懒人版详细版](https://vip.wangdu.site/buy/43)（简单易懂）
+[播放工具懒人版详细版](https://shop.wwkejishe.top/buy/43)（简单易懂）
 
 - 好用的 IPTV 直播源
 - Android、iOS、MacOS、Windows 系统看电视、看电影软件（以下是 Android 失效名单）
@@ -497,7 +497,7 @@ http://epg.aptvapp.com/xml
 
 ### 看电影
 
-1. [全网影视](https://vip.wangdu.site/buy/43)：TVBox修改版带数据源
+1. [全网影视](https://shop.wwkejishe.top/buy/43)：TVBox修改版带数据源
    - 启动后，需要手动激活"仓库"。
    - 激活操作：多仓版本点击【配置】，在出现的窗口中点击"确定"，选择"仓库"；单仓版本直接点击【线路】或【主页】
    - 关于直播：在进入【直播】后，按菜单键，选择右边的【直播地址】，则会出现多个接口的切换选择。
@@ -506,7 +506,7 @@ http://epg.aptvapp.com/xml
 
 ## IPTV直播源播放工具（自带源）
 
-[更多自带直播源的APP，无需配置直播源，下载即可使用](./IPTV-自带源-替代电视家直播的APP.md)（[VIP版](https://vip.wangdu.site/buy/43)）
+[更多自带直播源的APP，无需配置直播源，下载即可使用](./IPTV-自带源-替代电视家直播的APP.md)（[VIP版](https://shop.wwkejishe.top/buy/43)）
 
 | 软件名称                   | 支持系统                            | 央视频道 | 卫视频道 | 地方频道 | 港澳台频道 | 海外地区 | 体育频道 |
 | -------------------------- | ----------------------------------- | -------- | -------- | -------- | ---------- | -------- | -------- |
@@ -550,23 +550,23 @@ http://epg.aptvapp.com/xml
 
 ### 魄狼TV
 
-[魄狼TV_1.0.1](https://vip.wangdu.site/buy/43) 作为一款专为智能电视设计的视频直播软件，提供了中央频道、地方卫视、网络频道等多种选择，让用户能够自由选择观看内容，而且所有内容均免费提供观看，让用户体验最极致的电视观看体验，快来下载体验吧。
+[魄狼TV_1.0.1](https://shop.wwkejishe.top/buy/43) 作为一款专为智能电视设计的视频直播软件，提供了中央频道、地方卫视、网络频道等多种选择，让用户能够自由选择观看内容，而且所有内容均免费提供观看，让用户体验最极致的电视观看体验，快来下载体验吧。
 
 主要有央视、卫视、地方台、新闻、动漫、教育、国际等分类频道。
 
 ### 直播大全电视app
 
-[直播大全电视app](https://vip.wangdu.site/buy/43) 是一款可以看电视直播的影音播放类软件，这款软件不仅可以看央视、卫视，还可以看地方台，都是直播，点击就能看，无需等待，同时软件内还没有广告，让用户在这里享受极致的电视体验，这款软件不仅可以在手机上使用，还可以在电视上使用哦。
+[直播大全电视app](https://shop.wwkejishe.top/buy/43) 是一款可以看电视直播的影音播放类软件，这款软件不仅可以看央视、卫视，还可以看地方台，都是直播，点击就能看，无需等待，同时软件内还没有广告，让用户在这里享受极致的电视体验，这款软件不仅可以在手机上使用，还可以在电视上使用哦。
 
 ### 我们的电视
 
-[我们的电视](https://vip.wangdu.site/buy/43)：电视直播软件，安装即可使用，高清，超清，蓝光，完全免费，您再也不用费劲巴力的找各种不稳定的直播源了。更有节目单回看强大功能秒杀市面上各类XXXPTV（回看功能需要赞赏才能使用）
+[我们的电视](https://shop.wwkejishe.top/buy/43)：电视直播软件，安装即可使用，高清，超清，蓝光，完全免费，您再也不用费劲巴力的找各种不稳定的直播源了。更有节目单回看强大功能秒杀市面上各类XXXPTV（回看功能需要赞赏才能使用）
 
 ![我们的电视](https://cdn.wwkejishe.top/wp-cdn-02/2024/20241217102213385.webp)
 
 ### HTV
 
-[HTV](https://vip.wangdu.site/buy/43)（版本号：1.1.1）：A live media player app（电视直播软件）兼容 Android 4.4 和 IPv4，可播放 rtp 等各种源。
+[HTV](https://shop.wwkejishe.top/buy/43)（版本号：1.1.1）：A live media player app（电视直播软件）兼容 Android 4.4 和 IPv4，可播放 rtp 等各种源。
 
 - 支持 Android 较低的版本，如 Android 4.4 等
 - 网络环境 IPv4 或 IPv6 均可
@@ -575,7 +575,7 @@ http://epg.aptvapp.com/xml
 
 ### SimpleTV
 
-[SimpleTV](https://vip.wangdu.site/buy/43)（版本号：1.0.8）：观看电视直播软件，打开即看，直播源定期维护更新
+[SimpleTV](https://shop.wwkejishe.top/buy/43)（版本号：1.0.8）：观看电视直播软件，打开即看，直播源定期维护更新
 
 1. 观看电视直播，支持央视和地方台。 操作简单，打开即看，方便中老年人使用，让电视回归本质。
 2. 部分频道目前仅支持 IPV6 网络，IPV4 网络无法播放。
@@ -586,27 +586,27 @@ http://epg.aptvapp.com/xml
 
 ### my-tv-apk
 
-[my-tv-apk](https://vip.wangdu.site/buy/43) 在原来的 mytv 修复了一些问题的新版本，请卸载原来的 mytv 再使用此版本。
+[my-tv-apk](https://shop.wwkejishe.top/buy/43) 在原来的 mytv 修复了一些问题的新版本，请卸载原来的 mytv 再使用此版本。
 
 ### 我的电视 my-tv 修改版
 
-[我的电视 my-tv 2.1.8-19 (电视直播) 修改版](https://vip.wangdu.site/buy/43) 是一款免费无广告的智能电视及机顶盒电视直播软件APP，我的tv电视版同步央视卫视高清直播和地方卫视频道。我的电视tv电视版支持直播时移/直播预约/回看功能,高清/超清直播源切换。
+[我的电视 my-tv 2.1.8-19 (电视直播) 修改版](https://shop.wwkejishe.top/buy/43) 是一款免费无广告的智能电视及机顶盒电视直播软件APP，我的tv电视版同步央视卫视高清直播和地方卫视频道。我的电视tv电视版支持直播时移/直播预约/回看功能,高清/超清直播源切换。
 
 我的电视 my-tv 是一款安卓电视直播软件，内置直播源。频道不多，只有央视、卫视，国际频道只有央视所有的CGTN，没有广告和购物台，可以放心给父母或孩子观看。
 
 ### 8KIPTV直播
 
-[8KIPTV直播](https://vip.wangdu.site/buy/43)是一款4K、8K的解码测试壳，已经内置了央视的4K和8K播放线路，可以直接选择线路播放，还支持自备测试源链接，也就是你有好用的源，可以直接用这个播放。
+[8KIPTV直播](https://shop.wwkejishe.top/buy/43)是一款4K、8K的解码测试壳，已经内置了央视的4K和8K播放线路，可以直接选择线路播放，还支持自备测试源链接，也就是你有好用的源，可以直接用这个播放。
 
 ### 电视家
 
-[电视家](https://vip.wangdu.site/buy/43)app(电视家TV版)是一款智能电视及机顶盒电视直播软件，拥有大量稳定的高清频道，数字频道，经典电影专栏等。电视家电视版2024，支持直播时移，直播回看预约，高清/超清直播源切换，可以自建频道自定义分享码.
+[电视家](https://shop.wwkejishe.top/buy/43)app(电视家TV版)是一款智能电视及机顶盒电视直播软件，拥有大量稳定的高清频道，数字频道，经典电影专栏等。电视家电视版2024，支持直播时移，直播回看预约，高清/超清直播源切换，可以自建频道自定义分享码.
 
 ![电视家](https://b2.wwkejishe.top/WP-CDN-02/2024/202407071031868.webp)
 
 ### 极悦直播
 
-[极悦直播](https://vip.wangdu.site/buy/43)可免费畅享央视、卫视和地方台，还有精彩影视作品。拥有2000+频道！无论是综艺、体育、热门影视等，应有尽有，您想看的都可以在这里找到！播放流畅稳定，超清影院级画质，给您带来非凡观看体验！
+[极悦直播](https://shop.wwkejishe.top/buy/43)可免费畅享央视、卫视和地方台，还有精彩影视作品。拥有2000+频道！无论是综艺、体育、热门影视等，应有尽有，您想看的都可以在这里找到！播放流畅稳定，超清影院级画质，给您带来非凡观看体验！
 
 ![极悦直播](https://b2.wwkejishe.top/WP-CDN-02/2024/202407071032643.webp)
 
@@ -654,7 +654,7 @@ http://epg.aptvapp.com/xml
 
 ### WebView 电视
 
-[WebView 电视](https://vip.wangdu.site/buy/43)是一款使用 WebView 开发的电视直播App，内置了多线路官方源，软件的原理是通过加载官方的直播网页（CCTV、央视频官网），并通过自动找到video标签，软件加载成功后会自动全屏。
+[WebView 电视](https://shop.wwkejishe.top/buy/43)是一款使用 WebView 开发的电视直播App，内置了多线路官方源，软件的原理是通过加载官方的直播网页（CCTV、央视频官网），并通过自动找到video标签，软件加载成功后会自动全屏。
 
 ![WebView 电视](https://cdn.wwkejishe.top/wp-cdn-02/2024/202410171400971.webp)
 
@@ -1175,7 +1175,7 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 
 ## TVBox系列客户端
 
-[下载地址](https://www.wangdu.site/software/av-read/339.html)（[VIP版：软件+点播源](https://vip.wangdu.site/buy/43)）
+[下载地址](https://www.wangdu.site/software/av-read/339.html)（[VIP版：软件+点播源](https://shop.wwkejishe.top/buy/43)）
 
 | 软件名称           | 支持系统                         |
 | ------------------ | -------------------------------- |
@@ -1617,13 +1617,17 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ## 更新日志
 
+### 2025年12月19日
+
+- 博主自维护直播源 更新 央视、卫视、粤语频道
+
 ### 2025年11月21日
 
 - IPTV自带直播源软件 新增 [飞扬直播TV电视盒子](https://www.wangdu.site/software/dianshihezi/2287.html)
 
 ### 2025年11月6日
 
-- [博主自维护直播源](https://vip.wangdu.site/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 粤语频道
+- 博主自维护直播源 更新 粤语频道
 - 云电视_2.2.7 已失效
 
 ### 2025年11月3日
@@ -1632,39 +1636,39 @@ metv直播是一款功能强大的视频播放软件，提供了丰富的分类�
 
 ### 2025年10月31日
 
-- [博主自维护直播源](https://vip.wangdu.site/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 广东频道
+- [博主自维护直播源](https://shop.wwkejishe.top/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 广东频道
 
 ### 2025年10月30日
 
-- [博主自维护直播源](https://vip.wangdu.site/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 企鹅体育频道
+- [博主自维护直播源](https://shop.wwkejishe.top/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 企鹅体育频道
 
 ### 2025年10月24日
 
-- [博主自维护直播源](https://vip.wangdu.site/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 五星体育频道
+- [博主自维护直播源](https://shop.wwkejishe.top/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 五星体育频道
 
 ### 2025年10月23日
 
-- [博主自维护直播源](https://vip.wangdu.site/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 央视频道、卫视频道
+- [博主自维护直播源](https://shop.wwkejishe.top/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 央视频道、卫视频道
 
 ### 2025年10月21日
 
-- [博主自维护在线文档](https://vip.wangdu.site/buy/43)（[备用地址](https://vip.wangdu.site/buy/43)） 更新 TvBox自带点播源、直播源软件：秋水TV低配版
+- [博主自维护在线文档](https://shop.wwkejishe.top/buy/43)（[备用地址](https://shop.wwkejishe.top/buy/43)） 更新 TvBox自带点播源、直播源软件：秋水TV低配版
 
 ### 2025年10月20日
 
-- [博主自维护直播源](https://vip.wangdu.site/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 IPTV自带直播源软件
+- [博主自维护直播源](https://shop.wwkejishe.top/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 IPTV自带直播源软件
 
 ### 2025年10月19日
 
-- [博主自维护直播源](https://vip.wangdu.site/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 国外体育直播源
+- [博主自维护直播源](https://shop.wwkejishe.top/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 国外体育直播源
 
 ### 2025年10月18日
 
-- [博主自维护直播源](https://vip.wangdu.site/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 五星体育
+- [博主自维护直播源](https://shop.wwkejishe.top/buy/18)（[备用地址](https://fk.wwkjs.top/buy/18)） 更新 五星体育
 
 ### 2025年10月17日
 
-- （[VIP版在线文档](https://vip.wangdu.site/buy/43)（[备用地址](https://fk.wwkjs.top/buy/43)）） 新增 涛涛TV电视版、蜂巢直播
+- （[VIP版在线文档](https://shop.wwkejishe.top/buy/43)（[备用地址](https://fk.wwkjs.top/buy/43)）） 新增 涛涛TV电视版、蜂巢直播
 
 ### 2025年10月6日
 
