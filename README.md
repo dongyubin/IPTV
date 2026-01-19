@@ -102,7 +102,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 ### 国内频道 m3u 套餐详情（主国内频道）
 
 - 支持软件：APTV、酷9、televizo、iplaytv、kodi、iptv pro、potplayer、vlc、影视仓、tv box
-- 自建维护的 m3u 源，提供 1080P 高清画质。秒换台，流畅不断流，支持 IPV4/IPV6
+- m3u 源，提供 1080P 高清画质。秒换台，流畅不断流，支持 IPV4/IPV6
 - 每日更新频率达 2 次
 - **限制**：24 小时内超 4 个 IP，频繁切换网络地址使用，会被封禁
 
