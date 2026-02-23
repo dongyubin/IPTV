@@ -4,7 +4,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2026年2月7日** 
+**更新日期：2026年2月23日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -73,7 +73,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 | 常用频道类目                    | 试用版（2 小时，创建即激活）                                 | 季卡（90天）                                                 | 年卡（365天）                                                |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 价格                            | [3元](https://shop.wwkejishe.top/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [90元](https://shop.wwkejishe.top/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [300元](https://shop.wwkejishe.top/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
+| 价格                            | [3元](https://shop.wwkejishe.top/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [99元](https://shop.wwkejishe.top/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [300元](https://shop.wwkejishe.top/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
 | 央视、卫视                      | ✅                                                            | ✅                                                            | ✅                                                            |
 | 港澳台                          | ✅                                                            | ✅                                                            | ✅                                                            |
 | 国内体育                        | ✅                                                            | ✅                                                            | ✅                                                            |
@@ -96,7 +96,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 | 体育频道类目                    | 季卡：90天（三合一）                                         | 年卡：365天（三合一）                                        |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 价格                            | [150元](https://shop.wwkejishe.top/buy/38)（[备用地址](https://fk.wwkjs.top/buy/38)） | [360元](https://shop.wwkejishe.top/buy/39)（[备用地址](https://fk.wwkjs.top/buy/39)） |
+| 价格                            | [150元](https://shop.wwkejishe.top/buy/38)（[备用地址](https://fk.wwkjs.top/buy/38)） | [380元](https://shop.wwkejishe.top/buy/39)（[备用地址](https://fk.wwkjs.top/buy/39)） |
 | 爱奇艺爱体育会员+爱足球套餐赛事 | ✅                                                            | ✅                                                            |
 | 咪咕体育VIP会员+足球套餐赛事    | ✅                                                            | ✅                                                            |
 | 腾讯体育会员赛事（含NBA，F1）   | ✅                                                            | ✅                                                            |
