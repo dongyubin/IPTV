@@ -318,7 +318,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 >
 > 如果不知如何选择，看着带👍的直接使用即可。
 
-[获取地址](https://www.wangdu.site/software/av-read/339.html)（[VIP版](https://shop.wwkejishe.top/buy/43)）
+[获取地址](https://www.wangdu.site/software/av-read/339.html)
 
 ## 自搭建IPTV直播源
 
