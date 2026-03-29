@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2026年3月20日** 
+**更新日期：2026年3月29日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -285,6 +285,26 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 五星体育是上海广播电视台旗下的地面电视频道，是中国大陆地区唯一获得wrc官方授权的电视媒体。它是上海文广新闻传媒集团体育产业的营运商和体育节目、体育内容的提供商，成立于2001年10月8日。此外，五星体育也是SMG旗下的第一个专业频道，已经实现每日24小时电视播出，并推广到多个中国及全球的电视平台和新媒体。
 
 [下载地址](https://www.wangdu.site/software/av-read/339.html)（[稳定直播源](https://shop.wwkejishe.top/buy/34)）
+
+#### 收看五星体育频道F1比赛直播
+
+需要浏览器装有 [Tampermonkey](https://tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/) 插件, 点击下方表格中安装，即可安装脚本.
+
+| 正式版 (GitHub 源)                                           |
+| ------------------------------------------------------------ |
+| [安装](https://g.geeck.eu.org/https://raw.githubusercontent.com/Popukok/smg_live/refs/heads/main/smg_fivestar.user.js) |
+
+安完脚本后[点击打开看看新闻](https://live.kankanews.com/huikan)，点击对应的频道即可观看节目
+
+![五星体育频道F1比赛直播](https://cdn.wwkejishe.top/wp-cdn-02/2026/20260329134527303.webp)
+
+**例如收看五星体育频道F1比赛直播，可以跳过以下图片提示**
+
+![版权受限](https://p.statickksmg.com/cont/2023/10/08/image_1696731269_qOxBpp34.jpg )
+
+**兼容性**：兼容, 但在较旧的浏览器中 Violentmonkey 可能无法运行此脚本. 支持**最新版** Chrome, Firefox, 不保证脚本能在 Safari 和 "套壳类浏览器" 中完美运行.
+
+来源：[smg_live](https://github.com/Popukok/smg_live)
 
 ### 五大联赛
 
