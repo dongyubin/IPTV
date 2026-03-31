@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2026年3月29日** 
+**更新日期：2026年3月31日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -72,7 +72,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 | 常用频道类目                    | 试用版（2 小时，创建即激活）                                 | 季卡（90天）                                                 | 年卡（365天）                                                |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 价格                            | [3元](https://shop.wwkejishe.top/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [99元](https://shop.wwkejishe.top/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [330元](https://shop.wwkejishe.top/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
+| 价格                            | [3元](https://shop.wwkejishe.top/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [110元](https://shop.wwkejishe.top/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [330元](https://shop.wwkejishe.top/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
 | 央视、卫视                      | ✅                                                            | ✅                                                            | ✅                                                            |
 | 港澳台                          | ✅                                                            | ✅                                                            | ✅                                                            |
 | 国内体育                        | ✅                                                            | ✅                                                            | ✅                                                            |
