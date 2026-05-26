@@ -127,6 +127,8 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 ## 2026年国际足联世界杯查看攻略
 
+[2026年国际足联世界杯直播查看完整攻略](./IPTV-2026-世界杯中文解说完整攻略.md)
+
 > 2026年国际足联世界杯（英语：2026 FIFA World Cup Canada/Mexico/United States、法语：Coupe du monde de la FIFA de 2026 Canada/Mexique/États-Unis、西班牙语：Copa mundial de la FIFA Canadá/México/Estados Unidos 2026）为第23届国际足联世界杯赛事，由国际足联主办，定于2026年6月11日至7月19日举行，由美国、墨西哥和加拿大三国联合举办。赛事将在三个国家的16座城市间展开，是世界杯历史上首次由三个国家联合举办。
 
 2026 美加墨世界杯 **6 月 11 日开赛**，海外华人想看 **中文解说**， 央视的 CCTV5 / CCTV5+ / 央视频与咪咕视频都做了 IP 地域限制。 
