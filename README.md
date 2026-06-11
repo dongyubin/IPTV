@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2026年6月10日** 
+**更新日期：2026年6月11日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -99,10 +99,6 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 价格         | [30元](https://shop.wwkejishe.top/buy/46)（[备用地址](https://fk.wwkjs.top/buy/46)） | [150元](https://shop.wwkejishe.top/buy/47)（[备用地址](https://fk.wwkjs.top/buy/47)） | [280元](https://shop.wwkejishe.top/buy/48)（[备用地址](https://fk.wwkjs.top/buy/48)） |
 | 央视、卫视   | ✅                                                            | ✅                                                            | ✅                                                            |
-| 粤语频道     | ✅                                                            | ✅                                                            | ✅                                                            |
-| 广东体育     | ✅                                                            | ✅                                                            | ✅                                                            |
-| 五星体育     | ✅                                                            | ✅                                                            | ✅                                                            |
-| 咪咕体育     | ✅                                                            | ✅                                                            | ✅                                                            |
 
 >⚠️温馨提示：
 >
@@ -113,116 +109,6 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 ## 2026年国际足联世界杯查看攻略
 
 [2026年国际足联世界杯直播查看完整攻略](./IPTV-2026-世界杯中文解说完整攻略.md)
-
-> 2026年国际足联世界杯（英语：2026 FIFA World Cup Canada/Mexico/United States、法语：Coupe du monde de la FIFA de 2026 Canada/Mexique/États-Unis、西班牙语：Copa mundial de la FIFA Canadá/México/Estados Unidos 2026）为第23届国际足联世界杯赛事，由国际足联主办，定于2026年6月11日至7月19日举行，由美国、墨西哥和加拿大三国联合举办。赛事将在三个国家的16座城市间展开，是世界杯历史上首次由三个国家联合举办。
-
-2026 美加墨世界杯 **6 月 11 日开赛**，海外华人想看 **中文解说**， 央视的 CCTV5 / CCTV5+ / 央视频与咪咕视频都做了 IP 地域限制。 
-
-### 海外能看中文解说的 3 个渠道
-
-切换到国内 IP 之后，下面这三个渠道是海外华人最常用的中文解说入口：
-
-| 渠道                                                         | 覆盖场次            | 画质上限      | 付费要求                   | 移动端 App         | 电视投屏            |
-| :----------------------------------------------------------- | :------------------ | :------------ | :------------------------- | :----------------- | :------------------ |
-| [央视频](https://www.yangshipin.cn/)（CCTV 官方）推荐        | 主要场次直播 + 回放 | 1080P         | 免费 / 部分需会员          | iOS / Android      | 支持 AirPlay / DLNA |
-| [CCTV5](https://tv.cctv.com/live/cctv5/) / [CCTV5+](https://tv.cctv.com/live/cctv5plus/) 网页 | 电视频道实时同步    | 720P          | 免费                       | —（需浏览器）      | 电脑 HDMI 转电视    |
-| **咪咕视频**（中国移动）**4K 选项**                          | 全部场次（含独家）  | 4K HDR（VIP） | 部分需会员（咪咕视频 VIP） | iOS / Android / TV | 原生 TV 端          |
-
-#### 对绝大多数海外华人来说
-
-**央视频（手机/iPad）+ CCTV5 网页（电脑/投电视）** 这个组合零额外付费就能覆盖 90% 场次。如果对 4K HDR 高画质有要求或想看独家场次，再考虑咪咕视频 VIP（国内月费约 ¥18）。
-
-### 4 种解锁方法对比与推荐
-
-按操作难度从低到高，海外解锁 CCTV / 咪咕有 4 种主流方法。先看总表，再展开每种方法的具体操作与推荐产品：
-
-| 方法                                                         | 难度       | 赛事一个月成本 | 稳定性 | 4K 画质    | 多设备 | 适合谁                      |
-| :----------------------------------------------------------- | :--------- | :------------- | :----- | :--------- | :----- | :-------------------------- |
-| **方法 1：商业加速器**（[Malus](https://getmalus.com/buy?affid=A328464971F) / [快帆](https://af.kuaifan.club/scripts/chm1f4?a_aid=68381ef23e3a7&a_bid=b9bf8033)） | ⭐ 一键回国 | ¥36–45         | ★★★★   | ✅ 部分线路 | 3–5 台 | 大多数海外华人（推荐）      |
-| 方法 2：回国线路机场 + Clash                                 | ⭐⭐⭐        | ¥10–40         | ★★★    | 视机场     | 不限   | 已经用 Clash 翻墙出国的用户 |
-| 方法 3：自建 CN2 GIA 节点                                    | ⭐⭐⭐⭐⭐      | 分摊 ¥30–80    | ★★★★★  | ✅          | 不限   | 技术党、家庭路由器全屋方案  |
-| 方法 4：英语转播替代                                         | ⭐ 免费     | ¥0             | ★★★★★  | —          | 不限   | 能接受英语解说的用户        |
-
->⚠️ 实战提示
->
->- **开赛前 1 周开通**，留出时间测试节点与画质，避免开幕式才发现网络不匹配
->- **优先选择"影音专线 / 直播专线"节点**，普通节点在比赛高峰时段可能拥挤
->- **电视投屏**：iOS 端用 AirPlay 投到 Apple TV / 国行小米/华为电视，加速器流量会随之转发
->- 如果是 **家庭全屋观赛**（多设备同时看），方法 1 的设备数上限可能不够，建议看方法 3（自建）
-
-### FIFAUHD-Docker
-
->FIFAUHD-Docker 震撼发布，在2026年美加墨开播两天前，Telegram IPTV总部率先发布观看FIFA 104场4K直播的高清赛事Docker，直播源质量极高，为4K HLG 38Mbps HEVC 50FPS，这个量级你对比一下Netflix的15M码率25FPS就知道了，全网领先首发，大家随意分享全网，希望更多远方朋友加入IPTV总部结缘，具体使用说明均在md文档，观看流畅致死，为了防止风控，首播没有缓存加载很慢，耐心等待几十秒就会产生缓存，然后流畅致死，国内服务器或者家庭软路由、NAS均可部署，不要部署至国外服务器，会看不了，或者巨卡，国内体验远非任意垃圾推流源可比，根本不是一个档次，Docker实现全自动化运行，不用自己操心，缺点就是每次长时间不看要初始化几十秒，这是有必要的，为了避免风控。
-
-FIFAUHD Docker使用说明
-
-- [国内服务器](https://www.wangdu.site/bestvps)
-- 家庭软路由
-- NAS
-
-镜像
-
-- iptvtop/uhdiptv:latest
-
-支持架构：
-
-- linux/amd64
-- linux/arm/v7
-- linux/arm64
-
-容器内部端口：8766
-
-建议对外端口：38766
-
-Docker 启动
-
-```sh
-docker run -d --name uhdiptv --restart=always -p 38766:8766 iptvtop/uhdiptv:latest
-```
-
-如果本机已有旧容器，先执行：
-
-```sh
-docker rm -f uhdiptv 2>/dev/null; docker run -d --pull always --name uhdiptv --restart=always -p 38766:8766 iptvtop/uhdiptv:latest
-```
-
-Docker Compose
-
-```yaml
-version: '3.8'
-
-services:
-  uhdiptv:
-    image: iptvtop/uhdiptv:latest
-    container_name: uhdiptv
-    restart: always
-    ports:
-      - "38766:8766"
-```
-
-启动：`docker compose up -d`
-
-更新：`docker compose pull && docker compose up -d --force-recreate`
-
-频道路由
-
-- http://SERVER_IP:38766/cctv5.m3u8
-- http://SERVER_IP:38766/cctv16.m3u8
-- http://SERVER_IP:38766/cctv164k.m3u8
-- http://SERVER_IP:38766/cctv4k.m3u8
-- http://SERVER_IP:38766/cctv8k.m3u8
-
-说明：/cctv16.m3u8 是 /cctv164k.m3u8 的别名
-
-- 聚合播放列表：http://SERVER_IP:38766/4kfifa.m3u
-
-- 带 prefix：http://SERVER_IP:38766/4kfifa.m3u?prefix=https://your.domain
-
-- 频道单独带 prefix：http://SERVER_IP:38766/cctv4k.m3u8?prefix=https://your.domainprefix 
-
-- 用于让返回内容中的 TS 代理地址改为指定域名，例如：https://your.domain/proxy?ts=xxxxTS 
-- 代理路由/proxy?ts=xxxx/proxy.ts?=xxxx
-- 通常播放器不需要手动访问该路由，它会出现在返回的 m3u8 内容中。控制接口查看状态：http://SERVER_IP:38766/status?token=iptvofficalgroup
 
 ## IPTV、APTV 直播源 m3u
 
