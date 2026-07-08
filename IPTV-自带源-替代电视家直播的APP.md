@@ -6,7 +6,7 @@
 
 ## 空壳播放器+直播源
 
-所谓“空壳播放器”，顾名思义就是播放器本身不包含资源，需要用户自行添加内容。在这里阿斌给大家分享几款比较好用的“空壳播放器”，使用播放器搭配 [可用的直播源](https://www.yuque.com/chengxuxiaohei/wwkjg/iibwzdgmezvdksf0?singleDoc) 就可以观看电视节目了。
+所谓“空壳播放器”，顾名思义就是播放器本身不包含资源，需要用户自行添加内容。在这里阿斌给大家分享几款比较好用的“空壳播放器”，使用播放器搭配 [可用的直播源](https://docs.qq.com/doc/DVnRrb3JhSGFVT3NR) 就可以观看电视节目了。
 
 空壳播放器获取地址：[超全中国+台港澳+海外IPTV、APTV、TVBox直播源和TV观看工具](https://www.wangdu.site/software/av-read/339.html)
 
