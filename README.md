@@ -236,6 +236,8 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 - [央视网](https://tv.cctv.com/live/)：CCTV-1 综合、CCTV-2 财经、CCTV-3 综艺、CCTV-4 中文国际、CCTV-4 中文国际美洲、CCTV-4 中文国际欧洲、CCTV-5 体育、CCTV-5+ 体育赛事、CCTV-6 电影、CCTV-7 国防军事、CCTV-8 电视剧、CCTV-9 纪录、CCTV-10 科教、CCTV-11 戏曲、CCTV-12 社会与法、CCTV-13 新闻、CCTV-14 少儿、CCTV-15 音乐、CCTV-17 农业农村
 
+- [Free IPTV Player](https://freeiptvplayer.net/)（网页播放器，支持加载 M3U 地址或上传 M3U 文件，可直接在浏览器中测试并观看 HLS 直播）
+
 - [央视频](https://www.yangshipin.cn/tv/home)：CCTV1-CCTV17、CGTN
 
 ### Global Free TV
