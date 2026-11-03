@@ -2,7 +2,7 @@
 
 ![IPTV直播源&工具](https://b2.wwkejishe.top/WP-CDN-02/uPic/2022091029.webp)
 
-**更新日期：2026年10月11日** 
+**更新日期：2026年11月3日** 
 
 更新内容：请查看[更新日志](#更新日志)
 
@@ -61,18 +61,18 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 👉 [点击查看各稳定IPTV直播源套餐详情](https://docs.qq.com/doc/DVnRrb3JhSGFVT3NR)（[备用地址](https://app.notion.com/p/wwkjs/IPTV-380bbe97ed4580959c77c842e5b75111?source=copy_link)、[备用地址2](https://share.note.youdao.com/s/DOoxI0We)）（其他套餐，请看左侧文档，介绍更全面）
 
-### 300+频道稳定套餐详情
+### 400+频道稳定套餐详情
 
-- 常用频道：汇聚了 300 多个优质频道，涵盖国内外新闻时事、影视娱乐、体育赛事、纪录片、少儿教育等各类精彩内容，满足全家不同的观影需求。
+- 常用频道：汇聚了 400 多个优质频道，涵盖国内外新闻时事、影视娱乐、体育赛事、纪录片、少儿教育等各类精彩内容，满足全家不同的观影需求。
 - 注意：每个订阅账户仅限 `1` 个设备数播放，`不能同时超过 2 个设备打开播放`，请勿随意分享，否则可能被系统自动封禁。
 - **不支持切换套餐，请看准后下单购买。**
 - 支持 `APTV`（Apple TV） 、Televizo、Tivimate（有 Xtream Codes 协议的软件）
 - 3 条对于不同运营商的优化线路
 - **XSTREAM CODES 登录**，非 m3u 订阅地址（m3u 订阅地址可看下面 `国内频道 m3u 套餐`）
 
-| 常用频道类目                    | 试用版（2 小时，创建即激活）                                 | 季卡（90天）                                                 | 年卡（365天）                                                |
+| 常用频道类目                    | 试用版（1天）                                                | 季卡（90天）                                                 | 年卡（365天+赠送180）                                        |
 | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 价格                            | [3元](https://shop.wwkejishe.top/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [110元](https://shop.wwkejishe.top/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [330元](https://shop.wwkejishe.top/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
+| 价格                            | [5元](https://shop.wwkejishe.top/buy/33)（[备用地址](https://fk.wwkjs.top/buy/33)） | [140元](https://shop.wwkejishe.top/buy/34)（[备用地址](https://fk.wwkjs.top/buy/34)） | [400元](https://shop.wwkejishe.top/buy/35)（[备用地址](https://fk.wwkjs.top/buy/35)） |
 | 央视、卫视                      | ✅                                                            | ✅                                                            | ✅                                                            |
 | 港澳台                          | ✅                                                            | ✅                                                            | ✅                                                            |
 | 国内体育                        | ✅                                                            | ✅                                                            | ✅                                                            |
@@ -90,7 +90,8 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 ### 国内频道 m3u 套餐详情（主国内频道）
 
 - m3u 订阅地址
-- 支持软件：APTV、酷9、televizo、iplaytv、kodi、iptv pro、potplayer、vlc、影视仓、tv box
+- 支持软件：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)（iOS、iPad、Apple TV）、iplaytv、iptv pro、vlc、影视仓、tv box
+- Android：[OK影视](https://pan.quark.cn/s/2ff0e4cdad84)、[酷9](https://pan.quark.cn/s/39559f1df389)、[televizo](https://pan.quark.cn/s/ef37fe1d7d07)、[kodi](https://pan.quark.cn/s/b0b9b629a5a5)
 - m3u 源，提供 1080P 高清画质。秒换台，流畅不断流，支持 IPV4/IPV6
 - 每日更新频率达 2 次
 - **限制**：24 小时内超 4 个 IP，频繁切换网络地址使用，会被封禁
