@@ -61,7 +61,7 @@ CCTV-1综合,http://121.24.98.226:8090/hls/9/index.m3u8
 
 👉 [点击查看各稳定IPTV直播源套餐详情](https://docs.qq.com/doc/DVnRrb3JhSGFVT3NR)（[备用地址](https://app.notion.com/p/wwkjs/IPTV-380bbe97ed4580959c77c842e5b75111?source=copy_link)、[备用地址2](https://share.note.youdao.com/s/DOoxI0We)）（其他套餐，请看左侧文档，介绍更全面）
 
-➡️体育套餐重新上线，有需要的可以查看上面文档，查看详情
+➡️**体育套餐**重新上线，有需要的可以查看上面文档，查看详情
 
 ### 400+频道稳定套餐详情
 
